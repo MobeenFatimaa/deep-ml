@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-09-16T10:36:20.580Z",
+  "items": {
+    "problem:549": {
+      "kind": "problem",
+      "id": "549",
+      "title": "Off-Policy n-Step TD Prediction with Importance Sampling",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/549",
+      "path": "problems/0549-off-policy-n-step-td-prediction-with-importance-sampling",
+      "first_solved_at": "2026-09-12T07:12:00.187Z",
+      "last_pushed_at": "2026-09-12T07:12:00.187Z",
+      "language": "python",
+      "lines": 36
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-09-12T07:16:31.831Z",
+      "last_pushed_at": "2026-09-12T07:16:31.831Z"
+    }
+  }
+}
