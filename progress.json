@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:36:20.580Z",
+  "generated_at": "2026-09-16T10:36:22.504Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -24,6 +24,52 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-12T07:16:31.831Z",
       "last_pushed_at": "2026-09-12T07:16:31.831Z"
+    },
+    "math:5": {
+      "kind": "math",
+      "id": "5",
+      "title": "Gradient Descent Updates",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/5",
+      "path": "math/0005-gradient-descent-updates",
+      "first_solved_at": "2026-09-13T06:22:40.160Z",
+      "last_pushed_at": "2026-09-13T06:22:40.160Z"
+    },
+    "math:32": {
+      "kind": "math",
+      "id": "32",
+      "title": "Softmax and Cross-Entropy",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/32",
+      "path": "math/0032-softmax-and-cross-entropy",
+      "first_solved_at": "2026-09-13T06:25:06.785Z",
+      "last_pushed_at": "2026-09-13T06:25:06.785Z"
+    },
+    "math:38": {
+      "kind": "math",
+      "id": "38",
+      "title": "Log-Likelihood Gradients",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/38",
+      "path": "math/0038-log-likelihood-gradients",
+      "first_solved_at": "2026-09-13T06:30:02.414Z",
+      "last_pushed_at": "2026-09-13T06:30:02.414Z"
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-09-13T06:31:22.744Z",
+      "last_pushed_at": "2026-09-13T06:31:22.744Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
