@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:36:22.504Z",
+  "generated_at": "2026-09-16T10:36:24.101Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -70,6 +70,97 @@
       "last_pushed_at": "2026-09-13T06:31:22.744Z",
       "language": "python",
       "lines": 5
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-09-14T08:57:24.489Z",
+      "last_pushed_at": "2026-09-14T08:57:24.489Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-09-14T08:57:57.840Z",
+      "last_pushed_at": "2026-09-14T08:57:57.840Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-09-14T08:58:49.299Z",
+      "last_pushed_at": "2026-09-14T08:58:49.299Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:39": {
+      "kind": "problem",
+      "id": "39",
+      "title": "Implementation of Log Softmax Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/39",
+      "path": "problems/0039-implementation-of-log-softmax-function",
+      "first_solved_at": "2026-09-14T09:00:07.477Z",
+      "last_pushed_at": "2026-09-14T09:00:07.477Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:134": {
+      "kind": "problem",
+      "id": "134",
+      "title": "Compute Multi-class Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/134",
+      "path": "problems/0134-compute-multi-class-cross-entropy-loss",
+      "first_solved_at": "2026-09-14T09:01:34.350Z",
+      "last_pushed_at": "2026-09-14T09:01:34.350Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:217": {
+      "kind": "problem",
+      "id": "217",
+      "title": "Derivatives of Activation Functions",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/217",
+      "path": "problems/0217-derivatives-of-activation-functions",
+      "first_solved_at": "2026-09-14T09:03:08.074Z",
+      "last_pushed_at": "2026-09-14T09:03:08.074Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:219": {
+      "kind": "problem",
+      "id": "219",
+      "title": "Derivative of Softmax",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/219",
+      "path": "problems/0219-derivative-of-softmax",
+      "first_solved_at": "2026-09-14T09:04:16.500Z",
+      "last_pushed_at": "2026-09-14T09:04:16.500Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
