@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:36:24.101Z",
+  "generated_at": "2026-09-16T10:36:25.823Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -161,6 +161,110 @@
       "last_pushed_at": "2026-09-14T09:04:16.500Z",
       "language": "python",
       "lines": 23
+    },
+    "lab:9": {
+      "kind": "lab",
+      "id": "9",
+      "title": "Design Your Own Activation Function",
+      "difficulty": "easy",
+      "category": "Activation Functions",
+      "url": "https://www.deep-ml.com/labs/9",
+      "path": "labs/0009-design-your-own-activation-function",
+      "first_solved_at": "2026-09-15T07:10:54.543Z",
+      "last_pushed_at": "2026-09-15T07:10:54.543Z",
+      "language": "python",
+      "lines": 9
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-09-15T07:12:24.363Z",
+      "last_pushed_at": "2026-09-15T07:12:24.363Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:881": {
+      "kind": "problem",
+      "id": "881",
+      "title": "Reshape and Transpose a Tensor",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/881",
+      "path": "problems/0881-reshape-and-transpose-a-tensor",
+      "first_solved_at": "2026-09-15T07:13:21.811Z",
+      "last_pushed_at": "2026-09-15T07:13:21.811Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:882": {
+      "kind": "problem",
+      "id": "882",
+      "title": "Add a Bias Vector to a Batch via Broadcasting",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/882",
+      "path": "problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting",
+      "first_solved_at": "2026-09-15T07:14:14.210Z",
+      "last_pushed_at": "2026-09-15T07:14:14.210Z",
+      "language": "python",
+      "lines": 14
+    },
+    "problem:883": {
+      "kind": "problem",
+      "id": "883",
+      "title": "Implement a Linear Layer Forward Pass with Matrix Multiplication",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/883",
+      "path": "problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication",
+      "first_solved_at": "2026-09-15T07:23:39.282Z",
+      "last_pushed_at": "2026-09-15T07:23:39.282Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:884": {
+      "kind": "problem",
+      "id": "884",
+      "title": "Compute a Gradient with PyTorch Autograd",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/884",
+      "path": "problems/0884-compute-a-gradient-with-pytorch-autograd",
+      "first_solved_at": "2026-09-15T07:24:23.077Z",
+      "last_pushed_at": "2026-09-15T07:24:23.077Z",
+      "language": "python",
+      "lines": 23
+    },
+    "problem:1224": {
+      "kind": "problem",
+      "id": "1224",
+      "title": "Single Linear Neuron Forward",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1224",
+      "path": "problems/1224-single-linear-neuron-forward",
+      "first_solved_at": "2026-09-15T07:25:03.927Z",
+      "last_pushed_at": "2026-09-15T07:25:03.927Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:1225": {
+      "kind": "problem",
+      "id": "1225",
+      "title": "Two-Layer MLP Forward Pass",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1225",
+      "path": "problems/1225-two-layer-mlp-forward-pass",
+      "first_solved_at": "2026-09-15T07:26:35.732Z",
+      "last_pushed_at": "2026-09-15T07:26:35.732Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
