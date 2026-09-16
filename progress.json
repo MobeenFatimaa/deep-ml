@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:36:27.704Z",
+  "generated_at": "2026-09-16T10:36:29.358Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -23,7 +23,7 @@
       "url": "https://www.deep-ml.com/math-problems/1",
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-12T07:16:31.831Z",
-      "last_pushed_at": "2026-09-12T07:16:31.831Z"
+      "last_pushed_at": "2026-09-16T10:36:29.356Z"
     },
     "math:5": {
       "kind": "math",
@@ -34,7 +34,7 @@
       "url": "https://www.deep-ml.com/math-problems/5",
       "path": "math/0005-gradient-descent-updates",
       "first_solved_at": "2026-09-13T06:22:40.160Z",
-      "last_pushed_at": "2026-09-13T06:22:40.160Z"
+      "last_pushed_at": "2026-09-16T10:36:29.356Z"
     },
     "math:32": {
       "kind": "math",
@@ -45,7 +45,7 @@
       "url": "https://www.deep-ml.com/math-problems/32",
       "path": "math/0032-softmax-and-cross-entropy",
       "first_solved_at": "2026-09-13T06:25:06.785Z",
-      "last_pushed_at": "2026-09-13T06:25:06.785Z"
+      "last_pushed_at": "2026-09-16T10:36:29.356Z"
     },
     "math:38": {
       "kind": "math",
@@ -56,7 +56,7 @@
       "url": "https://www.deep-ml.com/math-problems/38",
       "path": "math/0038-log-likelihood-gradients",
       "first_solved_at": "2026-09-13T06:30:02.414Z",
-      "last_pushed_at": "2026-09-13T06:30:02.414Z"
+      "last_pushed_at": "2026-09-16T10:36:29.356Z"
     },
     "problem:22": {
       "kind": "problem",
@@ -327,7 +327,7 @@
       "url": "https://www.deep-ml.com/math-problems/3",
       "path": "math/0003-neural-network-derivatives",
       "first_solved_at": "2026-09-16T10:30:46.143Z",
-      "last_pushed_at": "2026-09-16T10:30:46.143Z"
+      "last_pushed_at": "2026-09-16T10:36:29.356Z"
     },
     "math:4": {
       "kind": "math",
@@ -338,7 +338,7 @@
       "url": "https://www.deep-ml.com/math-problems/4",
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-09-16T10:34:40.638Z",
-      "last_pushed_at": "2026-09-16T10:34:40.638Z"
+      "last_pushed_at": "2026-09-16T10:36:29.356Z"
     }
   }
 }
