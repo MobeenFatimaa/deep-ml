@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T10:36:25.823Z",
+  "generated_at": "2026-09-16T10:36:27.704Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -265,6 +265,80 @@
       "last_pushed_at": "2026-09-15T07:26:35.732Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:1226": {
+      "kind": "problem",
+      "id": "1226",
+      "title": "Implement ReLU and Leaky ReLU",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1226",
+      "path": "problems/1226-implement-relu-and-leaky-relu",
+      "first_solved_at": "2026-09-16T10:23:35.374Z",
+      "last_pushed_at": "2026-09-16T10:23:35.374Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:1227": {
+      "kind": "problem",
+      "id": "1227",
+      "title": "Numerically Stable Softmax",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1227",
+      "path": "problems/1227-numerically-stable-softmax",
+      "first_solved_at": "2026-09-16T10:24:10.597Z",
+      "last_pushed_at": "2026-09-16T10:24:10.597Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:1228": {
+      "kind": "problem",
+      "id": "1228",
+      "title": "Mean Squared Error from Scratch",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1228",
+      "path": "problems/1228-mean-squared-error-from-scratch",
+      "first_solved_at": "2026-09-16T10:26:59.161Z",
+      "last_pushed_at": "2026-09-16T10:26:59.161Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:1229": {
+      "kind": "problem",
+      "id": "1229",
+      "title": "Binary Cross-Entropy from Logits",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1229",
+      "path": "problems/1229-binary-cross-entropy-from-logits",
+      "first_solved_at": "2026-09-16T10:29:21.815Z",
+      "last_pushed_at": "2026-09-16T10:29:21.815Z",
+      "language": "python",
+      "lines": 19
+    },
+    "math:3": {
+      "kind": "math",
+      "id": "3",
+      "title": "Neural Network Derivatives",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/3",
+      "path": "math/0003-neural-network-derivatives",
+      "first_solved_at": "2026-09-16T10:30:46.143Z",
+      "last_pushed_at": "2026-09-16T10:30:46.143Z"
+    },
+    "math:4": {
+      "kind": "math",
+      "id": "4",
+      "title": "Backpropagation and the Chain Rule",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/4",
+      "path": "math/0004-backpropagation-and-the-chain-rule",
+      "first_solved_at": "2026-09-16T10:34:40.638Z",
+      "last_pushed_at": "2026-09-16T10:34:40.638Z"
     }
   }
 }
