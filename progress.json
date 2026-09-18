@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T06:21:24.183Z",
+  "generated_at": "2026-09-18T06:22:33.602Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -415,6 +415,19 @@
       "last_pushed_at": "2026-09-18T06:21:21.380Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:220": {
+      "kind": "problem",
+      "id": "220",
+      "title": "Derivative of Cross-Entropy Loss w.r.t. Logits",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/220",
+      "path": "problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits",
+      "first_solved_at": "2026-09-18T06:22:32.445Z",
+      "last_pushed_at": "2026-09-18T06:22:32.445Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
