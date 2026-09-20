@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**39** solved · 31 problems · 1 labs · 7 math
+**40** solved · 31 problems · 2 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -49,6 +49,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Design Your Own Activation Function](https://www.deep-ml.com/labs/9) | easy | 2026-09-15 | [solution](labs/0009-design-your-own-activation-function) |
+| [Train a Binary Classifier](https://www.deep-ml.com/labs/23) | easy | 2026-09-20 | [solution](labs/0023-train-a-binary-classifier) |
 
 ## Math
 
