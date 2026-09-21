@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**40** solved · 31 problems · 2 labs · 7 math
+**41** solved · 32 problems · 2 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -34,6 +34,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-14 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-09-16 | [solution](problems/1229-binary-cross-entropy-from-logits) |
+| [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-18 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-14 | [solution](problems/0219-derivative-of-softmax) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-09-18 | [solution](problems/0026-implementing-basic-autograd-operations) |
