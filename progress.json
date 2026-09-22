@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T06:33:38.881Z",
+  "generated_at": "2026-09-22T06:40:18.889Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -543,6 +543,19 @@
       "path": "math/0045-uniform-quantization-scale-and-zero-point",
       "first_solved_at": "2026-09-22T06:33:38.250Z",
       "last_pushed_at": "2026-09-22T06:33:38.250Z"
+    },
+    "problem:294": {
+      "kind": "problem",
+      "id": "294",
+      "title": "Implement INT8 Quantization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/294",
+      "path": "problems/0294-implement-int8-quantization",
+      "first_solved_at": "2026-09-22T06:40:17.968Z",
+      "last_pushed_at": "2026-09-22T06:40:17.968Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
