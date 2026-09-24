@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:44:33.465Z",
+  "generated_at": "2026-09-24T06:45:14.230Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -673,6 +673,19 @@
       "last_pushed_at": "2026-09-24T06:44:34.142Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:1085": {
+      "kind": "problem",
+      "id": "1085",
+      "title": "Best Meeting Point on a 2D Grid",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1085",
+      "path": "problems/1085-best-meeting-point-on-a-2d-grid",
+      "first_solved_at": "2026-09-24T06:45:14.746Z",
+      "last_pushed_at": "2026-09-24T06:45:14.746Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
