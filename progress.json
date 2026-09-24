@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:41:49.822Z",
+  "generated_at": "2026-09-24T06:42:34.424Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -634,6 +634,19 @@
       "last_pushed_at": "2026-09-24T06:41:50.222Z",
       "language": "python",
       "lines": 30
+    },
+    "problem:632": {
+      "kind": "problem",
+      "id": "632",
+      "title": "Alpha-Beta Pruning Implementation",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/632",
+      "path": "problems/0632-alpha-beta-pruning-implementation",
+      "first_solved_at": "2026-09-24T06:42:31.817Z",
+      "last_pushed_at": "2026-09-24T06:42:31.817Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }
