@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:45:14.230Z",
+  "generated_at": "2026-09-24T06:46:10.553Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -686,6 +686,19 @@
       "last_pushed_at": "2026-09-24T06:45:14.746Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:1087": {
+      "kind": "problem",
+      "id": "1087",
+      "title": "Detect a Cycle in a Linked List and a Graph",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1087",
+      "path": "problems/1087-detect-a-cycle-in-a-linked-list-and-a-graph",
+      "first_solved_at": "2026-09-24T06:46:11.177Z",
+      "last_pushed_at": "2026-09-24T06:46:11.177Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
