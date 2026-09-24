@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T06:40:46.422Z",
+  "generated_at": "2026-09-24T06:41:49.822Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -621,6 +621,19 @@
       "last_pushed_at": "2026-09-24T06:40:46.705Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:1142": {
+      "kind": "problem",
+      "id": "1142",
+      "title": "Robot Simulation on an Infinite Grid with Obstacles",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1142",
+      "path": "problems/1142-robot-simulation-on-an-infinite-grid-with-obstacles",
+      "first_solved_at": "2026-09-24T06:41:50.222Z",
+      "last_pushed_at": "2026-09-24T06:41:50.222Z",
+      "language": "python",
+      "lines": 30
     }
   }
 }
