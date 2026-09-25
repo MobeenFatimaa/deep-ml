@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**56** solved · 46 problems · 2 labs · 8 math
+**57** solved · 47 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-09-15 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-09-18 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-09-19 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
+| [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-09-25 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-09-15 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-14 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-15 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
