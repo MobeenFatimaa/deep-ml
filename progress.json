@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:01:21.449Z",
+  "generated_at": "2026-09-26T11:02:24.290Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -829,6 +829,19 @@
       "last_pushed_at": "2026-09-26T11:01:19.309Z",
       "language": "python",
       "lines": 54
+    },
+    "problem:1089": {
+      "kind": "problem",
+      "id": "1089",
+      "title": "Efficiently Find Duplicates in a Large Dataset",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1089",
+      "path": "problems/1089-efficiently-find-duplicates-in-a-large-dataset",
+      "first_solved_at": "2026-09-26T11:02:23.739Z",
+      "last_pushed_at": "2026-09-26T11:02:23.739Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
