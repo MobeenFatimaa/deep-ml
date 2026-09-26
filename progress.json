@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T11:02:24.290Z",
+  "generated_at": "2026-09-26T11:03:14.869Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -842,6 +842,19 @@
       "last_pushed_at": "2026-09-26T11:02:23.739Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:1090": {
+      "kind": "problem",
+      "id": "1090",
+      "title": "Tree and Graph Coding Drills",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1090",
+      "path": "problems/1090-tree-and-graph-coding-drills",
+      "first_solved_at": "2026-09-26T11:03:14.117Z",
+      "last_pushed_at": "2026-09-26T11:03:14.117Z",
+      "language": "python",
+      "lines": 93
     }
   }
 }
