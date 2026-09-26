@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**61** solved · 51 problems · 2 labs · 8 math
+**62** solved · 52 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-18 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-14 | [solution](problems/0219-derivative-of-softmax) |
 | [Detect a Cycle in a Linked List and a Graph](https://www.deep-ml.com/problems/1087) | medium | 2026-09-24 | [solution](problems/1087-detect-a-cycle-in-a-linked-list-and-a-graph) |
+| [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-09-26 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Hash Function for Tile Coding](https://www.deep-ml.com/problems/644) | medium | 2026-09-24 | [solution](problems/0644-hash-function-for-tile-coding) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-09-22 | [solution](problems/0294-implement-int8-quantization) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-09-18 | [solution](problems/0026-implementing-basic-autograd-operations) |
