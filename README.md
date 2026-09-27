@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**70** solved · 60 problems · 2 labs · 8 math
+**71** solved · 61 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -53,6 +53,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-09-26 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Hash Function for Tile Coding](https://www.deep-ml.com/problems/644) | medium | 2026-09-24 | [solution](problems/0644-hash-function-for-tile-coding) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-09-22 | [solution](problems/0294-implement-int8-quantization) |
+| [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-09-27 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-09-18 | [solution](problems/0026-implementing-basic-autograd-operations) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-27 | [solution](problems/0017-k-means-clustering) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-25 | [solution](problems/0009-matrix-times-matrix) |
