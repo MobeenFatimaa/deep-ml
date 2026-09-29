@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:44:54.195Z",
+  "generated_at": "2026-09-29T06:46:00.641Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1089,6 +1089,19 @@
       "last_pushed_at": "2026-09-29T06:44:54.833Z",
       "language": "python",
       "lines": 69
+    },
+    "problem:111": {
+      "kind": "problem",
+      "id": "111",
+      "title": "Compute Pointwise Mutual Information",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/111",
+      "path": "problems/0111-compute-pointwise-mutual-information",
+      "first_solved_at": "2026-09-29T06:46:01.234Z",
+      "last_pushed_at": "2026-09-29T06:46:01.234Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
