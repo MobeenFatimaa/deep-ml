@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:33:28.933Z",
+  "generated_at": "2026-09-29T06:36:42.178Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1063,6 +1063,19 @@
       "last_pushed_at": "2026-09-29T06:33:29.471Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:88": {
+      "kind": "problem",
+      "id": "88",
+      "title": "GPT-2 Text Generation",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/88",
+      "path": "problems/0088-gpt-2-text-generation",
+      "first_solved_at": "2026-09-29T06:36:42.340Z",
+      "last_pushed_at": "2026-09-29T06:36:42.340Z",
+      "language": "python",
+      "lines": 145
     }
   }
 }
