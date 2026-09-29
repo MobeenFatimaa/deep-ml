@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:30:58.846Z",
+  "generated_at": "2026-09-29T06:32:41.852Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1037,6 +1037,19 @@
       "last_pushed_at": "2026-09-29T06:30:58.870Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:51": {
+      "kind": "problem",
+      "id": "51",
+      "title": "Optimal String Alignment Distance",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/51",
+      "path": "problems/0051-optimal-string-alignment-distance",
+      "first_solved_at": "2026-09-29T06:32:42.416Z",
+      "last_pushed_at": "2026-09-29T06:32:42.416Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
