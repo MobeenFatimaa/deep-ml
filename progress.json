@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:46:00.641Z",
+  "generated_at": "2026-09-29T06:47:00.347Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1102,6 +1102,19 @@
       "last_pushed_at": "2026-09-29T06:46:01.234Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:129": {
+      "kind": "problem",
+      "id": "129",
+      "title": "Calculate Unigram Probability from Corpus",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/129",
+      "path": "problems/0129-calculate-unigram-probability-from-corpus",
+      "first_solved_at": "2026-09-29T06:47:01.015Z",
+      "last_pushed_at": "2026-09-29T06:47:01.015Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
