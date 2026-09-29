@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:47:56.713Z",
+  "generated_at": "2026-09-29T06:50:57.228Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1128,6 +1128,19 @@
       "last_pushed_at": "2026-09-29T06:47:56.968Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:496": {
+      "kind": "problem",
+      "id": "496",
+      "title": "Beam Search with Memory-Efficient Block Sharing",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/496",
+      "path": "problems/0496-beam-search-with-memory-efficient-block-sharing",
+      "first_solved_at": "2026-09-29T06:50:57.902Z",
+      "last_pushed_at": "2026-09-29T06:50:57.902Z",
+      "language": "python",
+      "lines": 179
     }
   }
 }
