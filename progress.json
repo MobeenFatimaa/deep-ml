@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:52:05.617Z",
+  "generated_at": "2026-09-29T06:53:40.162Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1154,6 +1154,19 @@
       "last_pushed_at": "2026-09-29T06:52:06.210Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:766": {
+      "kind": "problem",
+      "id": "766",
+      "title": "MinHash for Near-Duplicate Document Detection",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/766",
+      "path": "problems/0766-minhash-for-near-duplicate-document-detection",
+      "first_solved_at": "2026-09-29T06:53:40.616Z",
+      "last_pushed_at": "2026-09-29T06:53:40.616Z",
+      "language": "python",
+      "lines": 91
     }
   }
 }
