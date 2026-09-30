@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:03:19.108Z",
+  "generated_at": "2026-09-30T08:04:00.820Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1193,6 +1193,19 @@
       "last_pushed_at": "2026-09-30T08:03:18.787Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:747": {
+      "kind": "problem",
+      "id": "747",
+      "title": "Token-Granular Write-Ahead Log for Generation Resume",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/747",
+      "path": "problems/0747-token-granular-write-ahead-log-for-generation-resume",
+      "first_solved_at": "2026-09-30T08:04:00.687Z",
+      "last_pushed_at": "2026-09-30T08:04:00.687Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
