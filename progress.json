@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:02:09.964Z",
+  "generated_at": "2026-09-30T08:03:19.108Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1180,6 +1180,19 @@
       "last_pushed_at": "2026-09-30T08:02:09.767Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:746": {
+      "kind": "problem",
+      "id": "746",
+      "title": "Lazy Teacher Logit Reconstruction from Cached Hidden States",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/746",
+      "path": "problems/0746-lazy-teacher-logit-reconstruction-from-cached-hidden-states",
+      "first_solved_at": "2026-09-30T08:03:18.787Z",
+      "last_pushed_at": "2026-09-30T08:03:18.787Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
