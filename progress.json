@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:05:27.772Z",
+  "generated_at": "2026-09-30T08:06:11.084Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1232,6 +1232,19 @@
       "last_pushed_at": "2026-09-30T08:05:27.731Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:977": {
+      "kind": "problem",
+      "id": "977",
+      "title": "PUCT Selection Rule for MCTS",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/977",
+      "path": "problems/0977-puct-selection-rule-for-mcts",
+      "first_solved_at": "2026-09-30T08:06:10.971Z",
+      "last_pushed_at": "2026-09-30T08:06:10.971Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }

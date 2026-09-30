@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**96** solved · 86 problems · 2 labs · 8 math
+**97** solved · 87 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-09-16 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-09-26 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Mode-Dependent Context Window Evaluation](https://www.deep-ml.com/problems/762) | easy | 2026-09-30 | [solution](problems/0762-mode-dependent-context-window-evaluation) |
+| [PUCT Selection Rule for MCTS](https://www.deep-ml.com/problems/977) | easy | 2026-09-30 | [solution](problems/0977-puct-selection-rule-for-mcts) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-09-27 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-09-15 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-13 | [solution](problems/0022-sigmoid-activation-function-understanding) |
