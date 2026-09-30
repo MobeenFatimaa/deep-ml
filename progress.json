@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T06:53:40.162Z",
+  "generated_at": "2026-09-30T08:02:09.964Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1167,6 +1167,19 @@
       "last_pushed_at": "2026-09-29T06:53:40.616Z",
       "language": "python",
       "lines": 91
+    },
+    "problem:741": {
+      "kind": "problem",
+      "id": "741",
+      "title": "Knapsack-Based ZeRO Bucket Assignment",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/741",
+      "path": "problems/0741-knapsack-based-zero-bucket-assignment",
+      "first_solved_at": "2026-09-30T08:02:09.767Z",
+      "last_pushed_at": "2026-09-30T08:02:09.767Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
