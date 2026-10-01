@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:44:51.133Z",
+  "generated_at": "2026-10-01T06:45:38.894Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1271,6 +1271,19 @@
       "last_pushed_at": "2026-10-01T06:44:50.378Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:981": {
+      "kind": "problem",
+      "id": "981",
+      "title": "Go Move Resolution with Captures",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/981",
+      "path": "problems/0981-go-move-resolution-with-captures",
+      "first_solved_at": "2026-10-01T06:45:37.941Z",
+      "last_pushed_at": "2026-10-01T06:45:37.941Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }
