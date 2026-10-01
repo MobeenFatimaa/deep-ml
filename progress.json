@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:45:38.894Z",
+  "generated_at": "2026-10-01T06:46:32.742Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1284,6 +1284,19 @@
       "last_pushed_at": "2026-10-01T06:45:37.941Z",
       "language": "python",
       "lines": 64
+    },
+    "problem:982": {
+      "kind": "problem",
+      "id": "982",
+      "title": "Tromp-Taylor Go Score",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/982",
+      "path": "problems/0982-tromp-taylor-go-score",
+      "first_solved_at": "2026-10-01T06:46:32.017Z",
+      "last_pushed_at": "2026-10-01T06:46:32.017Z",
+      "language": "python",
+      "lines": 61
     }
   }
 }
