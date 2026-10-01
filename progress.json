@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:44:10.516Z",
+  "generated_at": "2026-10-01T06:44:51.133Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1258,6 +1258,19 @@
       "last_pushed_at": "2026-10-01T06:44:09.562Z",
       "language": "python",
       "lines": 112
+    },
+    "problem:979": {
+      "kind": "problem",
+      "id": "979",
+      "title": "Build AlphaZero Training Targets from Self-Play",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/979",
+      "path": "problems/0979-build-alphazero-training-targets-from-self-play",
+      "first_solved_at": "2026-10-01T06:44:50.378Z",
+      "last_pushed_at": "2026-10-01T06:44:50.378Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
