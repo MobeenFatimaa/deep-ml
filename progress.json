@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:47:43.166Z",
+  "generated_at": "2026-10-01T06:49:32.367Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1310,6 +1310,19 @@
       "last_pushed_at": "2026-10-01T06:47:41.430Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:187": {
+      "kind": "problem",
+      "id": "187",
+      "title": "Build a Simple ETL Pipeline (MLOps)",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/187",
+      "path": "problems/0187-build-a-simple-etl-pipeline-mlops",
+      "first_solved_at": "2026-10-01T06:49:31.507Z",
+      "last_pushed_at": "2026-10-01T06:49:31.507Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
