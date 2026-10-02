@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T08:50:29.395Z",
+  "generated_at": "2026-10-02T08:53:50.067Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1349,6 +1349,19 @@
       "last_pushed_at": "2026-10-02T08:50:29.052Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:299": {
+      "kind": "problem",
+      "id": "299",
+      "title": "Implement Tick Bars Sampling",
+      "difficulty": "medium",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/299",
+      "path": "problems/0299-implement-tick-bars-sampling",
+      "first_solved_at": "2026-10-02T08:53:49.897Z",
+      "last_pushed_at": "2026-10-02T08:53:49.897Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
