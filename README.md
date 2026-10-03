@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**109** solved · 99 problems · 2 labs · 8 math
+**110** solved · 100 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -75,6 +75,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-26 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-09-26 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Hash Function for Tile Coding](https://www.deep-ml.com/problems/644) | medium | 2026-09-24 | [solution](problems/0644-hash-function-for-tile-coding) |
+| [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-03 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement INT8 Quantization](https://www.deep-ml.com/problems/294) | medium | 2026-09-22 | [solution](problems/0294-implement-int8-quantization) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-09-27 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-09-29 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
