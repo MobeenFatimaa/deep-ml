@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**116** solved · 106 problems · 2 labs · 8 math
+**117** solved · 107 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -45,6 +45,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-09-19 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-09-19 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-09-16 | [solution](problems/1228-mean-squared-error-from-scratch) |
+| [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-10-04 | [solution](problems/0108-measure-disorder-in-apple-colors) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-09-26 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Mode-Dependent Context Window Evaluation](https://www.deep-ml.com/problems/762) | easy | 2026-09-30 | [solution](problems/0762-mode-dependent-context-window-evaluation) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
