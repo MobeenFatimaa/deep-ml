@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**117** solved · 107 problems · 2 labs · 8 math
+**118** solved · 108 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-09-19 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-10-03 | [solution](problems/0036-calculate-accuracy-score) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-09-25 | [solution](problems/0010-calculate-covariance-matrix) |
+| [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-10-04 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Model Inference Statistics for Monitoring](https://www.deep-ml.com/problems/248) | easy | 2026-10-01 | [solution](problems/0248-calculate-model-inference-statistics-for-monitoring) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-09-29 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-09-29 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
