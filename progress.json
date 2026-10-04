@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T13:59:44.710Z",
+  "generated_at": "2026-10-04T14:00:40.754Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1466,6 +1466,19 @@
       "last_pushed_at": "2026-10-04T13:59:43.840Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:61": {
+      "kind": "problem",
+      "id": "61",
+      "title": "Implement F-Score Calculation for Binary Classification",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/61",
+      "path": "problems/0061-implement-f-score-calculation-for-binary-classification",
+      "first_solved_at": "2026-10-04T14:00:40.136Z",
+      "last_pushed_at": "2026-10-04T14:00:40.136Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
