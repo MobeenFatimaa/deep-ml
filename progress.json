@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T08:07:38.303Z",
+  "generated_at": "2026-10-05T08:09:05.015Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1661,6 +1661,19 @@
       "last_pushed_at": "2026-10-05T08:07:37.794Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:101": {
+      "kind": "problem",
+      "id": "101",
+      "title": "Implement the GRPO Objective Function",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/101",
+      "path": "problems/0101-implement-the-grpo-objective-function",
+      "first_solved_at": "2026-10-05T08:09:04.588Z",
+      "last_pushed_at": "2026-10-05T08:09:04.588Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
