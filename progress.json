@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T07:15:17.605Z",
+  "generated_at": "2026-10-05T07:18:03.345Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1583,6 +1583,19 @@
       "last_pushed_at": "2026-10-05T07:15:17.154Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2026-10-05T07:18:02.782Z",
+      "last_pushed_at": "2026-10-05T07:18:02.782Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }
