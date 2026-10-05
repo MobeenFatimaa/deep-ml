@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**127** solved · 117 problems · 2 labs · 8 math
+**128** solved · 118 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -115,6 +115,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-01 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-17 | [solution](problems/0025-single-neuron-with-backpropagation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-09-25 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
+| [The Pattern Weaver's Code](https://www.deep-ml.com/problems/89) | medium | 2026-10-05 | [solution](problems/0089-the-pattern-weaver-s-code) |
 | [Token-Granular Write-Ahead Log for Generation Resume](https://www.deep-ml.com/problems/747) | medium | 2026-09-30 | [solution](problems/0747-token-granular-write-ahead-log-for-generation-resume) |
 | [Tree and Graph Coding Drills](https://www.deep-ml.com/problems/1090) | medium | 2026-09-26 | [solution](problems/1090-tree-and-graph-coding-drills) |
 | [Tromp-Taylor Go Score](https://www.deep-ml.com/problems/982) | medium | 2026-10-01 | [solution](problems/0982-tromp-taylor-go-score) |
