@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**130** solved · 120 problems · 2 labs · 8 math
+**131** solved · 121 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -107,6 +107,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2026-09-29 | [solution](problems/0051-optimal-string-alignment-distance) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-09-26 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Post-Training Quantization with Per-Channel Scale Factors](https://www.deep-ml.com/problems/426) | medium | 2026-09-23 | [solution](problems/0426-post-training-quantization-with-per-channel-scale-factors) |
+| [Power Users With Purchases in Every Month of the Year](https://www.deep-ml.com/problems/1462) | medium | 2026-10-06 | [solution](problems/1462-power-users-with-purchases-in-every-month-of-the-year) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-27 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Quantization Scale Calibration (AbsMax and Percentile)](https://www.deep-ml.com/problems/1255) | medium | 2026-09-23 | [solution](problems/1255-quantization-scale-calibration-absmax-and-percentile) |
 | [Reshape Data with pivot_table and melt](https://www.deep-ml.com/problems/1132) | medium | 2026-09-28 | [solution](problems/1132-reshape-data-with-pivot-table-and-melt) |
