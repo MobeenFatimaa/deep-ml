@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:41:49.258Z",
+  "generated_at": "2026-10-08T10:42:41.423Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1843,6 +1843,19 @@
       "last_pushed_at": "2026-10-08T10:41:47.875Z",
       "language": "python",
       "lines": 69
+    },
+    "problem:252": {
+      "kind": "problem",
+      "id": "252",
+      "title": "Data Quality Scoring for ML Pipelines",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/252",
+      "path": "problems/0252-data-quality-scoring-for-ml-pipelines",
+      "first_solved_at": "2026-10-08T10:42:39.952Z",
+      "last_pushed_at": "2026-10-08T10:42:39.952Z",
+      "language": "python",
+      "lines": 85
     }
   }
 }

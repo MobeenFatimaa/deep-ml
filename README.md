@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**143** solved · 133 problems · 2 labs · 8 math
+**144** solved · 134 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -79,6 +79,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-09-29 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Critical Path Method for Scheduling](https://www.deep-ml.com/problems/637) | medium | 2026-09-24 | [solution](problems/0637-critical-path-method-for-scheduling) |
 | [Cumulative Percentage of Scores by Bucket Within Each Grade](https://www.deep-ml.com/problems/1463) | medium | 2026-09-29 | [solution](problems/1463-cumulative-percentage-of-scores-by-bucket-within-each-grade) |
+| [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-10-08 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-18 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-14 | [solution](problems/0219-derivative-of-softmax) |
 | [Detect a Cycle in a Linked List and a Graph](https://www.deep-ml.com/problems/1087) | medium | 2026-09-24 | [solution](problems/1087-detect-a-cycle-in-a-linked-list-and-a-graph) |
