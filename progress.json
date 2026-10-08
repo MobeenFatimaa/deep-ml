@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:40:36.540Z",
+  "generated_at": "2026-10-08T10:41:49.258Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1830,6 +1830,19 @@
       "last_pushed_at": "2026-10-08T10:40:35.124Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:251": {
+      "kind": "problem",
+      "id": "251",
+      "title": "Analyze Canary Deployment Health for Model Rollout",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/251",
+      "path": "problems/0251-analyze-canary-deployment-health-for-model-rollout",
+      "first_solved_at": "2026-10-08T10:41:47.875Z",
+      "last_pushed_at": "2026-10-08T10:41:47.875Z",
+      "language": "python",
+      "lines": 69
     }
   }
 }
