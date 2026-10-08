@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**146** solved · 136 problems · 2 labs · 8 math
+**147** solved · 137 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -100,6 +100,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-03 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Implement Prediction Distribution Monitoring](https://www.deep-ml.com/problems/295) | medium | 2026-10-08 | [solution](problems/0295-implement-prediction-distribution-monitoring) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-10-05 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
+| [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-10-08 | [solution](problems/0297-implement-request-batching-for-inference) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-05 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-09-29 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Implement Tick Bars Sampling](https://www.deep-ml.com/problems/299) | medium | 2026-10-02 | [solution](problems/0299-implement-tick-bars-sampling) |
