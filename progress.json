@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T10:47:08.585Z",
+  "generated_at": "2026-10-08T10:47:55.195Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1921,6 +1921,19 @@
       "last_pushed_at": "2026-10-08T10:47:07.289Z",
       "language": "python",
       "lines": 108
+    },
+    "problem:1335": {
+      "kind": "problem",
+      "id": "1335",
+      "title": "Training FLOPs Accountant and Capability Gate",
+      "difficulty": "medium",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/1335",
+      "path": "problems/1335-training-flops-accountant-and-capability-gate",
+      "first_solved_at": "2026-10-08T10:47:52.026Z",
+      "last_pushed_at": "2026-10-08T10:47:52.026Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
