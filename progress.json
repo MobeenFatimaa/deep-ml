@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T03:49:11.272Z",
+  "generated_at": "2026-10-09T03:49:59.045Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -1999,6 +1999,19 @@
       "last_pushed_at": "2026-10-09T03:49:10.390Z",
       "language": "python",
       "lines": 99
+    },
+    "problem:137": {
+      "kind": "problem",
+      "id": "137",
+      "title": "Implement a Dense Block with 2D Convolutions",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/137",
+      "path": "problems/0137-implement-a-dense-block-with-2d-convolutions",
+      "first_solved_at": "2026-10-09T03:49:58.479Z",
+      "last_pushed_at": "2026-10-09T03:49:58.479Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
