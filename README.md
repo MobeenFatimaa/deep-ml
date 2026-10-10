@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**165** solved · 155 problems · 2 labs · 8 math
+**166** solved · 156 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -155,6 +155,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2026-10-09 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2026-10-05 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
 | [Implement a Sparse Mixture of Experts Layer](https://www.deep-ml.com/problems/125) | hard | 2026-10-09 | [solution](problems/0125-implement-a-sparse-mixture-of-experts-layer) |
+| [Implement Core MDN Residualization](https://www.deep-ml.com/problems/358) | hard | 2026-10-10 | [solution](problems/0358-implement-core-mdn-residualization) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-09 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-10-05 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-10-05 | [solution](problems/0101-implement-the-grpo-objective-function) |

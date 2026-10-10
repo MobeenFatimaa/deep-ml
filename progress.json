@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T07:12:29.387Z",
+  "generated_at": "2026-10-10T07:16:51.302Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2129,6 +2129,19 @@
       "last_pushed_at": "2026-10-10T07:12:29.003Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:358": {
+      "kind": "problem",
+      "id": "358",
+      "title": "Implement Core MDN Residualization",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/358",
+      "path": "problems/0358-implement-core-mdn-residualization",
+      "first_solved_at": "2026-10-10T07:16:50.888Z",
+      "last_pushed_at": "2026-10-10T07:16:50.888Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
