@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**169** solved · 159 problems · 2 labs · 8 math
+**170** solved · 160 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -166,6 +166,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Monte Carlo Tree Search with Neural Policy and Value](https://www.deep-ml.com/problems/978) | hard | 2026-10-01 | [solution](problems/0978-monte-carlo-tree-search-with-neural-policy-and-value) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-10-10 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-10-06 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
+| [NoPE (No Positional Embedding) with iRoPE Attention](https://www.deep-ml.com/problems/406) | hard | 2026-10-10 | [solution](problems/0406-nope-no-positional-embedding-with-irope-attention) |
 | [Number Format Precision Comparison (FP16 vs BF16 vs FP8 vs FP4)](https://www.deep-ml.com/problems/428) | hard | 2026-09-23 | [solution](problems/0428-number-format-precision-comparison-fp16-vs-bf16-vs-fp8-vs-fp4) |
 | [Off-Policy n-Step TD Prediction with Importance Sampling](https://www.deep-ml.com/problems/549) | hard | 2026-09-12 | [solution](problems/0549-off-policy-n-step-td-prediction-with-importance-sampling) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-05 | [solution](problems/0085-positional-encoding-calculator) |
