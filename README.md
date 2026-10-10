@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**171** solved · 161 problems · 2 labs · 8 math
+**172** solved · 162 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -146,6 +146,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-10-08 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
 | [Alien Dictionary via Topological Sort](https://www.deep-ml.com/problems/1168) | hard | 2026-10-10 | [solution](problems/1168-alien-dictionary-via-topological-sort) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-09-29 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
+| [Context Parallelism with Ring Attention for Video Models](https://www.deep-ml.com/problems/448) | hard | 2026-10-10 | [solution](problems/0448-context-parallelism-with-ring-attention-for-video-models) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-09-27 | [solution](problems/0020-decision-tree-learning) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-25 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Distributed Mode/Median with Message Passing](https://www.deep-ml.com/problems/1097) | hard | 2026-10-10 | [solution](problems/1097-distributed-mode-median-with-message-passing) |
