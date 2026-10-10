@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**162** solved · 152 problems · 2 labs · 8 math
+**163** solved · 153 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -165,6 +165,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-05 | [solution](problems/0085-positional-encoding-calculator) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2026-10-09 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
+| [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-10-10 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Trust Region Policy Optimization (TRPO)](https://www.deep-ml.com/problems/595) | hard | 2026-10-10 | [solution](problems/0595-trust-region-policy-optimization-trpo) |
 
 ## Labs
