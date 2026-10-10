@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**170** solved · 160 problems · 2 labs · 8 math
+**171** solved · 161 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -150,6 +150,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-25 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Distributed Mode/Median with Message Passing](https://www.deep-ml.com/problems/1097) | hard | 2026-10-10 | [solution](problems/1097-distributed-mode-median-with-message-passing) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-10-09 | [solution](problems/0208-flash-attention-v1-forward-pass) |
+| [FP4 Quantization with Microscaling (MXFP4)](https://www.deep-ml.com/problems/427) | hard | 2026-10-10 | [solution](problems/0427-fp4-quantization-with-microscaling-mxfp4) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-09-29 | [solution](problems/0088-gpt-2-text-generation) |
 | [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-10-09 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2026-10-09 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |
