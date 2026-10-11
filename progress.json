@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T07:21:55.513Z",
+  "generated_at": "2026-10-11T07:22:50.553Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2337,6 +2337,19 @@
       "last_pushed_at": "2026-10-11T07:21:54.677Z",
       "language": "python",
       "lines": 45
+    },
+    "problem:164": {
+      "kind": "problem",
+      "id": "164",
+      "title": "Gambler's Problem: Value Iteration",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/164",
+      "path": "problems/0164-gambler-s-problem-value-iteration",
+      "first_solved_at": "2026-10-11T07:22:49.687Z",
+      "last_pushed_at": "2026-10-11T07:22:49.687Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
