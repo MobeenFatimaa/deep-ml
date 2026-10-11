@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T07:15:19.281Z",
+  "generated_at": "2026-10-11T07:16:12.381Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2272,6 +2272,19 @@
       "last_pushed_at": "2026-10-11T07:15:18.375Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:1165": {
+      "kind": "problem",
+      "id": "1165",
+      "title": "Random Pick with Weight (Prefix Sum + Binary Search)",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1165",
+      "path": "problems/1165-random-pick-with-weight-prefix-sum-binary-search",
+      "first_solved_at": "2026-10-11T07:16:11.548Z",
+      "last_pushed_at": "2026-10-11T07:16:11.548Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
