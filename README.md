@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**175** solved · 165 problems · 2 labs · 8 math
+**176** solved · 166 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -80,6 +80,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Chunked Prefill Scheduling Alongside Decode](https://www.deep-ml.com/problems/441) | medium | 2026-10-08 | [solution](problems/0441-chunked-prefill-scheduling-alongside-decode) |
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-09-28 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-09-29 | [solution](problems/0111-compute-pointwise-mutual-information) |
+| [Compute-Matched Looped MoE Configuration (SMELT)](https://www.deep-ml.com/problems/1394) | medium | 2026-10-11 | [solution](problems/1394-compute-matched-looped-moe-configuration-smelt) |
 | [Critical Path Method for Scheduling](https://www.deep-ml.com/problems/637) | medium | 2026-09-24 | [solution](problems/0637-critical-path-method-for-scheduling) |
 | [Cumulative Percentage of Scores by Bucket Within Each Grade](https://www.deep-ml.com/problems/1463) | medium | 2026-09-29 | [solution](problems/1463-cumulative-percentage-of-scores-by-bucket-within-each-grade) |
 | [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-10-08 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
