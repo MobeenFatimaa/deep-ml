@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**179** solved · 169 problems · 2 labs · 8 math
+**180** solved · 170 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -156,6 +156,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-10-09 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [FP4 Quantization with Microscaling (MXFP4)](https://www.deep-ml.com/problems/427) | hard | 2026-10-10 | [solution](problems/0427-fp4-quantization-with-microscaling-mxfp4) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-09-29 | [solution](problems/0088-gpt-2-text-generation) |
+| [GSPO: Group Sequence Policy Optimization](https://www.deep-ml.com/problems/209) | hard | 2026-10-11 | [solution](problems/0209-gspo-group-sequence-policy-optimization) |
 | [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-10-09 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2026-10-09 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2026-10-05 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
