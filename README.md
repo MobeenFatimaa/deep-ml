@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**188** solved · 178 problems · 2 labs · 8 math
+**189** solved · 179 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -169,6 +169,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-09 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Sigmoid MoE Router with Bias Correction](https://www.deep-ml.com/problems/458) | hard | 2026-10-10 | [solution](problems/0458-implement-sigmoid-moe-router-with-bias-correction) |
 | [Implement Speculative Decoding Verification](https://www.deep-ml.com/problems/394) | hard | 2026-10-10 | [solution](problems/0394-implement-speculative-decoding-verification) |
+| [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-10-12 | [solution](problems/0346-implement-stacking-classifier) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-10-05 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Implement the GRPO Objective Function](https://www.deep-ml.com/problems/101) | hard | 2026-10-05 | [solution](problems/0101-implement-the-grpo-objective-function) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-09-17 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
