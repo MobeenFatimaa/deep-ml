@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T07:12:40.260Z",
+  "generated_at": "2026-10-12T07:39:57.894Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2402,6 +2402,19 @@
       "last_pushed_at": "2026-10-12T07:12:41.464Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:270": {
+      "kind": "problem",
+      "id": "270",
+      "title": "ML Pipeline DAG Scheduler with Critical Path Analysis",
+      "difficulty": "hard",
+      "category": "MLOps",
+      "url": "https://www.deep-ml.com/problems/270",
+      "path": "problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis",
+      "first_solved_at": "2026-10-12T07:39:59.057Z",
+      "last_pushed_at": "2026-10-12T07:39:59.057Z",
+      "language": "python",
+      "lines": 120
     }
   }
 }

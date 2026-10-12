@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**186** solved · 176 problems · 2 labs · 8 math
+**187** solved · 177 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -174,6 +174,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing PagedAttention: Block-wise Attention Computation](https://www.deep-ml.com/problems/492) | hard | 2026-10-10 | [solution](problems/0492-implementing-pagedattention-block-wise-attention-computation) |
 | [MDN with Label Collinearity Control](https://www.deep-ml.com/problems/360) | hard | 2026-10-10 | [solution](problems/0360-mdn-with-label-collinearity-control) |
 | [MinHash for Near-Duplicate Document Detection](https://www.deep-ml.com/problems/766) | hard | 2026-09-29 | [solution](problems/0766-minhash-for-near-duplicate-document-detection) |
+| [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-10-12 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 | [Monte Carlo Tree Search with Neural Policy and Value](https://www.deep-ml.com/problems/978) | hard | 2026-10-01 | [solution](problems/0978-monte-carlo-tree-search-with-neural-policy-and-value) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-10-10 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-10-06 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
