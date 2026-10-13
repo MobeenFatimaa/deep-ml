@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:41:09.700Z",
+  "generated_at": "2026-10-13T06:41:53.295Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2506,6 +2506,19 @@
       "last_pushed_at": "2026-10-13T06:41:08.783Z",
       "language": "python",
       "lines": 63
+    },
+    "problem:470": {
+      "kind": "problem",
+      "id": "470",
+      "title": "First-Visit Monte Carlo Control with Exploring Starts",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/470",
+      "path": "problems/0470-first-visit-monte-carlo-control-with-exploring-starts",
+      "first_solved_at": "2026-10-13T06:41:52.578Z",
+      "last_pushed_at": "2026-10-13T06:41:52.578Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }
