@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**196** solved · 186 problems · 2 labs · 8 math
+**197** solved · 187 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -191,6 +191,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-10-11 | [solution](problems/0122-policy-gradient-with-reinforce) |
 | [Policy Iteration for Markov Decision Processes](https://www.deep-ml.com/problems/467) | hard | 2026-10-13 | [solution](problems/0467-policy-iteration-for-markov-decision-processes) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-05 | [solution](problems/0085-positional-encoding-calculator) |
+| [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-10-13 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-10-12 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-10-11 | [solution](problems/0028-svd-of-a-2x2-matrix) |
