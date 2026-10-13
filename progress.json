@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:46:31.151Z",
+  "generated_at": "2026-10-13T06:47:27.765Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2558,6 +2558,19 @@
       "last_pushed_at": "2026-10-13T06:46:30.551Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:501": {
+      "kind": "problem",
+      "id": "501",
+      "title": "Sequential Video Generation with Diffusion Models",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/501",
+      "path": "problems/0501-sequential-video-generation-with-diffusion-models",
+      "first_solved_at": "2026-10-13T06:47:24.573Z",
+      "last_pushed_at": "2026-10-13T06:47:24.573Z",
+      "language": "python",
+      "lines": 88
     }
   }
 }
