@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**199** solved · 189 problems · 2 labs · 8 math
+**200** solved · 190 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -156,6 +156,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-25 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
 | [Disaggregated Prefill-Decode Serving Simulator](https://www.deep-ml.com/problems/440) | hard | 2026-10-13 | [solution](problems/0440-disaggregated-prefill-decode-serving-simulator) |
 | [Distributed Mode/Median with Message Passing](https://www.deep-ml.com/problems/1097) | hard | 2026-10-10 | [solution](problems/1097-distributed-mode-median-with-message-passing) |
+| [Distributed On-Policy Reinforcement Learning](https://www.deep-ml.com/problems/504) | hard | 2026-10-13 | [solution](problems/0504-distributed-on-policy-reinforcement-learning) |
 | [First-Visit Monte Carlo Control with Exploring Starts](https://www.deep-ml.com/problems/470) | hard | 2026-10-13 | [solution](problems/0470-first-visit-monte-carlo-control-with-exploring-starts) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-10-09 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [FP4 Quantization with Microscaling (MXFP4)](https://www.deep-ml.com/problems/427) | hard | 2026-10-10 | [solution](problems/0427-fp4-quantization-with-microscaling-mxfp4) |
