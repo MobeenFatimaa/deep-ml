@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T06:38:35.975Z",
+  "generated_at": "2026-10-13T06:39:27.214Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2467,6 +2467,19 @@
       "last_pushed_at": "2026-10-13T06:38:35.049Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:500": {
+      "kind": "problem",
+      "id": "500",
+      "title": "Training a Rectified Flow Diffusion Model",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/500",
+      "path": "problems/0500-training-a-rectified-flow-diffusion-model",
+      "first_solved_at": "2026-10-13T06:39:26.530Z",
+      "last_pushed_at": "2026-10-13T06:39:26.530Z",
+      "language": "python",
+      "lines": 68
     }
   }
 }

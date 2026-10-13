@@ -4,7 +4,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 **Completed:** Pandas (7/7)
 
-**191** solved · 181 problems · 2 labs · 8 math
+**192** solved · 182 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -194,6 +194,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2026-10-09 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-10-10 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-10-11 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
+| [Training a Rectified Flow Diffusion Model](https://www.deep-ml.com/problems/500) | hard | 2026-10-13 | [solution](problems/0500-training-a-rectified-flow-diffusion-model) |
 | [Trust Region Policy Optimization (TRPO)](https://www.deep-ml.com/problems/595) | hard | 2026-10-10 | [solution](problems/0595-trust-region-policy-optimization-trpo) |
 
 ## Labs
