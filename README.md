@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**203** solved · 193 problems · 2 labs · 8 math
+**204** solved · 194 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -150,6 +150,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Alien Dictionary via Topological Sort](https://www.deep-ml.com/problems/1168) | hard | 2026-10-10 | [solution](problems/1168-alien-dictionary-via-topological-sort) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-09-29 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-10-10 | [solution](problems/0491-build-a-transformer-encoder-layer) |
+| [Certainty-Equivalence in TD Learning](https://www.deep-ml.com/problems/516) | hard | 2026-10-14 | [solution](problems/0516-certainty-equivalence-in-td-learning) |
 | [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-10-14 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
 | [Context Parallelism with Ring Attention for Video Models](https://www.deep-ml.com/problems/448) | hard | 2026-10-10 | [solution](problems/0448-context-parallelism-with-ring-attention-for-video-models) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-09-27 | [solution](problems/0020-decision-tree-learning) |
