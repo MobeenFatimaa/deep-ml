@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**202** solved · 192 problems · 2 labs · 8 math
+**203** solved · 193 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -171,6 +171,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-10-12 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Core MDN Residualization](https://www.deep-ml.com/problems/358) | hard | 2026-10-10 | [solution](problems/0358-implement-core-mdn-residualization) |
 | [Implement Kernel PCA with RBF Kernel](https://www.deep-ml.com/problems/349) | hard | 2026-10-12 | [solution](problems/0349-implement-kernel-pca-with-rbf-kernel) |
+| [Implement LLE (Locally Linear Embedding)](https://www.deep-ml.com/problems/351) | hard | 2026-10-14 | [solution](problems/0351-implement-lle-locally-linear-embedding) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-09 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Sigmoid MoE Router with Bias Correction](https://www.deep-ml.com/problems/458) | hard | 2026-10-10 | [solution](problems/0458-implement-sigmoid-moe-router-with-bias-correction) |
 | [Implement Speculative Decoding Verification](https://www.deep-ml.com/problems/394) | hard | 2026-10-10 | [solution](problems/0394-implement-speculative-decoding-verification) |
