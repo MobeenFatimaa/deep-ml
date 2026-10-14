@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**210** solved · 200 problems · 2 labs · 8 math
+**211** solved · 201 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -200,6 +200,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-10-14 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
 | [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-10-13 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
 | [Sarsa(lambda) Algorithm with Eligibility Traces](https://www.deep-ml.com/problems/521) | hard | 2026-10-14 | [solution](problems/0521-sarsa-lambda-algorithm-with-eligibility-traces) |
+| [Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation](https://www.deep-ml.com/problems/531) | hard | 2026-10-14 | [solution](problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation) |
 | [Sequential Video Generation with Diffusion Models](https://www.deep-ml.com/problems/501) | hard | 2026-10-13 | [solution](problems/0501-sequential-video-generation-with-diffusion-models) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-10-12 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |

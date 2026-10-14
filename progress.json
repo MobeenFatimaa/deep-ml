@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:58:52.571Z",
+  "generated_at": "2026-10-14T08:59:40.421Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2714,6 +2714,19 @@
       "last_pushed_at": "2026-10-14T08:58:51.825Z",
       "language": "python",
       "lines": 100
+    },
+    "problem:531": {
+      "kind": "problem",
+      "id": "531",
+      "title": "Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/531",
+      "path": "problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation",
+      "first_solved_at": "2026-10-14T08:59:39.929Z",
+      "last_pushed_at": "2026-10-14T08:59:39.929Z",
+      "language": "python",
+      "lines": 53
     }
   }
 }
