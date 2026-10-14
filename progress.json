@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:57:14.392Z",
+  "generated_at": "2026-10-14T08:58:01.429Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2688,6 +2688,19 @@
       "last_pushed_at": "2026-10-14T08:57:14.062Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:524": {
+      "kind": "problem",
+      "id": "524",
+      "title": "Dyna-Q: Model-Based RL with Planning",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/524",
+      "path": "problems/0524-dyna-q-model-based-rl-with-planning",
+      "first_solved_at": "2026-10-14T08:58:01.145Z",
+      "last_pushed_at": "2026-10-14T08:58:01.145Z",
+      "language": "python",
+      "lines": 73
     }
   }
 }
