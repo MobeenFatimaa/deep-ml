@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T08:56:08.202Z",
+  "generated_at": "2026-10-14T08:57:14.392Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2675,6 +2675,19 @@
       "last_pushed_at": "2026-10-14T08:56:07.922Z",
       "language": "python",
       "lines": 78
+    },
+    "problem:522": {
+      "kind": "problem",
+      "id": "522",
+      "title": "Q(lambda) with Eligibility Traces",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/522",
+      "path": "problems/0522-q-lambda-with-eligibility-traces",
+      "first_solved_at": "2026-10-14T08:57:14.062Z",
+      "last_pushed_at": "2026-10-14T08:57:14.062Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }
