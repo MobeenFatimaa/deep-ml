@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**205** solved · 195 problems · 2 labs · 8 math
+**206** solved · 196 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -200,6 +200,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-10-12 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-10-11 | [solution](problems/0028-svd-of-a-2x2-matrix) |
+| [TD(λ) Forward View for Value Prediction](https://www.deep-ml.com/problems/520) | hard | 2026-10-14 | [solution](problems/0520-td-forward-view-for-value-prediction) |
 | [TD(λ) with Eligibility Traces](https://www.deep-ml.com/problems/274) | hard | 2026-10-12 | [solution](problems/0274-td-with-eligibility-traces) |
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2026-10-09 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-10-10 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
