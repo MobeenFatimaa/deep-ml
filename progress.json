@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:31:36.884Z",
+  "generated_at": "2026-10-16T06:32:19.617Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2204,7 +2204,7 @@
       "url": "https://www.deep-ml.com/problems/427",
       "path": "problems/0427-fp4-quantization-with-microscaling-mxfp4",
       "first_solved_at": "2026-10-10T07:26:39.999Z",
-      "last_pushed_at": "2026-10-10T07:26:39.999Z",
+      "last_pushed_at": "2026-10-16T06:32:20.241Z",
       "language": "python",
       "lines": 69
     },
