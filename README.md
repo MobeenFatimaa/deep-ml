@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**221** solved · 210 problems · 3 labs · 8 math
+**222** solved · 211 problems · 3 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tinygrad: Implement Dropout from Scratch](https://www.deep-ml.com/problems/922) | easy | 2026-10-13 | [solution](problems/0922-tinygrad-implement-dropout-from-scratch) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-10-07 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-20 | [solution](problems/0002-transpose-of-a-matrix) |
+| [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-10-16 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Ablation: Pixel vs. Token Input for Latent Action Model](https://www.deep-ml.com/problems/719) | medium | 2026-10-12 | [solution](problems/0719-ablation-pixel-vs-token-input-for-latent-action-model) |
 | [Alpha-Beta Pruning Implementation](https://www.deep-ml.com/problems/632) | medium | 2026-09-24 | [solution](problems/0632-alpha-beta-pruning-implementation) |
 | [Analyze Canary Deployment Health for Model Rollout](https://www.deep-ml.com/problems/251) | medium | 2026-10-08 | [solution](problems/0251-analyze-canary-deployment-health-for-model-rollout) |
