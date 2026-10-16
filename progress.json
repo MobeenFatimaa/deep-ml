@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:41:21.952Z",
+  "generated_at": "2026-10-16T06:42:17.187Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2883,6 +2883,19 @@
       "last_pushed_at": "2026-10-16T06:41:22.548Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:534": {
+      "kind": "problem",
+      "id": "534",
+      "title": "Linear Sarsa Algorithm",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/534",
+      "path": "problems/0534-linear-sarsa-algorithm",
+      "first_solved_at": "2026-10-16T06:42:17.598Z",
+      "last_pushed_at": "2026-10-16T06:42:17.598Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }

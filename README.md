@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**223** solved · 212 problems · 3 labs · 8 math
+**224** solved · 213 problems · 3 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -192,6 +192,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing PagedAttention: Block-wise Attention Computation](https://www.deep-ml.com/problems/492) | hard | 2026-10-10 | [solution](problems/0492-implementing-pagedattention-block-wise-attention-computation) |
 | [INT4 Pack/Unpack and Weight-Only W4A16 Matmul](https://www.deep-ml.com/problems/1256) | hard | 2026-10-16 | [solution](problems/1256-int4-pack-unpack-and-weight-only-w4a16-matmul) |
 | [Lambda-Return Computation](https://www.deep-ml.com/problems/519) | hard | 2026-10-14 | [solution](problems/0519-lambda-return-computation) |
+| [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-10-16 | [solution](problems/0534-linear-sarsa-algorithm) |
 | [MDN with Label Collinearity Control](https://www.deep-ml.com/problems/360) | hard | 2026-10-10 | [solution](problems/0360-mdn-with-label-collinearity-control) |
 | [MinHash for Near-Duplicate Document Detection](https://www.deep-ml.com/problems/766) | hard | 2026-09-29 | [solution](problems/0766-minhash-for-near-duplicate-document-detection) |
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-10-12 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
