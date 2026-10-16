@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**214** solved · 204 problems · 2 labs · 8 math
+**215** solved · 205 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -136,6 +136,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Data with pivot_table and melt](https://www.deep-ml.com/problems/1132) | medium | 2026-09-28 | [solution](problems/1132-reshape-data-with-pivot-table-and-melt) |
 | [Resource Dilation Factor for Scheduling](https://www.deep-ml.com/problems/623) | medium | 2026-10-04 | [solution](problems/0623-resource-dilation-factor-for-scheduling) |
 | [Robot Simulation on an Infinite Grid with Obstacles](https://www.deep-ml.com/problems/1142) | medium | 2026-09-24 | [solution](problems/1142-robot-simulation-on-an-infinite-grid-with-obstacles) |
+| [Row-wise FP8 Quantization with Clamped Scale Factors](https://www.deep-ml.com/problems/779) | medium | 2026-10-16 | [solution](problems/0779-row-wise-fp8-quantization-with-clamped-scale-factors) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-10-01 | [solution](problems/1235-sgd-with-momentum-step) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-08 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25) | medium | 2026-09-17 | [solution](problems/0025-single-neuron-with-backpropagation) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:29:55.700Z",
+  "generated_at": "2026-10-16T06:30:56.420Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2766,6 +2766,19 @@
       "last_pushed_at": "2026-10-16T06:29:54.928Z",
       "language": "python",
       "lines": 40
+    },
+    "problem:779": {
+      "kind": "problem",
+      "id": "779",
+      "title": "Row-wise FP8 Quantization with Clamped Scale Factors",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/779",
+      "path": "problems/0779-row-wise-fp8-quantization-with-clamped-scale-factors",
+      "first_solved_at": "2026-10-16T06:30:56.712Z",
+      "last_pushed_at": "2026-10-16T06:30:56.712Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
