@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:36:19.561Z",
+  "generated_at": "2026-10-16T06:38:29.356Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2844,6 +2844,19 @@
       "last_pushed_at": "2026-10-16T06:36:20.218Z",
       "language": "python",
       "lines": 65
+    },
+    "lab:36": {
+      "kind": "lab",
+      "id": "36",
+      "title": "Design Your Own PTQ",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/labs/36",
+      "path": "labs/0036-design-your-own-ptq",
+      "first_solved_at": "2026-10-16T06:38:29.723Z",
+      "last_pushed_at": "2026-10-16T06:38:29.723Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
