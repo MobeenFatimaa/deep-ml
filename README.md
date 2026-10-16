@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**215** solved · 205 problems · 2 labs · 8 math
+**216** solved · 206 problems · 2 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -73,6 +73,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Best Meeting Point on a 2D Grid](https://www.deep-ml.com/problems/1085) | medium | 2026-09-24 | [solution](problems/1085-best-meeting-point-on-a-2d-grid) |
 | [Bilinear Image Resizing](https://www.deep-ml.com/problems/240) | medium | 2026-10-06 | [solution](problems/0240-bilinear-image-resizing) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-09-16 | [solution](problems/1229-binary-cross-entropy-from-logits) |
+| [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-10-16 | [solution](problems/0234-block-wise-fp8-quantization) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-10-01 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Build AlphaZero Training Targets from Self-Play](https://www.deep-ml.com/problems/979) | medium | 2026-10-01 | [solution](problems/0979-build-alphazero-training-targets-from-self-play) |
 | [Cache-Aware Request Routing Across Replicas](https://www.deep-ml.com/problems/437) | medium | 2026-10-08 | [solution](problems/0437-cache-aware-request-routing-across-replicas) |
