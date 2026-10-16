@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:33:48.066Z",
+  "generated_at": "2026-10-16T06:34:42.420Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2805,6 +2805,19 @@
       "last_pushed_at": "2026-10-16T06:33:48.210Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:1257": {
+      "kind": "problem",
+      "id": "1257",
+      "title": "Simplified GPTQ: Sequential Quantization with Error Compensation",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1257",
+      "path": "problems/1257-simplified-gptq-sequential-quantization-with-error-compensation",
+      "first_solved_at": "2026-10-16T06:34:42.596Z",
+      "last_pushed_at": "2026-10-16T06:34:42.596Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
