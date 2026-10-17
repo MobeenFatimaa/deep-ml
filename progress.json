@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T07:52:56.824Z",
+  "generated_at": "2026-10-17T07:54:16.963Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -2922,6 +2922,19 @@
       "last_pushed_at": "2026-10-17T07:52:56.415Z",
       "language": "python",
       "lines": 126
+    },
+    "problem:1607": {
+      "kind": "problem",
+      "id": "1607",
+      "title": "Sampling-Bias Correction for In-Batch Negatives: Streaming Item Frequencies and the logQ Correction",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1607",
+      "path": "problems/1607-sampling-bias-correction-for-in-batch-negatives-streaming-item-frequencies-and-the-logq-correction",
+      "first_solved_at": "2026-10-17T07:54:16.585Z",
+      "last_pushed_at": "2026-10-17T07:54:16.585Z",
+      "language": "python",
+      "lines": 55
     }
   }
 }
