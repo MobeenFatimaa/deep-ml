@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:18:35.637Z",
+  "generated_at": "2026-10-18T15:19:35.631Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3013,6 +3013,19 @@
       "last_pushed_at": "2026-10-18T15:18:35.950Z",
       "language": "python",
       "lines": 54
+    },
+    "problem:538": {
+      "kind": "problem",
+      "id": "538",
+      "title": "Actor-Critic Algorithm",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/538",
+      "path": "problems/0538-actor-critic-algorithm",
+      "first_solved_at": "2026-10-18T15:19:36.261Z",
+      "last_pushed_at": "2026-10-18T15:19:36.261Z",
+      "language": "python",
+      "lines": 69
     }
   }
 }
