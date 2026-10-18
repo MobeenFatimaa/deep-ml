@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:19:35.631Z",
+  "generated_at": "2026-10-18T15:20:21.208Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3026,6 +3026,19 @@
       "last_pushed_at": "2026-10-18T15:19:36.261Z",
       "language": "python",
       "lines": 69
+    },
+    "problem:536": {
+      "kind": "problem",
+      "id": "536",
+      "title": "Least-Squares Temporal Difference (LSTD) for Policy Evaluation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/536",
+      "path": "problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation",
+      "first_solved_at": "2026-10-18T15:20:21.757Z",
+      "last_pushed_at": "2026-10-18T15:20:21.757Z",
+      "language": "python",
+      "lines": 28
     }
   }
 }
