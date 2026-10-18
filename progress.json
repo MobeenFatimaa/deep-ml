@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:24:22.895Z",
+  "generated_at": "2026-10-18T15:29:13.467Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3091,6 +3091,19 @@
       "last_pushed_at": "2026-10-18T15:24:23.261Z",
       "language": "python",
       "lines": 88
+    },
+    "problem:552": {
+      "kind": "problem",
+      "id": "552",
+      "title": "REINFORCE with Value Baseline",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/552",
+      "path": "problems/0552-reinforce-with-value-baseline",
+      "first_solved_at": "2026-10-18T15:29:13.835Z",
+      "last_pushed_at": "2026-10-18T15:29:13.835Z",
+      "language": "python",
+      "lines": 59
     }
   }
 }
