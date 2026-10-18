@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:21:11.507Z",
+  "generated_at": "2026-10-18T15:22:04.233Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3052,6 +3052,19 @@
       "last_pushed_at": "2026-10-18T15:21:11.931Z",
       "language": "python",
       "lines": 72
+    },
+    "problem:541": {
+      "kind": "problem",
+      "id": "541",
+      "title": "Differential Sarsa Algorithm",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/541",
+      "path": "problems/0541-differential-sarsa-algorithm",
+      "first_solved_at": "2026-10-18T15:22:04.794Z",
+      "last_pushed_at": "2026-10-18T15:22:04.794Z",
+      "language": "python",
+      "lines": 61
     }
   }
 }
