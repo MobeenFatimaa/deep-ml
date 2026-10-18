@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**237** solved · 226 problems · 3 labs · 8 math
+**238** solved · 227 problems · 3 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -219,6 +219,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Pattern Matching and Graph Rewrite to a Fixed Point](https://www.deep-ml.com/problems/1510) | hard | 2026-10-15 | [solution](problems/1510-pattern-matching-and-graph-rewrite-to-a-fixed-point) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-10-11 | [solution](problems/0122-policy-gradient-with-reinforce) |
 | [Policy Iteration for Markov Decision Processes](https://www.deep-ml.com/problems/467) | hard | 2026-10-13 | [solution](problems/0467-policy-iteration-for-markov-decision-processes) |
+| [Policy Iteration on Jack's Car Rental](https://www.deep-ml.com/problems/546) | hard | 2026-10-18 | [solution](problems/0546-policy-iteration-on-jack-s-car-rental) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-05 | [solution](problems/0085-positional-encoding-calculator) |
 | [Prioritized Sweeping Algorithm](https://www.deep-ml.com/problems/527) | hard | 2026-10-14 | [solution](problems/0527-prioritized-sweeping-algorithm) |
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-10-14 | [solution](problems/0522-q-lambda-with-eligibility-traces) |

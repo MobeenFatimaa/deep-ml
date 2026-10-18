@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:22:04.233Z",
+  "generated_at": "2026-10-18T15:23:31.556Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3065,6 +3065,19 @@
       "last_pushed_at": "2026-10-18T15:22:04.794Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:546": {
+      "kind": "problem",
+      "id": "546",
+      "title": "Policy Iteration on Jack's Car Rental",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/546",
+      "path": "problems/0546-policy-iteration-on-jack-s-car-rental",
+      "first_solved_at": "2026-10-18T15:23:31.908Z",
+      "last_pushed_at": "2026-10-18T15:23:31.908Z",
+      "language": "python",
+      "lines": 175
     }
   }
 }
