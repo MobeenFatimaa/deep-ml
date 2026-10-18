@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**231** solved · 220 problems · 3 labs · 8 math
+**232** solved · 221 problems · 3 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -99,6 +99,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Evaluate Translation Quality with METEOR Score](https://www.deep-ml.com/problems/110) | medium | 2026-09-29 | [solution](problems/0110-evaluate-translation-quality-with-meteor-score) |
 | [Feature Drift Detection using Population Stability Index](https://www.deep-ml.com/problems/253) | medium | 2026-10-08 | [solution](problems/0253-feature-drift-detection-using-population-stability-index) |
 | [Filter, Group, and Aggregate a DataFrame (Top-10 by Metric)](https://www.deep-ml.com/problems/1127) | medium | 2026-09-28 | [solution](problems/1127-filter-group-and-aggregate-a-dataframe-top-10-by-metric) |
+| [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-10-18 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-10-18 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-18 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-10-03 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
