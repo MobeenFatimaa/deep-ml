@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:20:21.208Z",
+  "generated_at": "2026-10-18T15:21:11.507Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3039,6 +3039,19 @@
       "last_pushed_at": "2026-10-18T15:20:21.757Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:539": {
+      "kind": "problem",
+      "id": "539",
+      "title": "Actor-Critic with Traces",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/539",
+      "path": "problems/0539-actor-critic-with-traces",
+      "first_solved_at": "2026-10-18T15:21:11.931Z",
+      "last_pushed_at": "2026-10-18T15:21:11.931Z",
+      "language": "python",
+      "lines": 72
     }
   }
 }
