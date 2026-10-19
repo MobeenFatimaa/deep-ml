@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**247** solved · 236 problems · 3 labs · 8 math
+**248** solved · 237 problems · 3 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -232,6 +232,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-10-14 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
 | [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-10-13 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
 | [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-10-18 | [solution](problems/0552-reinforce-with-value-baseline) |
+| [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-10-19 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
 | [Sarsa(lambda) Algorithm with Eligibility Traces](https://www.deep-ml.com/problems/521) | hard | 2026-10-14 | [solution](problems/0521-sarsa-lambda-algorithm-with-eligibility-traces) |
 | [Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation](https://www.deep-ml.com/problems/531) | hard | 2026-10-14 | [solution](problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation) |
 | [Sequential Video Generation with Diffusion Models](https://www.deep-ml.com/problems/501) | hard | 2026-10-13 | [solution](problems/0501-sequential-video-generation-with-diffusion-models) |

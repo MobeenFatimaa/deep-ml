@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:05:42.890Z",
+  "generated_at": "2026-10-19T11:06:31.710Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3195,6 +3195,19 @@
       "last_pushed_at": "2026-10-19T11:05:43.570Z",
       "language": "python",
       "lines": 77
+    },
+    "problem:577": {
+      "kind": "problem",
+      "id": "577",
+      "title": "Residual Gradient Algorithm for Value Function Approximation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/577",
+      "path": "problems/0577-residual-gradient-algorithm-for-value-function-approximation",
+      "first_solved_at": "2026-10-19T11:06:32.451Z",
+      "last_pushed_at": "2026-10-19T11:06:32.451Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
