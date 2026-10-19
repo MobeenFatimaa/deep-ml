@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:51:36.984Z",
+  "generated_at": "2026-10-19T10:53:14.351Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3117,6 +3117,19 @@
       "last_pushed_at": "2026-10-19T10:51:37.848Z",
       "language": "python",
       "lines": 26
+    },
+    "problem:553": {
+      "kind": "problem",
+      "id": "553",
+      "title": "Advantage Actor-Critic (A2C) Batch Update from Parallel Environments",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/553",
+      "path": "problems/0553-advantage-actor-critic-a2c-batch-update-from-parallel-environments",
+      "first_solved_at": "2026-10-19T10:53:14.963Z",
+      "last_pushed_at": "2026-10-19T10:53:14.963Z",
+      "language": "python",
+      "lines": 88
     }
   }
 }
