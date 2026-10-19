@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:56:03.570Z",
+  "generated_at": "2026-10-19T10:57:06.476Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3156,6 +3156,19 @@
       "last_pushed_at": "2026-10-19T10:56:03.929Z",
       "language": "python",
       "lines": 64
+    },
+    "problem:567": {
+      "kind": "problem",
+      "id": "567",
+      "title": "Gradient Temporal Difference (GTD2) for Off-Policy Value Prediction",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/567",
+      "path": "problems/0567-gradient-temporal-difference-gtd2-for-off-policy-value-prediction",
+      "first_solved_at": "2026-10-19T10:57:07.220Z",
+      "last_pushed_at": "2026-10-19T10:57:07.220Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }

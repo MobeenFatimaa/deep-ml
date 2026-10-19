@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**244** solved · 233 problems · 3 labs · 8 math
+**245** solved · 234 problems · 3 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -188,6 +188,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2026-10-11 | [solution](problems/0164-gambler-s-problem-value-iteration) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-10-11 | [solution](problems/0186-gaussian-process-for-regression) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-09-29 | [solution](problems/0088-gpt-2-text-generation) |
+| [Gradient Temporal Difference (GTD2) for Off-Policy Value Prediction](https://www.deep-ml.com/problems/567) | hard | 2026-10-19 | [solution](problems/0567-gradient-temporal-difference-gtd2-for-off-policy-value-prediction) |
 | [GSPO: Group Sequence Policy Optimization](https://www.deep-ml.com/problems/209) | hard | 2026-10-11 | [solution](problems/0209-gspo-group-sequence-policy-optimization) |
 | [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-10-09 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2026-10-09 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |
