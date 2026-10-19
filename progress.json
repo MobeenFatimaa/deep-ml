@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:53:14.351Z",
+  "generated_at": "2026-10-19T10:55:02.173Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3130,6 +3130,19 @@
       "last_pushed_at": "2026-10-19T10:53:14.963Z",
       "language": "python",
       "lines": 88
+    },
+    "problem:561": {
+      "kind": "problem",
+      "id": "561",
+      "title": "True Online TD(λ) with Linear Function Approximation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/561",
+      "path": "problems/0561-true-online-td-with-linear-function-approximation",
+      "first_solved_at": "2026-10-19T10:55:02.973Z",
+      "last_pushed_at": "2026-10-19T10:55:02.973Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }

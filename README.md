@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**242** solved · 231 problems · 3 labs · 8 math
+**243** solved · 232 problems · 3 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -242,6 +242,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-10-11 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 | [Training a Rectified Flow Diffusion Model](https://www.deep-ml.com/problems/500) | hard | 2026-10-13 | [solution](problems/0500-training-a-rectified-flow-diffusion-model) |
 | [True Online SARSA with Eligibility Traces](https://www.deep-ml.com/problems/483) | hard | 2026-10-13 | [solution](problems/0483-true-online-sarsa-with-eligibility-traces) |
+| [True Online TD(λ) with Linear Function Approximation](https://www.deep-ml.com/problems/561) | hard | 2026-10-19 | [solution](problems/0561-true-online-td-with-linear-function-approximation) |
 | [Trust Region Policy Optimization (TRPO)](https://www.deep-ml.com/problems/595) | hard | 2026-10-10 | [solution](problems/0595-trust-region-policy-optimization-trpo) |
 
 ## Labs
