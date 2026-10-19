@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**246** solved · 235 problems · 3 labs · 8 math
+**247** solved · 236 problems · 3 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -164,6 +164,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Zero-Copy Batch Data Loading from Shared Memory](https://www.deep-ml.com/problems/659) | medium | 2026-10-10 | [solution](problems/0659-zero-copy-batch-data-loading-from-shared-memory) |
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2026-10-09 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-10-08 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
+| [Acrobot Swing-Up Problem](https://www.deep-ml.com/problems/574) | hard | 2026-10-19 | [solution](problems/0574-acrobot-swing-up-problem) |
 | [Actor-Critic Algorithm](https://www.deep-ml.com/problems/538) | hard | 2026-10-18 | [solution](problems/0538-actor-critic-algorithm) |
 | [Actor-Critic with Traces](https://www.deep-ml.com/problems/539) | hard | 2026-10-18 | [solution](problems/0539-actor-critic-with-traces) |
 | [Advantage Actor-Critic (A2C) Batch Update from Parallel Environments](https://www.deep-ml.com/problems/553) | hard | 2026-10-19 | [solution](problems/0553-advantage-actor-critic-a2c-batch-update-from-parallel-environments) |

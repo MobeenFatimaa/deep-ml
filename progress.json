@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T11:01:50.108Z",
+  "generated_at": "2026-10-19T11:05:42.890Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3182,6 +3182,19 @@
       "last_pushed_at": "2026-10-19T11:01:50.788Z",
       "language": "python",
       "lines": 60
+    },
+    "problem:574": {
+      "kind": "problem",
+      "id": "574",
+      "title": "Acrobot Swing-Up Problem",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/574",
+      "path": "problems/0574-acrobot-swing-up-problem",
+      "first_solved_at": "2026-10-19T11:05:43.570Z",
+      "last_pushed_at": "2026-10-19T11:05:43.570Z",
+      "language": "python",
+      "lines": 77
     }
   }
 }
