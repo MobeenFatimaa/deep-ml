@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T10:57:06.476Z",
+  "generated_at": "2026-10-19T11:01:50.108Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3169,6 +3169,19 @@
       "last_pushed_at": "2026-10-19T10:57:07.220Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:568": {
+      "kind": "problem",
+      "id": "568",
+      "title": "Emphatic Temporal Difference Learning for Off-Policy Evaluation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/568",
+      "path": "problems/0568-emphatic-temporal-difference-learning-for-off-policy-evaluation",
+      "first_solved_at": "2026-10-19T11:01:50.788Z",
+      "last_pushed_at": "2026-10-19T11:01:50.788Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
