@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**240** solved · 229 problems · 3 labs · 8 math
+**241** solved · 230 problems · 3 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -120,6 +120,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-10-08 | [solution](problems/0297-implement-request-batching-for-inference) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-05 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-09-29 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
+| [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-19 | [solution](problems/0192-implement-the-huber-loss-function) |
 | [Implement Tick Bars Sampling](https://www.deep-ml.com/problems/299) | medium | 2026-10-02 | [solution](problems/0299-implement-tick-bars-sampling) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-10-05 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Implementing Basic Autograd Operations](https://www.deep-ml.com/problems/26) | medium | 2026-09-18 | [solution](problems/0026-implementing-basic-autograd-operations) |
