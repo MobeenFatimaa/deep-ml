@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**251** solved · 240 problems · 3 labs · 8 math
+**252** solved · 241 problems · 3 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -25,6 +25,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-10-04 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Model Inference Statistics for Monitoring](https://www.deep-ml.com/problems/248) | easy | 2026-10-01 | [solution](problems/0248-calculate-model-inference-statistics-for-monitoring) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-09-29 | [solution](problems/0320-calculate-perplexity-for-language-models) |
+| [Calculate Root Mean Square Error (RMSE)](https://www.deep-ml.com/problems/71) | easy | 2026-10-20 | [solution](problems/0071-calculate-root-mean-square-error-rmse) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-09-29 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-09-15 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Compute Multi-class Cross-Entropy Loss](https://www.deep-ml.com/problems/134) | easy | 2026-09-14 | [solution](problems/0134-compute-multi-class-cross-entropy-loss) |
