@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**250** solved · 239 problems · 3 labs · 8 math
+**251** solved · 240 problems · 3 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-10-06 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-15 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-09-14 | [solution](problems/0217-derivatives-of-activation-functions) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-20 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-09-29 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-27 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-10-20 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
