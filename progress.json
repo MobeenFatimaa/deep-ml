@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:01:53.863Z",
+  "generated_at": "2026-10-21T15:03:59.227Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3388,6 +3388,17 @@
       "path": "math/0306-batch-invariance-why-the-same-prompt-gives-different-logits-in-a-different-batch",
       "first_solved_at": "2026-10-21T15:01:55.155Z",
       "last_pushed_at": "2026-10-21T15:01:55.155Z"
+    },
+    "math:307": {
+      "kind": "math",
+      "id": "307",
+      "title": "Prefill and Decode in Different Datacenters: The Transfer Budget",
+      "difficulty": "easy",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/307",
+      "path": "math/0307-prefill-and-decode-in-different-datacenters-the-transfer-budget",
+      "first_solved_at": "2026-10-21T15:04:00.890Z",
+      "last_pushed_at": "2026-10-21T15:04:00.890Z"
     }
   }
 }
