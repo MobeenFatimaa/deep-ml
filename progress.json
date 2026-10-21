@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T07:53:22.116Z",
+  "generated_at": "2026-10-21T15:01:53.863Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3377,6 +3377,17 @@
       "last_pushed_at": "2026-10-21T07:53:23.147Z",
       "language": "python",
       "lines": 36
+    },
+    "math:306": {
+      "kind": "math",
+      "id": "306",
+      "title": "Batch Invariance: Why the Same Prompt Gives Different Logits in a Different Batch",
+      "difficulty": "medium",
+      "category": "Inference Engineering",
+      "url": "https://www.deep-ml.com/math-problems/306",
+      "path": "math/0306-batch-invariance-why-the-same-prompt-gives-different-logits-in-a-different-batch",
+      "first_solved_at": "2026-10-21T15:01:55.155Z",
+      "last_pushed_at": "2026-10-21T15:01:55.155Z"
     }
   }
 }

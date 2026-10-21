@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**261** solved · 250 problems · 3 labs · 8 math
+**262** solved · 250 problems · 3 labs · 9 math
 
 ![Coverage](./coverage.svg)
 
@@ -278,6 +278,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-12 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-13 | [solution](math/0005-gradient-descent-updates) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-16 | [solution](math/0004-backpropagation-and-the-chain-rule) |
+| [Batch Invariance: Why the Same Prompt Gives Different Logits in a Different Batch](https://www.deep-ml.com/math-problems/306) | medium | 2026-10-21 | [solution](math/0306-batch-invariance-why-the-same-prompt-gives-different-logits-in-a-different-batch) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-09-13 | [solution](math/0038-log-likelihood-gradients) |
 | [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-09-17 | [solution](math/0035-matrix-calculus-identities) |
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-09-16 | [solution](math/0003-neural-network-derivatives) |
