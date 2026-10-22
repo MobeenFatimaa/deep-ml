@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**266** solved · 253 problems · 3 labs · 10 math
+**267** solved · 254 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -264,6 +264,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [True Online SARSA with Eligibility Traces](https://www.deep-ml.com/problems/483) | hard | 2026-10-13 | [solution](problems/0483-true-online-sarsa-with-eligibility-traces) |
 | [True Online TD(λ) with Linear Function Approximation](https://www.deep-ml.com/problems/561) | hard | 2026-10-19 | [solution](problems/0561-true-online-td-with-linear-function-approximation) |
 | [Trust Region Policy Optimization (TRPO)](https://www.deep-ml.com/problems/595) | hard | 2026-10-10 | [solution](problems/0595-trust-region-policy-optimization-trpo) |
+| [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
 | [Value Functions for Options](https://www.deep-ml.com/problems/588) | hard | 2026-10-22 | [solution](problems/0588-value-functions-for-options) |
 
 ## Labs
