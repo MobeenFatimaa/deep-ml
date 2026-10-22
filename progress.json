@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:30:39.865Z",
+  "generated_at": "2026-10-22T06:36:58.078Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3477,6 +3477,19 @@
       "last_pushed_at": "2026-10-22T06:30:40.921Z",
       "language": "python",
       "lines": 62
+    },
+    "problem:706": {
+      "kind": "problem",
+      "id": "706",
+      "title": "Masked Generative Token Prediction Step",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/706",
+      "path": "problems/0706-masked-generative-token-prediction-step",
+      "first_solved_at": "2026-10-22T06:36:59.147Z",
+      "last_pushed_at": "2026-10-22T06:36:59.147Z",
+      "language": "python",
+      "lines": 48
     }
   }
 }
