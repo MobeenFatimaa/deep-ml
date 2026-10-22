@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:21:40.476Z",
+  "generated_at": "2026-10-22T06:23:11.016Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3412,6 +3412,19 @@
       "last_pushed_at": "2026-10-22T06:21:41.527Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:588": {
+      "kind": "problem",
+      "id": "588",
+      "title": "Value Functions for Options",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/588",
+      "path": "problems/0588-value-functions-for-options",
+      "first_solved_at": "2026-10-22T06:23:11.844Z",
+      "last_pushed_at": "2026-10-22T06:23:11.844Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }
