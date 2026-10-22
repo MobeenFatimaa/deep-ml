@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:40:45.251Z",
+  "generated_at": "2026-10-22T06:41:34.109Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3542,6 +3542,19 @@
       "last_pushed_at": "2026-10-22T06:40:46.453Z",
       "language": "python",
       "lines": 62
+    },
+    "problem:997": {
+      "kind": "problem",
+      "id": "997",
+      "title": "Manual Backprop Through Cross-Entropy Intermediates",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/997",
+      "path": "problems/0997-manual-backprop-through-cross-entropy-intermediates",
+      "first_solved_at": "2026-10-22T06:41:35.293Z",
+      "last_pushed_at": "2026-10-22T06:41:35.293Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }
