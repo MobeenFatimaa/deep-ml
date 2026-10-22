@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:36:58.078Z",
+  "generated_at": "2026-10-22T06:38:11.824Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3490,6 +3490,19 @@
       "last_pushed_at": "2026-10-22T06:36:59.147Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:1002": {
+      "kind": "problem",
+      "id": "1002",
+      "title": "Fused Backward Pass of BatchNorm1d",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1002",
+      "path": "problems/1002-fused-backward-pass-of-batchnorm1d",
+      "first_solved_at": "2026-10-22T06:38:13.021Z",
+      "last_pushed_at": "2026-10-22T06:38:13.021Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
