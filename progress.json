@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:39:17.193Z",
+  "generated_at": "2026-10-22T06:40:05.990Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3516,6 +3516,19 @@
       "last_pushed_at": "2026-10-22T06:39:18.469Z",
       "language": "python",
       "lines": 54
+    },
+    "problem:736": {
+      "kind": "problem",
+      "id": "736",
+      "title": "Lightning Indexer Sparse Attention Selection",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/736",
+      "path": "problems/0736-lightning-indexer-sparse-attention-selection",
+      "first_solved_at": "2026-10-22T06:40:07.186Z",
+      "last_pushed_at": "2026-10-22T06:40:07.186Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }

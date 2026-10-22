@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**272** solved · 259 problems · 3 labs · 10 math
+**273** solved · 260 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -223,6 +223,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [INT4 Pack/Unpack and Weight-Only W4A16 Matmul](https://www.deep-ml.com/problems/1256) | hard | 2026-10-16 | [solution](problems/1256-int4-pack-unpack-and-weight-only-w4a16-matmul) |
 | [Lambda-Return Computation](https://www.deep-ml.com/problems/519) | hard | 2026-10-14 | [solution](problems/0519-lambda-return-computation) |
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-10-18 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
+| [Lightning Indexer Sparse Attention Selection](https://www.deep-ml.com/problems/736) | hard | 2026-10-22 | [solution](problems/0736-lightning-indexer-sparse-attention-selection) |
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-10-16 | [solution](problems/0534-linear-sarsa-algorithm) |
 | [Masked Generative Token Prediction Step](https://www.deep-ml.com/problems/706) | hard | 2026-10-22 | [solution](problems/0706-masked-generative-token-prediction-step) |
 | [MDN with Label Collinearity Control](https://www.deep-ml.com/problems/360) | hard | 2026-10-10 | [solution](problems/0360-mdn-with-label-collinearity-control) |
