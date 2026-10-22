@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:03:59.227Z",
+  "generated_at": "2026-10-22T06:21:40.476Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3399,6 +3399,19 @@
       "path": "math/0307-prefill-and-decode-in-different-datacenters-the-transfer-budget",
       "first_solved_at": "2026-10-21T15:04:00.890Z",
       "last_pushed_at": "2026-10-21T15:04:00.890Z"
+    },
+    "problem:582": {
+      "kind": "problem",
+      "id": "582",
+      "title": "Retrace(λ) Implementation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/582",
+      "path": "problems/0582-retrace-implementation",
+      "first_solved_at": "2026-10-22T06:21:41.527Z",
+      "last_pushed_at": "2026-10-22T06:21:41.527Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
