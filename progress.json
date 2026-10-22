@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:28:49.054Z",
+  "generated_at": "2026-10-22T06:30:39.865Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3464,6 +3464,19 @@
       "last_pushed_at": "2026-10-22T06:28:50.259Z",
       "language": "python",
       "lines": 94
+    },
+    "problem:598": {
+      "kind": "problem",
+      "id": "598",
+      "title": "Model-Based Value Expansion",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/598",
+      "path": "problems/0598-model-based-value-expansion",
+      "first_solved_at": "2026-10-22T06:30:40.921Z",
+      "last_pushed_at": "2026-10-22T06:30:40.921Z",
+      "language": "python",
+      "lines": 62
     }
   }
 }
