@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:23:11.016Z",
+  "generated_at": "2026-10-22T06:25:17.259Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3425,6 +3425,19 @@
       "last_pushed_at": "2026-10-22T06:23:11.844Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:594": {
+      "kind": "problem",
+      "id": "594",
+      "title": "Asynchronous Advantage Actor-Critic (A3C)",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/594",
+      "path": "problems/0594-asynchronous-advantage-actor-critic-a3c",
+      "first_solved_at": "2026-10-22T06:25:18.431Z",
+      "last_pushed_at": "2026-10-22T06:25:18.431Z",
+      "language": "python",
+      "lines": 87
     }
   }
 }
