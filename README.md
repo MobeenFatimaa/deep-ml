@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**267** solved · 254 problems · 3 labs · 10 math
+**268** solved · 255 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -244,6 +244,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-10-14 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-21 | [solution](problems/0201-qr-decomposition) |
 | [R-Learning for Average Reward](https://www.deep-ml.com/problems/540) | hard | 2026-10-21 | [solution](problems/0540-r-learning-for-average-reward) |
+| [Rainbow DQN Implementation](https://www.deep-ml.com/problems/593) | hard | 2026-10-22 | [solution](problems/0593-rainbow-dqn-implementation) |
 | [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-10-13 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
 | [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-10-18 | [solution](problems/0552-reinforce-with-value-baseline) |
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-10-19 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |

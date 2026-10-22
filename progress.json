@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:27:16.701Z",
+  "generated_at": "2026-10-22T06:28:49.054Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3451,6 +3451,19 @@
       "last_pushed_at": "2026-10-22T06:27:17.867Z",
       "language": "python",
       "lines": 98
+    },
+    "problem:593": {
+      "kind": "problem",
+      "id": "593",
+      "title": "Rainbow DQN Implementation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/593",
+      "path": "problems/0593-rainbow-dqn-implementation",
+      "first_solved_at": "2026-10-22T06:28:50.259Z",
+      "last_pushed_at": "2026-10-22T06:28:50.259Z",
+      "language": "python",
+      "lines": 94
     }
   }
 }
