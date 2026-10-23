@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:21:33.769Z",
+  "generated_at": "2026-10-23T07:25:42.626Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3607,6 +3607,19 @@
       "last_pushed_at": "2026-10-23T07:21:33.182Z",
       "language": "python",
       "lines": 74
+    },
+    "problem:1069": {
+      "kind": "problem",
+      "id": "1069",
+      "title": "Preference Dataset Collate Function for DPO",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1069",
+      "path": "problems/1069-preference-dataset-collate-function-for-dpo",
+      "first_solved_at": "2026-10-23T07:25:41.869Z",
+      "last_pushed_at": "2026-10-23T07:25:41.869Z",
+      "language": "python",
+      "lines": 84
     }
   }
 }

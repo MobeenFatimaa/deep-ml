@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**279** solved · 266 problems · 3 labs · 10 math
+**280** solved · 267 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -251,6 +251,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Policy Iteration on Jack's Car Rental](https://www.deep-ml.com/problems/546) | hard | 2026-10-18 | [solution](problems/0546-policy-iteration-on-jack-s-car-rental) |
 | [Positional Encoding Calculator](https://www.deep-ml.com/problems/85) | hard | 2026-10-05 | [solution](problems/0085-positional-encoding-calculator) |
 | [Pre-allocated Sliding KV Cache Update](https://www.deep-ml.com/problems/1011) | hard | 2026-10-22 | [solution](problems/1011-pre-allocated-sliding-kv-cache-update) |
+| [Preference Dataset Collate Function for DPO](https://www.deep-ml.com/problems/1069) | hard | 2026-10-23 | [solution](problems/1069-preference-dataset-collate-function-for-dpo) |
 | [Prioritized Sweeping Algorithm](https://www.deep-ml.com/problems/527) | hard | 2026-10-14 | [solution](problems/0527-prioritized-sweeping-algorithm) |
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-10-14 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-21 | [solution](problems/0201-qr-decomposition) |
