@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**292** solved · 279 problems · 3 labs · 10 math
+**293** solved · 280 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -279,6 +279,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-10-11 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 | [TD(λ) Forward View for Value Prediction](https://www.deep-ml.com/problems/520) | hard | 2026-10-14 | [solution](problems/0520-td-forward-view-for-value-prediction) |
 | [TD(λ) with Eligibility Traces](https://www.deep-ml.com/problems/274) | hard | 2026-10-12 | [solution](problems/0274-td-with-eligibility-traces) |
+| [Toy Model of Superposition: Train the Sparsity Sweep](https://www.deep-ml.com/problems/1623) | hard | 2026-10-23 | [solution](problems/1623-toy-model-of-superposition-train-the-sparsity-sweep) |
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2026-10-09 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-10-10 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-10-11 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |

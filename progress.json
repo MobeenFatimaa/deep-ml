@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:10:07.874Z",
+  "generated_at": "2026-10-23T08:11:55.532Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3776,6 +3776,19 @@
       "last_pushed_at": "2026-10-23T08:10:07.205Z",
       "language": "python",
       "lines": 86
+    },
+    "problem:1623": {
+      "kind": "problem",
+      "id": "1623",
+      "title": "Toy Model of Superposition: Train the Sparsity Sweep",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1623",
+      "path": "problems/1623-toy-model-of-superposition-train-the-sparsity-sweep",
+      "first_solved_at": "2026-10-23T08:11:55.052Z",
+      "last_pushed_at": "2026-10-23T08:11:55.052Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
