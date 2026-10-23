@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:30:42.032Z",
+  "generated_at": "2026-10-23T07:32:08.109Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3646,6 +3646,19 @@
       "last_pushed_at": "2026-10-23T07:30:41.344Z",
       "language": "sql",
       "lines": 15
+    },
+    "problem:1017": {
+      "kind": "problem",
+      "id": "1017",
+      "title": "Implement Gated DeltaNet Linear Attention",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1017",
+      "path": "problems/1017-implement-gated-deltanet-linear-attention",
+      "first_solved_at": "2026-10-23T07:32:07.661Z",
+      "last_pushed_at": "2026-10-23T07:32:07.661Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }
