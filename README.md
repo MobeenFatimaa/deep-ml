@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**278** solved · 265 problems · 3 labs · 10 math
+**279** solved · 266 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -182,6 +182,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Alien Dictionary via Topological Sort](https://www.deep-ml.com/problems/1168) | hard | 2026-10-10 | [solution](problems/1168-alien-dictionary-via-topological-sort) |
 | [Approximate Nearest-Neighbour Search: Inverted File Index with Product Quantization (IVF-PQ)](https://www.deep-ml.com/problems/1606) | hard | 2026-10-17 | [solution](problems/1606-approximate-nearest-neighbour-search-inverted-file-index-with-product-quantization-ivf-pq) |
 | [Asynchronous Advantage Actor-Critic (A3C)](https://www.deep-ml.com/problems/594) | hard | 2026-10-22 | [solution](problems/0594-asynchronous-advantage-actor-critic-a3c) |
+| [Backgammon with TD Learning](https://www.deep-ml.com/problems/579) | hard | 2026-10-23 | [solution](problems/0579-backgammon-with-td-learning) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-09-29 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-10-10 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Certainty-Equivalence in TD Learning](https://www.deep-ml.com/problems/516) | hard | 2026-10-14 | [solution](problems/0516-certainty-equivalence-in-td-learning) |
