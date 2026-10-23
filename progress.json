@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:11:55.532Z",
+  "generated_at": "2026-10-23T08:13:23.974Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3789,6 +3789,19 @@
       "last_pushed_at": "2026-10-23T08:11:55.052Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:1631": {
+      "kind": "problem",
+      "id": "1631",
+      "title": "Prefill Chunk Scheduler with a Fitted Cost Model and a Time Budget",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1631",
+      "path": "problems/1631-prefill-chunk-scheduler-with-a-fitted-cost-model-and-a-time-budget",
+      "first_solved_at": "2026-10-23T08:13:23.605Z",
+      "last_pushed_at": "2026-10-23T08:13:23.605Z",
+      "language": "python",
+      "lines": 72
     }
   }
 }
