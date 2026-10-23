@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:13:23.974Z",
+  "generated_at": "2026-10-23T08:15:15.934Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3802,6 +3802,19 @@
       "last_pushed_at": "2026-10-23T08:13:23.605Z",
       "language": "python",
       "lines": 72
+    },
+    "problem:1637": {
+      "kind": "problem",
+      "id": "1637",
+      "title": "10+2 Erasure Coding for a KV Cache Store",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1637",
+      "path": "problems/1637-10-2-erasure-coding-for-a-kv-cache-store",
+      "first_solved_at": "2026-10-23T08:15:15.574Z",
+      "last_pushed_at": "2026-10-23T08:15:15.574Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }

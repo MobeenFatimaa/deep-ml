@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**294** solved · 281 problems · 3 labs · 10 math
+**295** solved · 282 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -174,6 +174,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tromp-Taylor Go Score](https://www.deep-ml.com/problems/982) | medium | 2026-10-01 | [solution](problems/0982-tromp-taylor-go-score) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-09-15 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Zero-Copy Batch Data Loading from Shared Memory](https://www.deep-ml.com/problems/659) | medium | 2026-10-10 | [solution](problems/0659-zero-copy-batch-data-loading-from-shared-memory) |
+| [10+2 Erasure Coding for a KV Cache Store](https://www.deep-ml.com/problems/1637) | hard | 2026-10-23 | [solution](problems/1637-10-2-erasure-coding-for-a-kv-cache-store) |
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2026-10-09 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-10-08 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
 | [Acrobot Swing-Up Problem](https://www.deep-ml.com/problems/574) | hard | 2026-10-19 | [solution](problems/0574-acrobot-swing-up-problem) |
