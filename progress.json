@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:59:11.356Z",
+  "generated_at": "2026-10-23T07:59:50.880Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3698,6 +3698,19 @@
       "last_pushed_at": "2026-10-23T07:59:10.960Z",
       "language": "python",
       "lines": 70
+    },
+    "problem:709": {
+      "kind": "problem",
+      "id": "709",
+      "title": "Action-Conditioned Autoregressive Video Dynamics Model",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/709",
+      "path": "problems/0709-action-conditioned-autoregressive-video-dynamics-model",
+      "first_solved_at": "2026-10-23T07:59:50.260Z",
+      "last_pushed_at": "2026-10-23T07:59:50.260Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
