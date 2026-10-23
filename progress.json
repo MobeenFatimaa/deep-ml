@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:32:08.109Z",
+  "generated_at": "2026-10-23T07:57:06.531Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3659,6 +3659,19 @@
       "last_pushed_at": "2026-10-23T07:32:07.661Z",
       "language": "python",
       "lines": 78
+    },
+    "problem:744": {
+      "kind": "problem",
+      "id": "744",
+      "title": "Anticipatory Routing for MoE Training Stability",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/744",
+      "path": "problems/0744-anticipatory-routing-for-moe-training-stability",
+      "first_solved_at": "2026-10-23T07:57:05.722Z",
+      "last_pushed_at": "2026-10-23T07:57:05.722Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
