@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:58:31.400Z",
+  "generated_at": "2026-10-23T07:59:11.356Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3685,6 +3685,19 @@
       "last_pushed_at": "2026-10-23T07:58:31.011Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:727": {
+      "kind": "problem",
+      "id": "727",
+      "title": "Transformer Policy for Behavioral Cloning from Latent Actions",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/727",
+      "path": "problems/0727-transformer-policy-for-behavioral-cloning-from-latent-actions",
+      "first_solved_at": "2026-10-23T07:59:10.960Z",
+      "last_pushed_at": "2026-10-23T07:59:10.960Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
