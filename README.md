@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**288** solved · 275 problems · 3 labs · 10 math
+**289** solved · 276 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -287,6 +287,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
 | [Value Functions for Options](https://www.deep-ml.com/problems/588) | hard | 2026-10-22 | [solution](problems/0588-value-functions-for-options) |
 | [Video Tokenizer with Spatiotemporal VQ-VAE](https://www.deep-ml.com/problems/704) | hard | 2026-10-23 | [solution](problems/0704-video-tokenizer-with-spatiotemporal-vq-vae) |
+| [Wave-Based Expert Parallelism Pipelining](https://www.deep-ml.com/problems/756) | hard | 2026-10-23 | [solution](problems/0756-wave-based-expert-parallelism-pipelining) |
 
 ## Labs
 
