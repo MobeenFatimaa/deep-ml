@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**287** solved · 274 problems · 3 labs · 10 math
+**288** solved · 275 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -286,6 +286,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Trust Region Policy Optimization (TRPO)](https://www.deep-ml.com/problems/595) | hard | 2026-10-10 | [solution](problems/0595-trust-region-policy-optimization-trpo) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
 | [Value Functions for Options](https://www.deep-ml.com/problems/588) | hard | 2026-10-22 | [solution](problems/0588-value-functions-for-options) |
+| [Video Tokenizer with Spatiotemporal VQ-VAE](https://www.deep-ml.com/problems/704) | hard | 2026-10-23 | [solution](problems/0704-video-tokenizer-with-spatiotemporal-vq-vae) |
 
 ## Labs
 
