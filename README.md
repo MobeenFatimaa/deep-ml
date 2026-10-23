@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**280** solved · 267 problems · 3 labs · 10 math
+**281** solved · 268 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -213,6 +213,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-10-12 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Core MDN Residualization](https://www.deep-ml.com/problems/358) | hard | 2026-10-10 | [solution](problems/0358-implement-core-mdn-residualization) |
 | [Implement Kernel PCA with RBF Kernel](https://www.deep-ml.com/problems/349) | hard | 2026-10-12 | [solution](problems/0349-implement-kernel-pca-with-rbf-kernel) |
+| [Implement Llama 3.1 RoPE Frequency Rescaling](https://www.deep-ml.com/problems/1024) | hard | 2026-10-23 | [solution](problems/1024-implement-llama-3-1-rope-frequency-rescaling) |
 | [Implement LLE (Locally Linear Embedding)](https://www.deep-ml.com/problems/351) | hard | 2026-10-14 | [solution](problems/0351-implement-lle-locally-linear-embedding) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-10-09 | [solution](problems/0094-implement-multi-head-attention) |
 | [Implement Multi-Head Attention Using Einsum](https://www.deep-ml.com/problems/960) | hard | 2026-10-22 | [solution](problems/0960-implement-multi-head-attention-using-einsum) |

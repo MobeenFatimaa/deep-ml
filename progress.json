@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:25:42.626Z",
+  "generated_at": "2026-10-23T07:27:14.985Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3620,6 +3620,19 @@
       "last_pushed_at": "2026-10-23T07:25:41.869Z",
       "language": "python",
       "lines": 84
+    },
+    "problem:1024": {
+      "kind": "problem",
+      "id": "1024",
+      "title": "Implement Llama 3.1 RoPE Frequency Rescaling",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1024",
+      "path": "problems/1024-implement-llama-3-1-rope-frequency-rescaling",
+      "first_solved_at": "2026-10-23T07:27:14.535Z",
+      "last_pushed_at": "2026-10-23T07:27:14.535Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
