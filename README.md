@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**290** solved · 277 problems · 3 labs · 10 math
+**291** solved · 278 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -274,6 +274,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Simplified GPTQ: Sequential Quantization with Error Compensation](https://www.deep-ml.com/problems/1257) | hard | 2026-10-16 | [solution](problems/1257-simplified-gptq-sequential-quantization-with-error-compensation) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-10-12 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
+| [Streaming Output Parser with UTF-8 Buffering and Incremental Delimiter Matching](https://www.deep-ml.com/problems/1642) | hard | 2026-10-23 | [solution](problems/1642-streaming-output-parser-with-utf-8-buffering-and-incremental-delimiter-matching) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-10-11 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 | [TD(λ) Forward View for Value Prediction](https://www.deep-ml.com/problems/520) | hard | 2026-10-14 | [solution](problems/0520-td-forward-view-for-value-prediction) |
 | [TD(λ) with Eligibility Traces](https://www.deep-ml.com/problems/274) | hard | 2026-10-12 | [solution](problems/0274-td-with-eligibility-traces) |

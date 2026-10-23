@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T08:03:15.496Z",
+  "generated_at": "2026-10-23T08:06:35.158Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3750,6 +3750,19 @@
       "last_pushed_at": "2026-10-23T08:03:15.086Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:1642": {
+      "kind": "problem",
+      "id": "1642",
+      "title": "Streaming Output Parser with UTF-8 Buffering and Incremental Delimiter Matching",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1642",
+      "path": "problems/1642-streaming-output-parser-with-utf-8-buffering-and-incremental-delimiter-matching",
+      "first_solved_at": "2026-10-23T08:06:34.764Z",
+      "last_pushed_at": "2026-10-23T08:06:34.764Z",
+      "language": "python",
+      "lines": 138
     }
   }
 }
