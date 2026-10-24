@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:37:56.397Z",
+  "generated_at": "2026-10-24T14:46:27.419Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3841,6 +3841,19 @@
       "last_pushed_at": "2026-10-24T14:37:56.465Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:584": {
+      "kind": "problem",
+      "id": "584",
+      "title": "Control Variates in Off-Policy Methods",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/584",
+      "path": "problems/0584-control-variates-in-off-policy-methods",
+      "first_solved_at": "2026-10-24T14:46:27.297Z",
+      "last_pushed_at": "2026-10-24T14:46:27.297Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }

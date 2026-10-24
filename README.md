@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**297** solved · 284 problems · 3 labs · 10 math
+**298** solved · 285 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -195,6 +195,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Cohort Retention: First Login and Consecutive-Day Logins](https://www.deep-ml.com/problems/1119) | hard | 2026-10-23 | [solution](problems/1119-cohort-retention-first-login-and-consecutive-day-logins) |
 | [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-10-14 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
 | [Context Parallelism with Ring Attention for Video Models](https://www.deep-ml.com/problems/448) | hard | 2026-10-10 | [solution](problems/0448-context-parallelism-with-ring-attention-for-video-models) |
+| [Control Variates in Off-Policy Methods](https://www.deep-ml.com/problems/584) | hard | 2026-10-24 | [solution](problems/0584-control-variates-in-off-policy-methods) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-09-27 | [solution](problems/0020-decision-tree-learning) |
 | [Deep Q-Network Implementation](https://www.deep-ml.com/problems/551) | hard | 2026-10-18 | [solution](problems/0551-deep-q-network-implementation) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-25 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
