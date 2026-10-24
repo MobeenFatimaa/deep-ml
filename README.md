@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**295** solved · 282 problems · 3 labs · 10 math
+**296** solved · 283 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -64,6 +64,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-10-05 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-09-27 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Reshape and Transpose a Tensor](https://www.deep-ml.com/problems/881) | easy | 2026-09-15 | [solution](problems/0881-reshape-and-transpose-a-tensor) |
+| [RL Training GPU Utilization Tracker](https://www.deep-ml.com/problems/678) | easy | 2026-10-24 | [solution](problems/0678-rl-training-gpu-utilization-tracker) |
 | [Select specific columns](https://www.deep-ml.com/problems/1102) | easy | 2026-10-15 | [solution](problems/1102-select-specific-columns) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-09-13 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Single Linear Neuron Forward](https://www.deep-ml.com/problems/1224) | easy | 2026-09-15 | [solution](problems/1224-single-linear-neuron-forward) |
