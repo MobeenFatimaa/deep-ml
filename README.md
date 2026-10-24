@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**298** solved · 285 problems · 3 labs · 10 math
+**299** solved · 286 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -89,6 +89,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build AlphaZero Training Targets from Self-Play](https://www.deep-ml.com/problems/979) | medium | 2026-10-01 | [solution](problems/0979-build-alphazero-training-targets-from-self-play) |
 | [Cache-Aware Request Routing Across Replicas](https://www.deep-ml.com/problems/437) | medium | 2026-10-08 | [solution](problems/0437-cache-aware-request-routing-across-replicas) |
 | [Calculate AUC (Area Under ROC Curve)](https://www.deep-ml.com/problems/277) | medium | 2026-10-09 | [solution](problems/0277-calculate-auc-area-under-roc-curve) |
+| [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-10-24 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-21 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-10-04 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Chunked Prefill Scheduling Alongside Decode](https://www.deep-ml.com/problems/441) | medium | 2026-10-08 | [solution](problems/0441-chunked-prefill-scheduling-alongside-decode) |
