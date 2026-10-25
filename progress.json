@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:10:54.532Z",
+  "generated_at": "2026-10-25T12:12:39.825Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3880,6 +3880,19 @@
       "last_pushed_at": "2026-10-25T12:10:54.383Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:580": {
+      "kind": "problem",
+      "id": "580",
+      "title": "Off-Policy TD(lambda) with Importance-Weighted Eligibility Traces",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/580",
+      "path": "problems/0580-off-policy-td-lambda-with-importance-weighted-eligibility-traces",
+      "first_solved_at": "2026-10-25T12:12:39.294Z",
+      "last_pushed_at": "2026-10-25T12:12:39.294Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
