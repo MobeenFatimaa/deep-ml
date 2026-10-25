@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:51:24.911Z",
+  "generated_at": "2026-10-25T13:55:21.068Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3971,6 +3971,19 @@
       "last_pushed_at": "2026-10-25T13:51:24.443Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:589": {
+      "kind": "problem",
+      "id": "589",
+      "title": "Deterministic Policy Gradient",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/589",
+      "path": "problems/0589-deterministic-policy-gradient",
+      "first_solved_at": "2026-10-25T13:55:20.991Z",
+      "last_pushed_at": "2026-10-25T13:55:20.991Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
