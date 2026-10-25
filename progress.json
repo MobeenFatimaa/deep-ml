@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T14:25:15.470Z",
+  "generated_at": "2026-10-25T14:32:43.370Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3997,6 +3997,19 @@
       "last_pushed_at": "2026-10-25T14:25:15.393Z",
       "language": "python",
       "lines": 52
+    },
+    "problem:602": {
+      "kind": "problem",
+      "id": "602",
+      "title": "TD(λ) Asymptotic Error Bound Verification",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/602",
+      "path": "problems/0602-td-asymptotic-error-bound-verification",
+      "first_solved_at": "2026-10-25T14:32:41.140Z",
+      "last_pushed_at": "2026-10-25T14:32:41.140Z",
+      "language": "python",
+      "lines": 75
     }
   }
 }
