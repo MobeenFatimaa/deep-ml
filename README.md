@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**305** solved · 292 problems · 3 labs · 10 math
+**306** solved · 293 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -60,6 +60,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Measure Disorder in Apple Colors](https://www.deep-ml.com/problems/108) | easy | 2026-10-04 | [solution](problems/0108-measure-disorder-in-apple-colors) |
 | [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-09-26 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Mode-Dependent Context Window Evaluation](https://www.deep-ml.com/problems/762) | easy | 2026-09-30 | [solution](problems/0762-mode-dependent-context-window-evaluation) |
+| [Off-line vs On-line TD(0) Prediction](https://www.deep-ml.com/problems/626) | easy | 2026-10-25 | [solution](problems/0626-off-line-vs-on-line-td-0-prediction) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [PUCT Selection Rule for MCTS](https://www.deep-ml.com/problems/977) | easy | 2026-09-30 | [solution](problems/0977-puct-selection-rule-for-mcts) |
 | [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-10-05 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |

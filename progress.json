@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:18:01.857Z",
+  "generated_at": "2026-10-25T12:20:19.840Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3945,6 +3945,19 @@
       "last_pushed_at": "2026-10-25T12:18:01.517Z",
       "language": "python",
       "lines": 135
+    },
+    "problem:626": {
+      "kind": "problem",
+      "id": "626",
+      "title": "Off-line vs On-line TD(0) Prediction",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/626",
+      "path": "problems/0626-off-line-vs-on-line-td-0-prediction",
+      "first_solved_at": "2026-10-25T12:20:19.710Z",
+      "last_pushed_at": "2026-10-25T12:20:19.710Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
