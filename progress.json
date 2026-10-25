@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:14:49.906Z",
+  "generated_at": "2026-10-25T12:15:32.580Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3919,6 +3919,19 @@
       "last_pushed_at": "2026-10-25T12:14:49.863Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:585": {
+      "kind": "problem",
+      "id": "585",
+      "title": "Parallel Value Functions (Horde)",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/585",
+      "path": "problems/0585-parallel-value-functions-horde",
+      "first_solved_at": "2026-10-25T12:15:32.346Z",
+      "last_pushed_at": "2026-10-25T12:15:32.346Z",
+      "language": "python",
+      "lines": 65
     }
   }
 }
