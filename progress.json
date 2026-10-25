@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T13:55:21.068Z",
+  "generated_at": "2026-10-25T14:25:15.470Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3984,6 +3984,19 @@
       "last_pushed_at": "2026-10-25T13:55:20.991Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:600": {
+      "kind": "problem",
+      "id": "600",
+      "title": "Kanerva Coding for High-Dimensional Spaces",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/600",
+      "path": "problems/0600-kanerva-coding-for-high-dimensional-spaces",
+      "first_solved_at": "2026-10-25T14:25:15.393Z",
+      "last_pushed_at": "2026-10-25T14:25:15.393Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
