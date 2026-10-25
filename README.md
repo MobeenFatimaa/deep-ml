@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**299** solved · 286 problems · 3 labs · 10 math
+**300** solved · 287 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Add a Bias Vector to a Batch via Broadcasting](https://www.deep-ml.com/problems/882) | easy | 2026-09-15 | [solution](problems/0882-add-a-bias-vector-to-a-batch-via-broadcasting) |
 | [Add a Per-Group Average Column with GroupBy Transform](https://www.deep-ml.com/problems/1136) | easy | 2026-09-28 | [solution](problems/1136-add-a-per-group-average-column-with-groupby-transform) |
 | [Apply Zero Padding to an Image](https://www.deep-ml.com/problems/239) | easy | 2026-10-06 | [solution](problems/0239-apply-zero-padding-to-an-image) |
+| [Auto-Sized MLP from Gym Spaces](https://www.deep-ml.com/problems/673) | easy | 2026-10-25 | [solution](problems/0673-auto-sized-mlp-from-gym-spaces) |
 | [Backprop a Linear Layer by Hand](https://www.deep-ml.com/problems/898) | easy | 2026-09-18 | [solution](problems/0898-backprop-a-linear-layer-by-hand) |
 | [Balance Dataset via Undersampling](https://www.deep-ml.com/problems/1057) | easy | 2026-10-14 | [solution](problems/1057-balance-dataset-via-undersampling) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-02 | [solution](problems/0030-batch-iterator-for-dataset) |
