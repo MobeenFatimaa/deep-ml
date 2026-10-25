@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**302** solved · 289 problems · 3 labs · 10 math
+**303** solved · 290 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -269,6 +269,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Prefill Chunk Scheduler with a Fitted Cost Model and a Time Budget](https://www.deep-ml.com/problems/1631) | hard | 2026-10-23 | [solution](problems/1631-prefill-chunk-scheduler-with-a-fitted-cost-model-and-a-time-budget) |
 | [Prioritized Sweeping Algorithm](https://www.deep-ml.com/problems/527) | hard | 2026-10-14 | [solution](problems/0527-prioritized-sweeping-algorithm) |
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-10-14 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
+| [Q(σ) Unified Algorithm](https://www.deep-ml.com/problems/583) | hard | 2026-10-25 | [solution](problems/0583-q-unified-algorithm) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-21 | [solution](problems/0201-qr-decomposition) |
 | [R-Learning for Average Reward](https://www.deep-ml.com/problems/540) | hard | 2026-10-21 | [solution](problems/0540-r-learning-for-average-reward) |
 | [Rainbow DQN Implementation](https://www.deep-ml.com/problems/593) | hard | 2026-10-22 | [solution](problems/0593-rainbow-dqn-implementation) |
