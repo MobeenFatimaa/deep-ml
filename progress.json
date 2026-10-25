@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:12:39.825Z",
+  "generated_at": "2026-10-25T12:13:25.728Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3893,6 +3893,19 @@
       "last_pushed_at": "2026-10-25T12:12:39.294Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:581": {
+      "kind": "problem",
+      "id": "581",
+      "title": "n-Step Tree Backup Algorithm",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/581",
+      "path": "problems/0581-n-step-tree-backup-algorithm",
+      "first_solved_at": "2026-10-25T12:13:25.667Z",
+      "last_pushed_at": "2026-10-25T12:13:25.667Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }
