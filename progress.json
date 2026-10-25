@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T12:15:32.580Z",
+  "generated_at": "2026-10-25T12:18:01.857Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -3932,6 +3932,19 @@
       "last_pushed_at": "2026-10-25T12:15:32.346Z",
       "language": "python",
       "lines": 65
+    },
+    "problem:587": {
+      "kind": "problem",
+      "id": "587",
+      "title": "Temporal Abstraction with Options",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/587",
+      "path": "problems/0587-temporal-abstraction-with-options",
+      "first_solved_at": "2026-10-25T12:18:01.517Z",
+      "last_pushed_at": "2026-10-25T12:18:01.517Z",
+      "language": "python",
+      "lines": 135
     }
   }
 }
