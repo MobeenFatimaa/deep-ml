@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:08:12.501Z",
+  "generated_at": "2026-10-26T11:09:00.322Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4023,6 +4023,19 @@
       "last_pushed_at": "2026-10-26T11:08:12.570Z",
       "language": "python",
       "lines": 55
+    },
+    "problem:614": {
+      "kind": "problem",
+      "id": "614",
+      "title": "Blocking Maze with Model Updates",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/614",
+      "path": "problems/0614-blocking-maze-with-model-updates",
+      "first_solved_at": "2026-10-26T11:09:00.382Z",
+      "last_pushed_at": "2026-10-26T11:09:00.382Z",
+      "language": "python",
+      "lines": 111
     }
   }
 }
