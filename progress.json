@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:09:41.861Z",
+  "generated_at": "2026-10-26T11:13:37.795Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4049,6 +4049,19 @@
       "last_pushed_at": "2026-10-26T11:09:42.241Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:615": {
+      "kind": "problem",
+      "id": "615",
+      "title": "Shortcut Maze and Exploration",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/615",
+      "path": "problems/0615-shortcut-maze-and-exploration",
+      "first_solved_at": "2026-10-26T11:13:37.987Z",
+      "last_pushed_at": "2026-10-26T11:13:37.987Z",
+      "language": "python",
+      "lines": 116
     }
   }
 }
