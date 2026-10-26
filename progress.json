@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T11:09:00.322Z",
+  "generated_at": "2026-10-26T11:09:41.861Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4036,6 +4036,19 @@
       "last_pushed_at": "2026-10-26T11:09:00.382Z",
       "language": "python",
       "lines": 111
+    },
+    "problem:624": {
+      "kind": "problem",
+      "id": "624",
+      "title": "TDNN for Variable-Length Sequences",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/624",
+      "path": "problems/0624-tdnn-for-variable-length-sequences",
+      "first_solved_at": "2026-10-26T11:09:42.241Z",
+      "last_pushed_at": "2026-10-26T11:09:42.241Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
