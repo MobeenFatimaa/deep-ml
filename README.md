@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**323** solved · 310 problems · 3 labs · 10 math
+**324** solved · 311 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -197,6 +197,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Blocking Maze with Model Updates](https://www.deep-ml.com/problems/614) | hard | 2026-10-26 | [solution](problems/0614-blocking-maze-with-model-updates) |
 | [Build a Tiny GPT](https://www.deep-ml.com/problems/918) | hard | 2026-10-23 | [solution](problems/0918-build-a-tiny-gpt) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-10-10 | [solution](problems/0491-build-a-transformer-encoder-layer) |
+| [Build a VQ-VAE from Scratch](https://www.deep-ml.com/problems/699) | hard | 2026-10-27 | [solution](problems/0699-build-a-vq-vae-from-scratch) |
 | [Certainty-Equivalence in TD Learning](https://www.deep-ml.com/problems/516) | hard | 2026-10-14 | [solution](problems/0516-certainty-equivalence-in-td-learning) |
 | [Cohort Retention: First Login and Consecutive-Day Logins](https://www.deep-ml.com/problems/1119) | hard | 2026-10-23 | [solution](problems/1119-cohort-retention-first-login-and-consecutive-day-logins) |
 | [Combined Token Sampling Pipeline (Temperature + Top-k + Top-p)](https://www.deep-ml.com/problems/419) | hard | 2026-10-14 | [solution](problems/0419-combined-token-sampling-pipeline-temperature-top-k-top-p) |
