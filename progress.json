@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:53:27.632Z",
+  "generated_at": "2026-10-27T09:55:47.867Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4075,6 +4075,19 @@
       "last_pushed_at": "2026-10-27T09:53:27.584Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:596": {
+      "kind": "problem",
+      "id": "596",
+      "title": "Distributional RL: Categorical Projection (C51)",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/596",
+      "path": "problems/0596-distributional-rl-categorical-projection-c51",
+      "first_solved_at": "2026-10-27T09:55:48.043Z",
+      "last_pushed_at": "2026-10-27T09:55:48.043Z",
+      "language": "python",
+      "lines": 49
     }
   }
 }
