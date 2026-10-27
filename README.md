@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**320** solved · 307 problems · 3 labs · 10 math
+**321** solved · 308 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -213,6 +213,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Distributional RL: Categorical Projection (C51)](https://www.deep-ml.com/problems/596) | hard | 2026-10-27 | [solution](problems/0596-distributional-rl-categorical-projection-c51) |
 | [Dyna-Q: Model-Based RL with Planning](https://www.deep-ml.com/problems/524) | hard | 2026-10-14 | [solution](problems/0524-dyna-q-model-based-rl-with-planning) |
 | [Emphatic Temporal Difference Learning for Off-Policy Evaluation](https://www.deep-ml.com/problems/568) | hard | 2026-10-19 | [solution](problems/0568-emphatic-temporal-difference-learning-for-off-policy-evaluation) |
+| [EnvPool-style Asynchronous Environment Pooling](https://www.deep-ml.com/problems/656) | hard | 2026-10-27 | [solution](problems/0656-envpool-style-asynchronous-environment-pooling) |
 | [First-Visit Monte Carlo Control with Exploring Starts](https://www.deep-ml.com/problems/470) | hard | 2026-10-13 | [solution](problems/0470-first-visit-monte-carlo-control-with-exploring-starts) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-10-09 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [FP4 Quantization with Microscaling (MXFP4)](https://www.deep-ml.com/problems/427) | hard | 2026-10-10 | [solution](problems/0427-fp4-quantization-with-microscaling-mxfp4) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:14:13.692Z",
+  "generated_at": "2026-10-27T10:15:44.256Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4140,6 +4140,19 @@
       "last_pushed_at": "2026-10-27T10:14:13.833Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:656": {
+      "kind": "problem",
+      "id": "656",
+      "title": "EnvPool-style Asynchronous Environment Pooling",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/656",
+      "path": "problems/0656-envpool-style-asynchronous-environment-pooling",
+      "first_solved_at": "2026-10-27T10:15:44.196Z",
+      "last_pushed_at": "2026-10-27T10:15:44.196Z",
+      "language": "python",
+      "lines": 55
     }
   }
 }
