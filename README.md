@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**317** solved · 304 problems · 3 labs · 10 math
+**318** solved · 305 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -297,6 +297,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Streaming Output Parser with UTF-8 Buffering and Incremental Delimiter Matching](https://www.deep-ml.com/problems/1642) | hard | 2026-10-23 | [solution](problems/1642-streaming-output-parser-with-utf-8-buffering-and-incremental-delimiter-matching) |
 | [Successor Representation Learning](https://www.deep-ml.com/problems/597) | hard | 2026-10-25 | [solution](problems/0597-successor-representation-learning) |
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-10-11 | [solution](problems/0028-svd-of-a-2x2-matrix) |
+| [TD-Gammon Position Evaluation Network](https://www.deep-ml.com/problems/618) | hard | 2026-10-27 | [solution](problems/0618-td-gammon-position-evaluation-network) |
 | [TD(λ) Asymptotic Error Bound Verification](https://www.deep-ml.com/problems/602) | hard | 2026-10-25 | [solution](problems/0602-td-asymptotic-error-bound-verification) |
 | [TD(λ) Forward View for Value Prediction](https://www.deep-ml.com/problems/520) | hard | 2026-10-14 | [solution](problems/0520-td-forward-view-for-value-prediction) |
 | [TD(λ) with Eligibility Traces](https://www.deep-ml.com/problems/274) | hard | 2026-10-12 | [solution](problems/0274-td-with-eligibility-traces) |

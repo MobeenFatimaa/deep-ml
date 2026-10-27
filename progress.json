@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:04:21.812Z",
+  "generated_at": "2026-10-27T10:07:45.216Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4101,6 +4101,19 @@
       "last_pushed_at": "2026-10-27T10:04:22.013Z",
       "language": "python",
       "lines": 49
+    },
+    "problem:618": {
+      "kind": "problem",
+      "id": "618",
+      "title": "TD-Gammon Position Evaluation Network",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/618",
+      "path": "problems/0618-td-gammon-position-evaluation-network",
+      "first_solved_at": "2026-10-27T10:07:45.136Z",
+      "last_pushed_at": "2026-10-27T10:07:45.136Z",
+      "language": "python",
+      "lines": 87
     }
   }
 }
