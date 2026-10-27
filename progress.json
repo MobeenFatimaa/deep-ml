@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:19:30.559Z",
+  "generated_at": "2026-10-27T10:33:35.192Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4192,6 +4192,19 @@
       "last_pushed_at": "2026-10-27T10:19:30.758Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:655": {
+      "kind": "problem",
+      "id": "655",
+      "title": "Parallel Environment Simulation with Multiprocessing",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/655",
+      "path": "problems/0655-parallel-environment-simulation-with-multiprocessing",
+      "first_solved_at": "2026-10-27T10:33:34.357Z",
+      "last_pushed_at": "2026-10-27T10:33:34.357Z",
+      "language": "python",
+      "lines": 79
     }
   }
 }
