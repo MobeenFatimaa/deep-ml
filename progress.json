@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:16:32.957Z",
+  "generated_at": "2026-10-27T10:18:02.535Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4166,6 +4166,19 @@
       "last_pushed_at": "2026-10-27T10:16:33.083Z",
       "language": "python",
       "lines": 55
+    },
+    "problem:650": {
+      "kind": "problem",
+      "id": "650",
+      "title": "Variance Reduction in TD Learning via Truncated Importance Sampling",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/650",
+      "path": "problems/0650-variance-reduction-in-td-learning-via-truncated-importance-sampling",
+      "first_solved_at": "2026-10-27T10:18:02.504Z",
+      "last_pushed_at": "2026-10-27T10:18:02.504Z",
+      "language": "python",
+      "lines": 74
     }
   }
 }
