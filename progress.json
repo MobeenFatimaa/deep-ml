@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:15:44.256Z",
+  "generated_at": "2026-10-27T10:16:32.957Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4151,6 +4151,19 @@
       "path": "problems/0656-envpool-style-asynchronous-environment-pooling",
       "first_solved_at": "2026-10-27T10:15:44.196Z",
       "last_pushed_at": "2026-10-27T10:15:44.196Z",
+      "language": "python",
+      "lines": 55
+    },
+    "problem:648": {
+      "kind": "problem",
+      "id": "648",
+      "title": "TD(λ) Convergence Verification",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/648",
+      "path": "problems/0648-td-convergence-verification",
+      "first_solved_at": "2026-10-27T10:16:33.083Z",
+      "last_pushed_at": "2026-10-27T10:16:33.083Z",
       "language": "python",
       "lines": 55
     }

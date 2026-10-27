@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**321** solved · 308 problems · 3 labs · 10 math
+**322** solved · 309 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -302,6 +302,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [SVD of a 2x2 Matrix](https://www.deep-ml.com/problems/28) | hard | 2026-10-11 | [solution](problems/0028-svd-of-a-2x2-matrix) |
 | [TD-Gammon Position Evaluation Network](https://www.deep-ml.com/problems/618) | hard | 2026-10-27 | [solution](problems/0618-td-gammon-position-evaluation-network) |
 | [TD(λ) Asymptotic Error Bound Verification](https://www.deep-ml.com/problems/602) | hard | 2026-10-25 | [solution](problems/0602-td-asymptotic-error-bound-verification) |
+| [TD(λ) Convergence Verification](https://www.deep-ml.com/problems/648) | hard | 2026-10-27 | [solution](problems/0648-td-convergence-verification) |
 | [TD(λ) Forward View for Value Prediction](https://www.deep-ml.com/problems/520) | hard | 2026-10-14 | [solution](problems/0520-td-forward-view-for-value-prediction) |
 | [TD(λ) with Eligibility Traces](https://www.deep-ml.com/problems/274) | hard | 2026-10-12 | [solution](problems/0274-td-with-eligibility-traces) |
 | [TDNN for Variable-Length Sequences](https://www.deep-ml.com/problems/624) | hard | 2026-10-26 | [solution](problems/0624-tdnn-for-variable-length-sequences) |
