@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:07:45.216Z",
+  "generated_at": "2026-10-27T10:12:20.062Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4114,6 +4114,19 @@
       "last_pushed_at": "2026-10-27T10:07:45.136Z",
       "language": "python",
       "lines": 87
+    },
+    "problem:622": {
+      "kind": "problem",
+      "id": "622",
+      "title": "Job-Shop Scheduling with TD Learning",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/622",
+      "path": "problems/0622-job-shop-scheduling-with-td-learning",
+      "first_solved_at": "2026-10-27T10:12:19.966Z",
+      "last_pushed_at": "2026-10-27T10:12:19.966Z",
+      "language": "python",
+      "lines": 107
     }
   }
 }
