@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T09:55:47.867Z",
+  "generated_at": "2026-10-27T10:04:21.812Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4086,6 +4086,19 @@
       "path": "problems/0596-distributional-rl-categorical-projection-c51",
       "first_solved_at": "2026-10-27T09:55:48.043Z",
       "last_pushed_at": "2026-10-27T09:55:48.043Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:601": {
+      "kind": "problem",
+      "id": "601",
+      "title": "Hashing for Memory-Efficient Tile Coding",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/601",
+      "path": "problems/0601-hashing-for-memory-efficient-tile-coding",
+      "first_solved_at": "2026-10-27T10:04:22.013Z",
+      "last_pushed_at": "2026-10-27T10:04:22.013Z",
       "language": "python",
       "lines": 49
     }

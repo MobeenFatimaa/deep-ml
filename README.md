@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**316** solved · 303 problems · 3 labs · 10 math
+**317** solved · 304 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -222,6 +222,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-09-29 | [solution](problems/0088-gpt-2-text-generation) |
 | [Gradient Temporal Difference (GTD2) for Off-Policy Value Prediction](https://www.deep-ml.com/problems/567) | hard | 2026-10-19 | [solution](problems/0567-gradient-temporal-difference-gtd2-for-off-policy-value-prediction) |
 | [GSPO: Group Sequence Policy Optimization](https://www.deep-ml.com/problems/209) | hard | 2026-10-11 | [solution](problems/0209-gspo-group-sequence-policy-optimization) |
+| [Hashing for Memory-Efficient Tile Coding](https://www.deep-ml.com/problems/601) | hard | 2026-10-27 | [solution](problems/0601-hashing-for-memory-efficient-tile-coding) |
 | [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-10-09 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2026-10-09 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |
 | [Implement a Simple RNN with Backpropagation Through Time (BPTT)](https://www.deep-ml.com/problems/62) | hard | 2026-10-05 | [solution](problems/0062-implement-a-simple-rnn-with-backpropagation-through-time-bptt) |
