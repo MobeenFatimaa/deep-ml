@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:12:20.062Z",
+  "generated_at": "2026-10-27T10:14:13.692Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4127,6 +4127,19 @@
       "last_pushed_at": "2026-10-27T10:12:19.966Z",
       "language": "python",
       "lines": 107
+    },
+    "problem:652": {
+      "kind": "problem",
+      "id": "652",
+      "title": "Intra-Option Q-Learning for Temporal Abstraction",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/652",
+      "path": "problems/0652-intra-option-q-learning-for-temporal-abstraction",
+      "first_solved_at": "2026-10-27T10:14:13.833Z",
+      "last_pushed_at": "2026-10-27T10:14:13.833Z",
+      "language": "python",
+      "lines": 47
     }
   }
 }
