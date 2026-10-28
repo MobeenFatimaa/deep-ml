@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:36:52.852Z",
+  "generated_at": "2026-10-28T08:37:47.243Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4231,6 +4231,19 @@
       "last_pushed_at": "2026-10-28T08:36:52.136Z",
       "language": "python",
       "lines": 64
+    },
+    "problem:649": {
+      "kind": "problem",
+      "id": "649",
+      "title": "Bellman Error Minimization with Linear Function Approximation",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/649",
+      "path": "problems/0649-bellman-error-minimization-with-linear-function-approximation",
+      "first_solved_at": "2026-10-28T08:37:46.225Z",
+      "last_pushed_at": "2026-10-28T08:37:46.225Z",
+      "language": "python",
+      "lines": 59
     }
   }
 }
