@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**325** solved · 312 problems · 3 labs · 10 math
+**326** solved · 313 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -103,6 +103,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-10-18 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
 | [Critical Path Method for Scheduling](https://www.deep-ml.com/problems/637) | medium | 2026-09-24 | [solution](problems/0637-critical-path-method-for-scheduling) |
 | [Cumulative Percentage of Scores by Bucket Within Each Grade](https://www.deep-ml.com/problems/1463) | medium | 2026-09-29 | [solution](problems/1463-cumulative-percentage-of-scores-by-bucket-within-each-grade) |
+| [Cython vs Python Performance for Array Operations](https://www.deep-ml.com/problems/676) | medium | 2026-10-28 | [solution](problems/0676-cython-vs-python-performance-for-array-operations) |
 | [Data Quality Scoring for ML Pipelines](https://www.deep-ml.com/problems/252) | medium | 2026-10-08 | [solution](problems/0252-data-quality-scoring-for-ml-pipelines) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-18 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-09-14 | [solution](problems/0219-derivative-of-softmax) |

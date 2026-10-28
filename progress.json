@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T10:33:35.192Z",
+  "generated_at": "2026-10-28T08:35:58.949Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4205,6 +4205,19 @@
       "last_pushed_at": "2026-10-27T10:33:34.357Z",
       "language": "python",
       "lines": 79
+    },
+    "problem:676": {
+      "kind": "problem",
+      "id": "676",
+      "title": "Cython vs Python Performance for Array Operations",
+      "difficulty": "medium",
+      "category": "Performance Optimization",
+      "url": "https://www.deep-ml.com/problems/676",
+      "path": "problems/0676-cython-vs-python-performance-for-array-operations",
+      "first_solved_at": "2026-10-28T08:35:58.206Z",
+      "last_pushed_at": "2026-10-28T08:35:58.206Z",
+      "language": "python",
+      "lines": 89
     }
   }
 }
