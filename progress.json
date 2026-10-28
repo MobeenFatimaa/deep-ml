@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:43:59.619Z",
+  "generated_at": "2026-10-28T08:44:52.052Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4335,6 +4335,19 @@
       "last_pushed_at": "2026-10-28T08:43:58.955Z",
       "language": "python",
       "lines": 92
+    },
+    "problem:748": {
+      "kind": "problem",
+      "id": "748",
+      "title": "Deterministic Sparse Attention Backward KV Accumulation",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/748",
+      "path": "problems/0748-deterministic-sparse-attention-backward-kv-accumulation",
+      "first_solved_at": "2026-10-28T08:44:49.678Z",
+      "last_pushed_at": "2026-10-28T08:44:49.678Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
