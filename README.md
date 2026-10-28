@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**329** solved · 316 problems · 3 labs · 10 math
+**330** solved · 317 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -328,6 +328,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-10-24 | [solution](problems/0206-variational-inference-elbo-computation) |
 | [Video Tokenizer with Spatiotemporal VQ-VAE](https://www.deep-ml.com/problems/704) | hard | 2026-10-23 | [solution](problems/0704-video-tokenizer-with-spatiotemporal-vq-vae) |
 | [Wave-Based Expert Parallelism Pipelining](https://www.deep-ml.com/problems/756) | hard | 2026-10-23 | [solution](problems/0756-wave-based-expert-parallelism-pipelining) |
+| [Zero-Copy C Environment Implementation](https://www.deep-ml.com/problems/670) | hard | 2026-10-28 | [solution](problems/0670-zero-copy-c-environment-implementation) |
 
 ## Labs
 
