@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:41:03.305Z",
+  "generated_at": "2026-10-28T08:43:01.162Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4309,6 +4309,19 @@
       "last_pushed_at": "2026-10-28T08:41:02.660Z",
       "language": "python",
       "lines": 78
+    },
+    "problem:621": {
+      "kind": "problem",
+      "id": "621",
+      "title": "Dynamic Channel Allocation with Afterstates",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/621",
+      "path": "problems/0621-dynamic-channel-allocation-with-afterstates",
+      "first_solved_at": "2026-10-28T08:43:00.145Z",
+      "last_pushed_at": "2026-10-28T08:43:00.145Z",
+      "language": "python",
+      "lines": 86
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**333** solved · 320 problems · 3 labs · 10 math
+**334** solved · 321 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -216,6 +216,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Distributed On-Policy Reinforcement Learning](https://www.deep-ml.com/problems/504) | hard | 2026-10-13 | [solution](problems/0504-distributed-on-policy-reinforcement-learning) |
 | [Distributional RL: Categorical Projection (C51)](https://www.deep-ml.com/problems/596) | hard | 2026-10-27 | [solution](problems/0596-distributional-rl-categorical-projection-c51) |
 | [Dyna-Q: Model-Based RL with Planning](https://www.deep-ml.com/problems/524) | hard | 2026-10-14 | [solution](problems/0524-dyna-q-model-based-rl-with-planning) |
+| [Dynamic Channel Allocation with Afterstates](https://www.deep-ml.com/problems/621) | hard | 2026-10-28 | [solution](problems/0621-dynamic-channel-allocation-with-afterstates) |
 | [Emphatic Temporal Difference Learning for Off-Policy Evaluation](https://www.deep-ml.com/problems/568) | hard | 2026-10-19 | [solution](problems/0568-emphatic-temporal-difference-learning-for-off-policy-evaluation) |
 | [EnvPool-style Asynchronous Environment Pooling](https://www.deep-ml.com/problems/656) | hard | 2026-10-27 | [solution](problems/0656-envpool-style-asynchronous-environment-pooling) |
 | [First-Visit Monte Carlo Control with Exploring Starts](https://www.deep-ml.com/problems/470) | hard | 2026-10-13 | [solution](problems/0470-first-visit-monte-carlo-control-with-exploring-starts) |
