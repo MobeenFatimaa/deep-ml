@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:43:01.162Z",
+  "generated_at": "2026-10-28T08:43:59.619Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4322,6 +4322,19 @@
       "last_pushed_at": "2026-10-28T08:43:00.145Z",
       "language": "python",
       "lines": 86
+    },
+    "problem:777": {
+      "kind": "problem",
+      "id": "777",
+      "title": "MCTS with Step-wise Reward for Reasoning Trace Search",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/777",
+      "path": "problems/0777-mcts-with-step-wise-reward-for-reasoning-trace-search",
+      "first_solved_at": "2026-10-28T08:43:58.955Z",
+      "last_pushed_at": "2026-10-28T08:43:58.955Z",
+      "language": "python",
+      "lines": 92
     }
   }
 }
