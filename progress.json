@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:37:47.243Z",
+  "generated_at": "2026-10-28T08:38:30.088Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4244,6 +4244,19 @@
       "last_pushed_at": "2026-10-28T08:37:46.225Z",
       "language": "python",
       "lines": 59
+    },
+    "problem:683": {
+      "kind": "problem",
+      "id": "683",
+      "title": "Goal-Conditioned World Model with Future Anchoring",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/683",
+      "path": "problems/0683-goal-conditioned-world-model-with-future-anchoring",
+      "first_solved_at": "2026-10-28T08:38:29.228Z",
+      "last_pushed_at": "2026-10-28T08:38:29.228Z",
+      "language": "python",
+      "lines": 117
     }
   }
 }
