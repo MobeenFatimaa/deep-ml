@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:40:24.829Z",
+  "generated_at": "2026-10-28T08:41:03.305Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4296,6 +4296,19 @@
       "last_pushed_at": "2026-10-28T08:40:24.115Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:700": {
+      "kind": "problem",
+      "id": "700",
+      "title": "Implement a Spatiotemporal Transformer Block",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/700",
+      "path": "problems/0700-implement-a-spatiotemporal-transformer-block",
+      "first_solved_at": "2026-10-28T08:41:02.660Z",
+      "last_pushed_at": "2026-10-28T08:41:02.660Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }
