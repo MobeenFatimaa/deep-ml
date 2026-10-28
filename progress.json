@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:39:08.560Z",
+  "generated_at": "2026-10-28T08:39:47.238Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4270,6 +4270,19 @@
       "last_pushed_at": "2026-10-28T08:39:07.863Z",
       "language": "python",
       "lines": 87
+    },
+    "problem:646": {
+      "kind": "problem",
+      "id": "646",
+      "title": "Sparse Distributed Memory",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/646",
+      "path": "problems/0646-sparse-distributed-memory",
+      "first_solved_at": "2026-10-28T08:39:46.531Z",
+      "last_pushed_at": "2026-10-28T08:39:46.531Z",
+      "language": "python",
+      "lines": 77
     }
   }
 }
