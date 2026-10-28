@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**331** solved · 318 problems · 3 labs · 10 math
+**332** solved · 319 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -324,6 +324,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [True Online TD(λ) with Linear Function Approximation](https://www.deep-ml.com/problems/561) | hard | 2026-10-19 | [solution](problems/0561-true-online-td-with-linear-function-approximation) |
 | [Trust Region Policy Optimization (TRPO)](https://www.deep-ml.com/problems/595) | hard | 2026-10-10 | [solution](problems/0595-trust-region-policy-optimization-trpo) |
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
+| [Unsupervised Latent Action Discovery](https://www.deep-ml.com/problems/701) | hard | 2026-10-28 | [solution](problems/0701-unsupervised-latent-action-discovery) |
 | [Value Functions for Options](https://www.deep-ml.com/problems/588) | hard | 2026-10-22 | [solution](problems/0588-value-functions-for-options) |
 | [Variance Reduction in TD Learning via Truncated Importance Sampling](https://www.deep-ml.com/problems/650) | hard | 2026-10-27 | [solution](problems/0650-variance-reduction-in-td-learning-via-truncated-importance-sampling) |
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-10-24 | [solution](problems/0206-variational-inference-elbo-computation) |

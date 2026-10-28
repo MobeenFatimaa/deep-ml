@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:39:47.238Z",
+  "generated_at": "2026-10-28T08:40:24.829Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4283,6 +4283,19 @@
       "last_pushed_at": "2026-10-28T08:39:46.531Z",
       "language": "python",
       "lines": 77
+    },
+    "problem:701": {
+      "kind": "problem",
+      "id": "701",
+      "title": "Unsupervised Latent Action Discovery",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/701",
+      "path": "problems/0701-unsupervised-latent-action-discovery",
+      "first_solved_at": "2026-10-28T08:40:24.115Z",
+      "last_pushed_at": "2026-10-28T08:40:24.115Z",
+      "language": "python",
+      "lines": 46
     }
   }
 }
