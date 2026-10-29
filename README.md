@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**339** solved · 326 problems · 3 labs · 10 math
+**340** solved · 327 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -309,6 +309,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Sparse Autoencoder Training Step and Diagnostics](https://www.deep-ml.com/problems/1624) | hard | 2026-10-23 | [solution](problems/1624-sparse-autoencoder-training-step-and-diagnostics) |
 | [Sparse Distributed Memory](https://www.deep-ml.com/problems/646) | hard | 2026-10-28 | [solution](problems/0646-sparse-distributed-memory) |
+| [Spatial vs. Spatiotemporal Video Tokenizer Ablation](https://www.deep-ml.com/problems/718) | hard | 2026-10-29 | [solution](problems/0718-spatial-vs-spatiotemporal-video-tokenizer-ablation) |
 | [Speculative Decoding End-to-End Simulation](https://www.deep-ml.com/problems/410) | hard | 2026-10-12 | [solution](problems/0410-speculative-decoding-end-to-end-simulation) |
 | [Streaming Output Parser with UTF-8 Buffering and Incremental Delimiter Matching](https://www.deep-ml.com/problems/1642) | hard | 2026-10-23 | [solution](problems/1642-streaming-output-parser-with-utf-8-buffering-and-incremental-delimiter-matching) |
 | [Successor Representation Learning](https://www.deep-ml.com/problems/597) | hard | 2026-10-25 | [solution](problems/0597-successor-representation-learning) |
