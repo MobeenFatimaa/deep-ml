@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:44:52.052Z",
+  "generated_at": "2026-10-29T08:00:57.955Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4348,6 +4348,19 @@
       "last_pushed_at": "2026-10-28T08:44:49.678Z",
       "language": "python",
       "lines": 31
+    },
+    "problem:690": {
+      "kind": "problem",
+      "id": "690",
+      "title": "Hybrid Vision Transformer for Multi-Task Driving Perception",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/690",
+      "path": "problems/0690-hybrid-vision-transformer-for-multi-task-driving-perception",
+      "first_solved_at": "2026-10-29T08:00:56.748Z",
+      "last_pushed_at": "2026-10-29T08:00:56.748Z",
+      "language": "python",
+      "lines": 88
     }
   }
 }
