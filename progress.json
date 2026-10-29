@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:03:23.664Z",
+  "generated_at": "2026-10-29T08:04:08.123Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4400,6 +4400,19 @@
       "last_pushed_at": "2026-10-29T08:03:22.927Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:749": {
+      "kind": "problem",
+      "id": "749",
+      "title": "Deterministic MoE Backward with Buffer Isolation",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/749",
+      "path": "problems/0749-deterministic-moe-backward-with-buffer-isolation",
+      "first_solved_at": "2026-10-29T08:04:07.564Z",
+      "last_pushed_at": "2026-10-29T08:04:07.564Z",
+      "language": "python",
+      "lines": 40
     }
   }
 }
