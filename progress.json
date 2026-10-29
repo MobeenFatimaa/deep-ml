@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:50:07.369Z",
+  "generated_at": "2026-10-29T09:51:18.569Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4424,6 +4424,19 @@
       "path": "problems/0735-overlapping-weighted-kv-compression",
       "first_solved_at": "2026-10-29T09:50:06.350Z",
       "last_pushed_at": "2026-10-29T09:50:06.350Z",
+      "language": "python",
+      "lines": 37
+    },
+    "problem:925": {
+      "kind": "problem",
+      "id": "925",
+      "title": "Tinygrad: Implement Multi-Head Self-Attention",
+      "difficulty": "hard",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/925",
+      "path": "problems/0925-tinygrad-implement-multi-head-self-attention",
+      "first_solved_at": "2026-10-29T09:51:17.868Z",
+      "last_pushed_at": "2026-10-29T09:51:17.868Z",
       "language": "python",
       "lines": 37
     }
