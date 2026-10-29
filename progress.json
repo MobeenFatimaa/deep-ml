@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:58:49.607Z",
+  "generated_at": "2026-10-29T10:16:06.097Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4491,6 +4491,19 @@
       "last_pushed_at": "2026-10-29T09:58:48.931Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:1300": {
+      "kind": "problem",
+      "id": "1300",
+      "title": "AgentOPSD: Full Turn-Level Credit Assignment Pipeline",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/1300",
+      "path": "problems/1300-agentopsd-full-turn-level-credit-assignment-pipeline",
+      "first_solved_at": "2026-10-29T10:16:05.241Z",
+      "last_pushed_at": "2026-10-29T10:16:05.241Z",
+      "language": "python",
+      "lines": 63
     }
   }
 }
