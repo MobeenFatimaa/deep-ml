@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:53:11.646Z",
+  "generated_at": "2026-10-29T09:53:32.870Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4462,7 +4462,7 @@
       "url": "https://www.deep-ml.com/problems/1025",
       "path": "problems/1025-llama-3-rope-frequency-scaling",
       "first_solved_at": "2026-10-29T09:53:11.016Z",
-      "last_pushed_at": "2026-10-29T09:53:11.016Z",
+      "last_pushed_at": "2026-10-29T09:53:32.202Z",
       "language": "python",
       "lines": 50
     }
