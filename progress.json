@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:53:32.870Z",
+  "generated_at": "2026-10-29T09:55:40.406Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4465,6 +4465,19 @@
       "last_pushed_at": "2026-10-29T09:53:32.202Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:664": {
+      "kind": "problem",
+      "id": "664",
+      "title": "Asynchronous PPO Training Pipeline",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/664",
+      "path": "problems/0664-asynchronous-ppo-training-pipeline",
+      "first_solved_at": "2026-10-29T09:55:39.880Z",
+      "last_pushed_at": "2026-10-29T09:55:39.880Z",
+      "language": "python",
+      "lines": 97
     }
   }
 }

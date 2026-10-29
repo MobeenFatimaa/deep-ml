@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**345** solved · 332 problems · 3 labs · 10 math
+**346** solved · 333 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -195,6 +195,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Anticipatory Routing for MoE Training Stability](https://www.deep-ml.com/problems/744) | hard | 2026-10-23 | [solution](problems/0744-anticipatory-routing-for-moe-training-stability) |
 | [Approximate Nearest-Neighbour Search: Inverted File Index with Product Quantization (IVF-PQ)](https://www.deep-ml.com/problems/1606) | hard | 2026-10-17 | [solution](problems/1606-approximate-nearest-neighbour-search-inverted-file-index-with-product-quantization-ivf-pq) |
 | [Asynchronous Advantage Actor-Critic (A3C)](https://www.deep-ml.com/problems/594) | hard | 2026-10-22 | [solution](problems/0594-asynchronous-advantage-actor-critic-a3c) |
+| [Asynchronous PPO Training Pipeline](https://www.deep-ml.com/problems/664) | hard | 2026-10-29 | [solution](problems/0664-asynchronous-ppo-training-pipeline) |
 | [Backgammon with TD Learning](https://www.deep-ml.com/problems/579) | hard | 2026-10-23 | [solution](problems/0579-backgammon-with-td-learning) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-09-29 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
 | [Bellman Error Minimization with Linear Function Approximation](https://www.deep-ml.com/problems/649) | hard | 2026-10-28 | [solution](problems/0649-bellman-error-minimization-with-linear-function-approximation) |
