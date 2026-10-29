@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:01:45.245Z",
+  "generated_at": "2026-10-29T08:02:44.741Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4374,6 +4374,19 @@
       "last_pushed_at": "2026-10-29T08:01:44.476Z",
       "language": "python",
       "lines": 65
+    },
+    "problem:734": {
+      "kind": "problem",
+      "id": "734",
+      "title": "Token-Level Key-Value Compression with Overlapping Windows",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/734",
+      "path": "problems/0734-token-level-key-value-compression-with-overlapping-windows",
+      "first_solved_at": "2026-10-29T08:02:44.017Z",
+      "last_pushed_at": "2026-10-29T08:02:44.017Z",
+      "language": "python",
+      "lines": 52
     }
   }
 }
