@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**343** solved · 330 problems · 3 labs · 10 math
+**344** solved · 331 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -241,6 +241,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Spatiotemporal Transformer Block](https://www.deep-ml.com/problems/700) | hard | 2026-10-28 | [solution](problems/0700-implement-a-spatiotemporal-transformer-block) |
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-10-12 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Core MDN Residualization](https://www.deep-ml.com/problems/358) | hard | 2026-10-10 | [solution](problems/0358-implement-core-mdn-residualization) |
+| [Implement Cross-Layer KV Sharing in Transformer](https://www.deep-ml.com/problems/1020) | hard | 2026-10-29 | [solution](problems/1020-implement-cross-layer-kv-sharing-in-transformer) |
 | [Implement Gated DeltaNet Linear Attention](https://www.deep-ml.com/problems/1017) | hard | 2026-10-23 | [solution](problems/1017-implement-gated-deltanet-linear-attention) |
 | [Implement Kernel PCA with RBF Kernel](https://www.deep-ml.com/problems/349) | hard | 2026-10-12 | [solution](problems/0349-implement-kernel-pca-with-rbf-kernel) |
 | [Implement Llama 3.1 RoPE Frequency Rescaling](https://www.deep-ml.com/problems/1024) | hard | 2026-10-23 | [solution](problems/1024-implement-llama-3-1-rope-frequency-rescaling) |

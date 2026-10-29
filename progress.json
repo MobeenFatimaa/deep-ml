@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:51:18.569Z",
+  "generated_at": "2026-10-29T09:52:21.648Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4439,6 +4439,19 @@
       "last_pushed_at": "2026-10-29T09:51:17.868Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:1020": {
+      "kind": "problem",
+      "id": "1020",
+      "title": "Implement Cross-Layer KV Sharing in Transformer",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1020",
+      "path": "problems/1020-implement-cross-layer-kv-sharing-in-transformer",
+      "first_solved_at": "2026-10-29T09:52:20.898Z",
+      "last_pushed_at": "2026-10-29T09:52:20.898Z",
+      "language": "python",
+      "lines": 57
     }
   }
 }
