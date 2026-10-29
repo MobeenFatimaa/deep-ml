@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**346** solved · 333 problems · 3 labs · 10 math
+**347** solved · 334 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -289,6 +289,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Parallel Environment Simulation with Multiprocessing](https://www.deep-ml.com/problems/655) | hard | 2026-10-27 | [solution](problems/0655-parallel-environment-simulation-with-multiprocessing) |
 | [Parallel Value Functions (Horde)](https://www.deep-ml.com/problems/585) | hard | 2026-10-25 | [solution](problems/0585-parallel-value-functions-horde) |
 | [Pattern Matching and Graph Rewrite to a Fixed Point](https://www.deep-ml.com/problems/1510) | hard | 2026-10-15 | [solution](problems/1510-pattern-matching-and-graph-rewrite-to-a-fixed-point) |
+| [Per-Layer Embedding Projection (PLE)](https://www.deep-ml.com/problems/1050) | hard | 2026-10-29 | [solution](problems/1050-per-layer-embedding-projection-ple) |
 | [Policy Gradient with REINFORCE](https://www.deep-ml.com/problems/122) | hard | 2026-10-11 | [solution](problems/0122-policy-gradient-with-reinforce) |
 | [Policy Iteration for Markov Decision Processes](https://www.deep-ml.com/problems/467) | hard | 2026-10-13 | [solution](problems/0467-policy-iteration-for-markov-decision-processes) |
 | [Policy Iteration on Jack's Car Rental](https://www.deep-ml.com/problems/546) | hard | 2026-10-18 | [solution](problems/0546-policy-iteration-on-jack-s-car-rental) |

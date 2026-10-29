@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:55:40.406Z",
+  "generated_at": "2026-10-29T09:58:49.607Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4478,6 +4478,19 @@
       "last_pushed_at": "2026-10-29T09:55:39.880Z",
       "language": "python",
       "lines": 97
+    },
+    "problem:1050": {
+      "kind": "problem",
+      "id": "1050",
+      "title": "Per-Layer Embedding Projection (PLE)",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1050",
+      "path": "problems/1050-per-layer-embedding-projection-ple",
+      "first_solved_at": "2026-10-29T09:58:48.931Z",
+      "last_pushed_at": "2026-10-29T09:58:48.931Z",
+      "language": "python",
+      "lines": 37
     }
   }
 }
