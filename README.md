@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**344** solved · 331 problems · 3 labs · 10 math
+**345** solved · 332 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -264,6 +264,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-10-18 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
 | [Lightning Indexer Sparse Attention Selection](https://www.deep-ml.com/problems/736) | hard | 2026-10-22 | [solution](problems/0736-lightning-indexer-sparse-attention-selection) |
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-10-16 | [solution](problems/0534-linear-sarsa-algorithm) |
+| [Llama 3 RoPE Frequency Scaling](https://www.deep-ml.com/problems/1025) | hard | 2026-10-29 | [solution](problems/1025-llama-3-rope-frequency-scaling) |
 | [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-10-22 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
 | [Masked Generative Token Prediction Step](https://www.deep-ml.com/problems/706) | hard | 2026-10-22 | [solution](problems/0706-masked-generative-token-prediction-step) |
 | [MCTS with Step-wise Reward for Reasoning Trace Search](https://www.deep-ml.com/problems/777) | hard | 2026-10-28 | [solution](problems/0777-mcts-with-step-wise-reward-for-reasoning-trace-search) |

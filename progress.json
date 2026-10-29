@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:52:21.648Z",
+  "generated_at": "2026-10-29T09:53:11.646Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4452,6 +4452,19 @@
       "last_pushed_at": "2026-10-29T09:52:20.898Z",
       "language": "python",
       "lines": 57
+    },
+    "problem:1025": {
+      "kind": "problem",
+      "id": "1025",
+      "title": "Llama 3 RoPE Frequency Scaling",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1025",
+      "path": "problems/1025-llama-3-rope-frequency-scaling",
+      "first_solved_at": "2026-10-29T09:53:11.016Z",
+      "last_pushed_at": "2026-10-29T09:53:11.016Z",
+      "language": "python",
+      "lines": 50
     }
   }
 }
