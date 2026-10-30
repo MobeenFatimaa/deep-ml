@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:07:37.638Z",
+  "generated_at": "2026-10-30T07:08:23.136Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4530,6 +4530,19 @@
       "last_pushed_at": "2026-10-30T07:07:36.609Z",
       "language": "sql",
       "lines": 10
+    },
+    "problem:617": {
+      "kind": "problem",
+      "id": "617",
+      "title": "Semi-Markov Q-Learning",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/617",
+      "path": "problems/0617-semi-markov-q-learning",
+      "first_solved_at": "2026-10-30T07:08:21.890Z",
+      "last_pushed_at": "2026-10-30T07:08:21.890Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
