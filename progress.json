@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:06:25.283Z",
+  "generated_at": "2026-10-30T07:07:37.638Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4517,6 +4517,19 @@
       "last_pushed_at": "2026-10-30T07:06:24.063Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:1133": {
+      "kind": "problem",
+      "id": "1133",
+      "title": "Monthly-Cohort Retention Rate by Plan",
+      "difficulty": "hard",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1133",
+      "path": "problems/1133-monthly-cohort-retention-rate-by-plan",
+      "first_solved_at": "2026-10-30T07:07:36.609Z",
+      "last_pushed_at": "2026-10-30T07:07:36.609Z",
+      "language": "sql",
+      "lines": 10
     }
   }
 }
