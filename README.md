@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**357** solved · 344 problems · 3 labs · 10 math
+**358** solved · 345 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -336,6 +336,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [TD(λ) with Eligibility Traces](https://www.deep-ml.com/problems/274) | hard | 2026-10-12 | [solution](problems/0274-td-with-eligibility-traces) |
 | [TDNN for Variable-Length Sequences](https://www.deep-ml.com/problems/624) | hard | 2026-10-26 | [solution](problems/0624-tdnn-for-variable-length-sequences) |
 | [Temporal Abstraction with Options](https://www.deep-ml.com/problems/587) | hard | 2026-10-25 | [solution](problems/0587-temporal-abstraction-with-options) |
+| [The NextLat Training Objective](https://www.deep-ml.com/problems/1375) | hard | 2026-10-30 | [solution](problems/1375-the-nextlat-training-objective) |
 | [Tinygrad: Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/925) | hard | 2026-10-29 | [solution](problems/0925-tinygrad-implement-multi-head-self-attention) |
 | [Token-Level Key-Value Compression with Overlapping Windows](https://www.deep-ml.com/problems/734) | hard | 2026-10-29 | [solution](problems/0734-token-level-key-value-compression-with-overlapping-windows) |
 | [Toy Model of Superposition: Train the Sparsity Sweep](https://www.deep-ml.com/problems/1623) | hard | 2026-10-23 | [solution](problems/1623-toy-model-of-superposition-train-the-sparsity-sweep) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:14:31.017Z",
+  "generated_at": "2026-10-30T07:15:21.227Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4621,6 +4621,19 @@
       "last_pushed_at": "2026-10-30T07:14:29.910Z",
       "language": "python",
       "lines": 59
+    },
+    "problem:1375": {
+      "kind": "problem",
+      "id": "1375",
+      "title": "The NextLat Training Objective",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1375",
+      "path": "problems/1375-the-nextlat-training-objective",
+      "first_solved_at": "2026-10-30T07:15:20.117Z",
+      "last_pushed_at": "2026-10-30T07:15:20.117Z",
+      "language": "python",
+      "lines": 109
     }
   }
 }
