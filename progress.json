@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:08:23.136Z",
+  "generated_at": "2026-10-30T07:09:10.800Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4543,6 +4543,19 @@
       "last_pushed_at": "2026-10-30T07:08:21.890Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:1260": {
+      "kind": "problem",
+      "id": "1260",
+      "title": "SmoothQuant: Migration Scales for W8A8",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1260",
+      "path": "problems/1260-smoothquant-migration-scales-for-w8a8",
+      "first_solved_at": "2026-10-30T07:09:09.789Z",
+      "last_pushed_at": "2026-10-30T07:09:09.789Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
