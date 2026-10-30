@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T10:16:06.097Z",
+  "generated_at": "2026-10-30T07:06:25.283Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4504,6 +4504,19 @@
       "last_pushed_at": "2026-10-29T10:16:05.241Z",
       "language": "python",
       "lines": 63
+    },
+    "problem:768": {
+      "kind": "problem",
+      "id": "768",
+      "title": "Rejection Sampling Best-of-K Selection",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/768",
+      "path": "problems/0768-rejection-sampling-best-of-k-selection",
+      "first_solved_at": "2026-10-30T07:06:24.063Z",
+      "last_pushed_at": "2026-10-30T07:06:24.063Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
