@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:15:21.227Z",
+  "generated_at": "2026-10-30T07:16:35.202Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4634,6 +4634,19 @@
       "last_pushed_at": "2026-10-30T07:15:20.117Z",
       "language": "python",
       "lines": 109
+    },
+    "problem:1416": {
+      "kind": "problem",
+      "id": "1416",
+      "title": "Principal Components Regression and Partial Least Squares",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1416",
+      "path": "problems/1416-principal-components-regression-and-partial-least-squares",
+      "first_solved_at": "2026-10-30T07:16:34.018Z",
+      "last_pushed_at": "2026-10-30T07:16:34.018Z",
+      "language": "python",
+      "lines": 130
     }
   }
 }
