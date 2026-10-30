@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:11:41.610Z",
+  "generated_at": "2026-10-30T07:12:32.007Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4595,6 +4595,19 @@
       "last_pushed_at": "2026-10-30T07:11:40.565Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:1347": {
+      "kind": "problem",
+      "id": "1347",
+      "title": "Rotary Position Embeddings (RoPE)",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1347",
+      "path": "problems/1347-rotary-position-embeddings-rope",
+      "first_solved_at": "2026-10-30T07:12:31.011Z",
+      "last_pushed_at": "2026-10-30T07:12:31.011Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
