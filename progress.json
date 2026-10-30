@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T07:09:10.800Z",
+  "generated_at": "2026-10-30T07:10:00.286Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4556,6 +4556,19 @@
       "last_pushed_at": "2026-10-30T07:09:09.789Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:1056": {
+      "kind": "problem",
+      "id": "1056",
+      "title": "Pre-Norm GPT Transformer Block Forward Pass",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1056",
+      "path": "problems/1056-pre-norm-gpt-transformer-block-forward-pass",
+      "first_solved_at": "2026-10-30T07:09:59.145Z",
+      "last_pushed_at": "2026-10-30T07:09:59.145Z",
+      "language": "python",
+      "lines": 96
     }
   }
 }
