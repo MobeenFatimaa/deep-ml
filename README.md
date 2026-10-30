@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**356** solved · 343 problems · 3 labs · 10 math
+**357** solved · 344 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -185,6 +185,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Zero-Copy Batch Data Loading from Shared Memory](https://www.deep-ml.com/problems/659) | medium | 2026-10-10 | [solution](problems/0659-zero-copy-batch-data-loading-from-shared-memory) |
 | [10+2 Erasure Coding for a KV Cache Store](https://www.deep-ml.com/problems/1637) | hard | 2026-10-23 | [solution](problems/1637-10-2-erasure-coding-for-a-kv-cache-store) |
 | [3D CNN Forward Pass Implementation](https://www.deep-ml.com/problems/230) | hard | 2026-10-09 | [solution](problems/0230-3d-cnn-forward-pass-implementation) |
+| [A KV Cache for Autoregressive Decoding](https://www.deep-ml.com/problems/1345) | hard | 2026-10-30 | [solution](problems/1345-a-kv-cache-for-autoregressive-decoding) |
 | [A/B Test Statistical Analysis for Model Comparison](https://www.deep-ml.com/problems/269) | hard | 2026-10-08 | [solution](problems/0269-a-b-test-statistical-analysis-for-model-comparison) |
 | [Acrobot Swing-Up Problem](https://www.deep-ml.com/problems/574) | hard | 2026-10-19 | [solution](problems/0574-acrobot-swing-up-problem) |
 | [Acrobot Swing-Up with Sarsa(λ)](https://www.deep-ml.com/problems/620) | hard | 2026-10-28 | [solution](problems/0620-acrobot-swing-up-with-sarsa) |
