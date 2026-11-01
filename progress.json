@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T07:28:16.665Z",
+  "generated_at": "2026-11-01T07:29:13.895Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4777,6 +4777,19 @@
       "last_pushed_at": "2026-11-01T07:28:17.233Z",
       "language": "python",
       "lines": 37
+    },
+    "problem:119": {
+      "kind": "problem",
+      "id": "119",
+      "title": "Solve System of Linear Equations Using Cramer's Rule",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/119",
+      "path": "problems/0119-solve-system-of-linear-equations-using-cramer-s-rule",
+      "first_solved_at": "2026-11-01T07:29:14.452Z",
+      "last_pushed_at": "2026-11-01T07:29:14.452Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
