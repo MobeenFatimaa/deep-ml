@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**372** solved · 359 problems · 3 labs · 10 math
+**373** solved · 360 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -146,6 +146,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-11-01 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Prediction Distribution Monitoring](https://www.deep-ml.com/problems/295) | medium | 2026-10-08 | [solution](problems/0295-implement-prediction-distribution-monitoring) |
 | [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-11-01 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
+| [Implement Q-Learning Algorithm for MDPs](https://www.deep-ml.com/problems/133) | medium | 2026-11-01 | [solution](problems/0133-implement-q-learning-algorithm-for-mdps) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-10-05 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement Request Batching for Inference](https://www.deep-ml.com/problems/297) | medium | 2026-10-08 | [solution](problems/0297-implement-request-batching-for-inference) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-10-05 | [solution](problems/0053-implement-self-attention-mechanism) |
