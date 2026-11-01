@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**377** solved · 364 problems · 3 labs · 10 math
+**378** solved · 365 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -107,6 +107,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-10-04 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Chunked Prefill Scheduling Alongside Decode](https://www.deep-ml.com/problems/441) | medium | 2026-10-08 | [solution](problems/0441-chunked-prefill-scheduling-alongside-decode) |
 | [Clean a Messy Dataset: Dedup, Standardize, Impute](https://www.deep-ml.com/problems/1131) | medium | 2026-09-28 | [solution](problems/1131-clean-a-messy-dataset-dedup-standardize-impute) |
+| [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-11-01 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-09-29 | [solution](problems/0111-compute-pointwise-mutual-information) |
 | [Compute-Matched Looped MoE Configuration (SMELT)](https://www.deep-ml.com/problems/1394) | medium | 2026-10-11 | [solution](problems/1394-compute-matched-looped-moe-configuration-smelt) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-10-18 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
