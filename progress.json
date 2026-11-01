@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T07:46:04.953Z",
+  "generated_at": "2026-11-01T07:47:08.159Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4907,6 +4907,19 @@
       "last_pushed_at": "2026-11-01T07:46:05.500Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:131": {
+      "kind": "problem",
+      "id": "131",
+      "title": "Implement Efficient Sparse Window Attention",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/131",
+      "path": "problems/0131-implement-efficient-sparse-window-attention",
+      "first_solved_at": "2026-11-01T07:47:08.603Z",
+      "last_pushed_at": "2026-11-01T07:47:08.603Z",
+      "language": "python",
+      "lines": 45
     }
   }
 }
