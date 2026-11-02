@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:13:16.264Z",
+  "generated_at": "2026-11-02T07:14:07.629Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5024,6 +5024,19 @@
       "last_pushed_at": "2026-11-02T07:13:16.368Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1423": {
+      "kind": "problem",
+      "id": "1423",
+      "title": "Cox Proportional Hazards: Partial Likelihood, Gradient and Fit",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1423",
+      "path": "problems/1423-cox-proportional-hazards-partial-likelihood-gradient-and-fit",
+      "first_solved_at": "2026-11-02T07:14:07.623Z",
+      "last_pushed_at": "2026-11-02T07:14:07.623Z",
+      "language": "python",
+      "lines": 85
     }
   }
 }
