@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**390** solved · 377 problems · 3 labs · 10 math
+**391** solved · 378 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -384,6 +384,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Two-Sample T-Test Implementation](https://www.deep-ml.com/problems/211) | hard | 2026-10-22 | [solution](problems/0211-two-sample-t-test-implementation) |
 | [Unsupervised Latent Action Discovery](https://www.deep-ml.com/problems/701) | hard | 2026-10-28 | [solution](problems/0701-unsupervised-latent-action-discovery) |
 | [Value Functions for Options](https://www.deep-ml.com/problems/588) | hard | 2026-10-22 | [solution](problems/0588-value-functions-for-options) |
+| [Variable-Length Self-Speculative Decoding](https://www.deep-ml.com/problems/1379) | hard | 2026-11-02 | [solution](problems/1379-variable-length-self-speculative-decoding) |
 | [Variance Reduction in TD Learning via Truncated Importance Sampling](https://www.deep-ml.com/problems/650) | hard | 2026-10-27 | [solution](problems/0650-variance-reduction-in-td-learning-via-truncated-importance-sampling) |
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-10-24 | [solution](problems/0206-variational-inference-elbo-computation) |
 | [Video Tokenizer with Spatiotemporal VQ-VAE](https://www.deep-ml.com/problems/704) | hard | 2026-10-23 | [solution](problems/0704-video-tokenizer-with-spatiotemporal-vq-vae) |
