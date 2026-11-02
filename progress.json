@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:06:43.354Z",
+  "generated_at": "2026-11-02T07:08:55.106Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4959,6 +4959,19 @@
       "last_pushed_at": "2026-11-02T07:06:43.060Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:975": {
+      "kind": "problem",
+      "id": "975",
+      "title": "Triton: Block Matrix Multiplication",
+      "difficulty": "hard",
+      "category": "Triton",
+      "url": "https://www.deep-ml.com/problems/975",
+      "path": "problems/0975-triton-block-matrix-multiplication",
+      "first_solved_at": "2026-11-02T07:08:55.226Z",
+      "last_pushed_at": "2026-11-02T07:08:55.226Z",
+      "language": "python",
+      "lines": 88
     }
   }
 }
