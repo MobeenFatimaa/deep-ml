@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**381** solved · 368 problems · 3 labs · 10 math
+**382** solved · 369 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -168,6 +168,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Lazy Teacher Logit Reconstruction from Cached Hidden States](https://www.deep-ml.com/problems/746) | medium | 2026-09-30 | [solution](problems/0746-lazy-teacher-logit-reconstruction-from-cached-hidden-states) |
 | [LCM-Aligned Heterogeneous KV Cache Block Layout](https://www.deep-ml.com/problems/752) | medium | 2026-09-30 | [solution](problems/0752-lcm-aligned-heterogeneous-kv-cache-block-layout) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-04 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [Log-Probability Ratio for Token Sequences](https://www.deep-ml.com/problems/489) | medium | 2026-11-02 | [solution](problems/0489-log-probability-ratio-for-token-sequences) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-09-25 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-09-21 | [solution](problems/0007-matrix-transformation) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-09-28 | [solution](problems/1129-merge-multiple-dataframes) |

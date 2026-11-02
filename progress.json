@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T07:49:07.809Z",
+  "generated_at": "2026-11-02T07:03:22.877Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -4933,6 +4933,19 @@
       "last_pushed_at": "2026-11-01T07:49:08.142Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:489": {
+      "kind": "problem",
+      "id": "489",
+      "title": "Log-Probability Ratio for Token Sequences",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/489",
+      "path": "problems/0489-log-probability-ratio-for-token-sequences",
+      "first_solved_at": "2026-11-02T07:03:22.947Z",
+      "last_pushed_at": "2026-11-02T07:03:22.947Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
