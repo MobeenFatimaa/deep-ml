@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:45:49.863Z",
+  "generated_at": "2026-11-03T10:47:22.176Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5115,6 +5115,19 @@
       "last_pushed_at": "2026-11-03T10:45:50.045Z",
       "language": "python",
       "lines": 81
+    },
+    "problem:939": {
+      "kind": "problem",
+      "id": "939",
+      "title": "Tinygrad: Build a Tiny GPT",
+      "difficulty": "hard",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/939",
+      "path": "problems/0939-tinygrad-build-a-tiny-gpt",
+      "first_solved_at": "2026-11-03T10:47:22.465Z",
+      "last_pushed_at": "2026-11-03T10:47:22.465Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
