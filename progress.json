@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:52:08.629Z",
+  "generated_at": "2026-11-03T10:54:09.700Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5154,6 +5154,19 @@
       "last_pushed_at": "2026-11-03T10:52:08.838Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1693": {
+      "kind": "problem",
+      "id": "1693",
+      "title": "Interest and Emphasis in n-step Semi-gradient TD",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/1693",
+      "path": "problems/1693-interest-and-emphasis-in-n-step-semi-gradient-td",
+      "first_solved_at": "2026-11-03T10:54:09.453Z",
+      "last_pushed_at": "2026-11-03T10:54:09.453Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }

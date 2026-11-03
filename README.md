@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**398** solved · 385 problems · 3 labs · 10 math
+**399** solved · 386 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -291,6 +291,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-09-17 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Implementing PagedAttention: Block-wise Attention Computation](https://www.deep-ml.com/problems/492) | hard | 2026-10-10 | [solution](problems/0492-implementing-pagedattention-block-wise-attention-computation) |
 | [INT4 Pack/Unpack and Weight-Only W4A16 Matmul](https://www.deep-ml.com/problems/1256) | hard | 2026-10-16 | [solution](problems/1256-int4-pack-unpack-and-weight-only-w4a16-matmul) |
+| [Interest and Emphasis in n-step Semi-gradient TD](https://www.deep-ml.com/problems/1693) | hard | 2026-11-03 | [solution](problems/1693-interest-and-emphasis-in-n-step-semi-gradient-td) |
 | [Intra-Option Q-Learning for Temporal Abstraction](https://www.deep-ml.com/problems/652) | hard | 2026-10-27 | [solution](problems/0652-intra-option-q-learning-for-temporal-abstraction) |
 | [IoU and Mean Average Precision for Object Detection](https://www.deep-ml.com/problems/1395) | hard | 2026-11-02 | [solution](problems/1395-iou-and-mean-average-precision-for-object-detection) |
 | [Job-Shop Scheduling with TD Learning](https://www.deep-ml.com/problems/622) | hard | 2026-10-27 | [solution](problems/0622-job-shop-scheduling-with-td-learning) |
