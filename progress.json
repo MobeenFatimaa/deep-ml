@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:56:02.133Z",
+  "generated_at": "2026-11-03T13:46:08.264Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5178,6 +5178,19 @@
       "path": "problems/1687-discounting-aware-importance-sampling",
       "first_solved_at": "2026-11-03T10:56:02.190Z",
       "last_pushed_at": "2026-11-03T10:56:02.190Z",
+      "language": "python",
+      "lines": 67
+    },
+    "problem:1702": {
+      "kind": "problem",
+      "id": "1702",
+      "title": "The TD Model of Classical Conditioning with a Complete Serial Compound",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/1702",
+      "path": "problems/1702-the-td-model-of-classical-conditioning-with-a-complete-serial-compound",
+      "first_solved_at": "2026-11-03T13:46:07.258Z",
+      "last_pushed_at": "2026-11-03T13:46:07.258Z",
       "language": "python",
       "lines": 67
     }
