@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**396** solved · 383 problems · 3 labs · 10 math
+**397** solved · 384 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -337,6 +337,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Prefill Chunk Scheduler with a Fitted Cost Model and a Time Budget](https://www.deep-ml.com/problems/1631) | hard | 2026-10-23 | [solution](problems/1631-prefill-chunk-scheduler-with-a-fitted-cost-model-and-a-time-budget) |
 | [Principal Components Regression and Partial Least Squares](https://www.deep-ml.com/problems/1416) | hard | 2026-10-30 | [solution](problems/1416-principal-components-regression-and-partial-least-squares) |
 | [Prioritized Sweeping Algorithm](https://www.deep-ml.com/problems/527) | hard | 2026-10-14 | [solution](problems/0527-prioritized-sweeping-algorithm) |
+| [Purged Walk-Forward Cross-Validation](https://www.deep-ml.com/problems/1351) | hard | 2026-11-03 | [solution](problems/1351-purged-walk-forward-cross-validation) |
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-10-14 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
 | [Q(σ) Unified Algorithm](https://www.deep-ml.com/problems/583) | hard | 2026-10-25 | [solution](problems/0583-q-unified-algorithm) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-21 | [solution](problems/0201-qr-decomposition) |
