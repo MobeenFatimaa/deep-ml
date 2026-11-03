@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:40:55.077Z",
+  "generated_at": "2026-11-03T10:42:06.098Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5089,6 +5089,19 @@
       "last_pushed_at": "2026-11-03T10:40:50.507Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1304": {
+      "kind": "problem",
+      "id": "1304",
+      "title": "Tree Speculative Verification",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1304",
+      "path": "problems/1304-tree-speculative-verification",
+      "first_solved_at": "2026-11-03T10:42:06.082Z",
+      "last_pushed_at": "2026-11-03T10:42:06.082Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
