@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:54:09.700Z",
+  "generated_at": "2026-11-03T10:56:02.133Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5167,6 +5167,19 @@
       "last_pushed_at": "2026-11-03T10:54:09.453Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:1687": {
+      "kind": "problem",
+      "id": "1687",
+      "title": "Discounting-Aware Importance Sampling",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/1687",
+      "path": "problems/1687-discounting-aware-importance-sampling",
+      "first_solved_at": "2026-11-03T10:56:02.190Z",
+      "last_pushed_at": "2026-11-03T10:56:02.190Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }
