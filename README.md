@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**394** solved · 381 problems · 3 labs · 10 math
+**395** solved · 382 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -257,6 +257,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [EnvPool-style Asynchronous Environment Pooling](https://www.deep-ml.com/problems/656) | hard | 2026-10-27 | [solution](problems/0656-envpool-style-asynchronous-environment-pooling) |
 | [First-Visit Monte Carlo Control with Exploring Starts](https://www.deep-ml.com/problems/470) | hard | 2026-10-13 | [solution](problems/0470-first-visit-monte-carlo-control-with-exploring-starts) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-10-09 | [solution](problems/0208-flash-attention-v1-forward-pass) |
+| [FlashDecoding: Split-K GQA Decode Attention](https://www.deep-ml.com/problems/1301) | hard | 2026-11-03 | [solution](problems/1301-flashdecoding-split-k-gqa-decode-attention) |
 | [FP4 Quantization with Microscaling (MXFP4)](https://www.deep-ml.com/problems/427) | hard | 2026-10-10 | [solution](problems/0427-fp4-quantization-with-microscaling-mxfp4) |
 | [Fused Backward Pass of BatchNorm1d](https://www.deep-ml.com/problems/1002) | hard | 2026-10-22 | [solution](problems/1002-fused-backward-pass-of-batchnorm1d) |
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2026-10-11 | [solution](problems/0164-gambler-s-problem-value-iteration) |
