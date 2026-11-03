@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:50:33.503Z",
+  "generated_at": "2026-11-03T10:52:08.629Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5139,6 +5139,19 @@
       "path": "problems/1351-purged-walk-forward-cross-validation",
       "first_solved_at": "2026-11-03T10:50:33.815Z",
       "last_pushed_at": "2026-11-03T10:50:33.815Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:1355": {
+      "kind": "problem",
+      "id": "1355",
+      "title": "Linear Covariance Shrinkage",
+      "difficulty": "hard",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/1355",
+      "path": "problems/1355-linear-covariance-shrinkage",
+      "first_solved_at": "2026-11-03T10:52:08.838Z",
+      "last_pushed_at": "2026-11-03T10:52:08.838Z",
       "language": "python",
       "lines": 34
     }
