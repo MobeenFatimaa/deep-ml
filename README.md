@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**392** solved · 379 problems · 3 labs · 10 math
+**393** solved · 380 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -311,6 +311,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Monte Carlo Tree Search with Neural Policy and Value](https://www.deep-ml.com/problems/978) | hard | 2026-10-01 | [solution](problems/0978-monte-carlo-tree-search-with-neural-policy-and-value) |
 | [Monthly-Cohort Retention Rate by Plan](https://www.deep-ml.com/problems/1133) | hard | 2026-10-30 | [solution](problems/1133-monthly-cohort-retention-rate-by-plan) |
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-10-10 | [solution](problems/0405-multi-head-latent-attention-mla) |
+| [Multi-LoRA Batched Linear (Punica / S-LoRA)](https://www.deep-ml.com/problems/1305) | hard | 2026-11-03 | [solution](problems/1305-multi-lora-batched-linear-punica-s-lora) |
 | [n-Step Tree Backup Algorithm](https://www.deep-ml.com/problems/581) | hard | 2026-10-25 | [solution](problems/0581-n-step-tree-backup-algorithm) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-10-06 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [NoPE (No Positional Embedding) with iRoPE Attention](https://www.deep-ml.com/problems/406) | hard | 2026-10-10 | [solution](problems/0406-nope-no-positional-embedding-with-irope-attention) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:38:19.714Z",
+  "generated_at": "2026-11-03T10:40:55.077Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5076,6 +5076,19 @@
       "last_pushed_at": "2026-11-03T10:38:19.764Z",
       "language": "python",
       "lines": 69
+    },
+    "problem:1305": {
+      "kind": "problem",
+      "id": "1305",
+      "title": "Multi-LoRA Batched Linear (Punica / S-LoRA)",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1305",
+      "path": "problems/1305-multi-lora-batched-linear-punica-s-lora",
+      "first_solved_at": "2026-11-03T10:40:50.507Z",
+      "last_pushed_at": "2026-11-03T10:40:50.507Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }
