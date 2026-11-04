@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T08:14:11.848Z",
+  "generated_at": "2026-11-04T08:15:06.680Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5310,6 +5310,19 @@
       "last_pushed_at": "2026-11-04T08:14:11.748Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-11-04T08:15:06.864Z",
+      "last_pushed_at": "2026-11-04T08:15:06.864Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
