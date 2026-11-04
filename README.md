@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**405** solved · 392 problems · 3 labs · 10 math
+**406** solved · 393 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -70,6 +70,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mode-Dependent Context Window Evaluation](https://www.deep-ml.com/problems/762) | easy | 2026-09-30 | [solution](problems/0762-mode-dependent-context-window-evaluation) |
 | [Off-line vs On-line TD(0) Prediction](https://www.deep-ml.com/problems/626) | easy | 2026-10-25 | [solution](problems/0626-off-line-vs-on-line-td-0-prediction) |
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-03 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
+| [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-11-04 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [PUCT Selection Rule for MCTS](https://www.deep-ml.com/problems/977) | easy | 2026-09-30 | [solution](problems/0977-puct-selection-rule-for-mcts) |
 | [Random Rotation Matrix and a Rotation Layer](https://www.deep-ml.com/problems/1190) | easy | 2026-10-05 | [solution](problems/1190-random-rotation-matrix-and-a-rotation-layer) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-09-27 | [solution](problems/0029-random-shuffle-of-dataset) |
