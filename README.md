@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**413** solved · 400 problems · 3 labs · 10 math
+**414** solved · 401 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2026-11-04 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-10-31 | [solution](problems/0083-dot-product-calculator) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-09-29 | [solution](problems/0325-exact-match-score-with-normalization) |
+| [ExponentialLR Learning Rate Scheduler](https://www.deep-ml.com/problems/154) | easy | 2026-11-04 | [solution](problems/0154-exponentiallr-learning-rate-scheduler) |
 | [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-27 | [solution](problems/0016-feature-scaling-implementation) |
 | [Generate a Confusion Matrix for Binary Classification](https://www.deep-ml.com/problems/75) | easy | 2026-10-20 | [solution](problems/0075-generate-a-confusion-matrix-for-binary-classification) |
 | [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-10-06 | [solution](problems/0082-grayscale-image-contrast-calculator) |
