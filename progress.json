@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:52:20.780Z",
+  "generated_at": "2026-11-05T06:53:55.810Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5492,6 +5492,19 @@
       "last_pushed_at": "2026-11-05T06:52:21.396Z",
       "language": "python",
       "lines": 131
+    },
+    "problem:1700": {
+      "kind": "problem",
+      "id": "1700",
+      "title": "Average-Reward Actor–Critic for a Continuing Task",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/1700",
+      "path": "problems/1700-average-reward-actor-critic-for-a-continuing-task",
+      "first_solved_at": "2026-11-05T06:53:55.927Z",
+      "last_pushed_at": "2026-11-05T06:53:55.927Z",
+      "language": "python",
+      "lines": 98
     }
   }
 }
