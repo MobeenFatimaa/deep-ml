@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:04:11.049Z",
+  "generated_at": "2026-11-05T07:05:11.497Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5583,6 +5583,19 @@
       "last_pushed_at": "2026-11-05T07:04:11.650Z",
       "language": "python",
       "lines": 76
+    },
+    "problem:1821": {
+      "kind": "problem",
+      "id": "1821",
+      "title": "Automatic Relevance Determination by Evidence Maximization",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1821",
+      "path": "problems/1821-automatic-relevance-determination-by-evidence-maximization",
+      "first_solved_at": "2026-11-05T07:05:12.183Z",
+      "last_pushed_at": "2026-11-05T07:05:12.183Z",
+      "language": "python",
+      "lines": 61
     }
   }
 }
