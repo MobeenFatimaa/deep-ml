@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**426** solved · 413 problems · 3 labs · 10 math
+**427** solved · 414 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -242,6 +242,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Asynchronous PPO Training Pipeline](https://www.deep-ml.com/problems/664) | hard | 2026-10-29 | [solution](problems/0664-asynchronous-ppo-training-pipeline) |
 | [Average-Reward Actor–Critic for a Continuing Task](https://www.deep-ml.com/problems/1700) | hard | 2026-11-05 | [solution](problems/1700-average-reward-actor-critic-for-a-continuing-task) |
 | [Backgammon with TD Learning](https://www.deep-ml.com/problems/579) | hard | 2026-10-23 | [solution](problems/0579-backgammon-with-td-learning) |
+| [Bayes Rule for Linear Gaussian Systems: Posterior and Evidence](https://www.deep-ml.com/problems/1727) | hard | 2026-11-05 | [solution](problems/1727-bayes-rule-for-linear-gaussian-systems-posterior-and-evidence) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-09-29 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
 | [Bellman Error Minimization with Linear Function Approximation](https://www.deep-ml.com/problems/649) | hard | 2026-10-28 | [solution](problems/0649-bellman-error-minimization-with-linear-function-approximation) |
 | [Bernoulli Mixture Model by EM on Binary Vectors](https://www.deep-ml.com/problems/1728) | hard | 2026-11-05 | [solution](problems/1728-bernoulli-mixture-model-by-em-on-binary-vectors) |
