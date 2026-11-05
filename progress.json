@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:03:07.859Z",
+  "generated_at": "2026-11-05T07:04:11.049Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5570,6 +5570,19 @@
       "last_pushed_at": "2026-11-05T07:03:08.366Z",
       "language": "python",
       "lines": 77
+    },
+    "problem:1819": {
+      "kind": "problem",
+      "id": "1819",
+      "title": "Group Lasso by Proximal Gradient, Then Debias",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1819",
+      "path": "problems/1819-group-lasso-by-proximal-gradient-then-debias",
+      "first_solved_at": "2026-11-05T07:04:11.650Z",
+      "last_pushed_at": "2026-11-05T07:04:11.650Z",
+      "language": "python",
+      "lines": 76
     }
   }
 }
