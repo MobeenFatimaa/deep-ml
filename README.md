@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**432** solved · 419 problems · 3 labs · 10 math
+**433** solved · 420 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -291,6 +291,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Group Lasso by Proximal Gradient, Then Debias](https://www.deep-ml.com/problems/1819) | hard | 2026-11-05 | [solution](problems/1819-group-lasso-by-proximal-gradient-then-debias) |
 | [GSPO: Group Sequence Policy Optimization](https://www.deep-ml.com/problems/209) | hard | 2026-10-11 | [solution](problems/0209-gspo-group-sequence-policy-optimization) |
 | [Hashing for Memory-Efficient Tile Coding](https://www.deep-ml.com/problems/601) | hard | 2026-10-27 | [solution](problems/0601-hashing-for-memory-efficient-tile-coding) |
+| [Hierarchical Softmax Over a Huffman Tree](https://www.deep-ml.com/problems/1812) | hard | 2026-11-05 | [solution](problems/1812-hierarchical-softmax-over-a-huffman-tree) |
 | [Hybrid Vision Transformer for Multi-Task Driving Perception](https://www.deep-ml.com/problems/690) | hard | 2026-10-29 | [solution](problems/0690-hybrid-vision-transformer-for-multi-task-driving-perception) |
 | [Implement a Dense Block with 2D Convolutions](https://www.deep-ml.com/problems/137) | hard | 2026-10-09 | [solution](problems/0137-implement-a-dense-block-with-2d-convolutions) |
 | [Implement a Simple CNN Training Function with Backpropagation](https://www.deep-ml.com/problems/130) | hard | 2026-10-09 | [solution](problems/0130-implement-a-simple-cnn-training-function-with-backpropagation) |

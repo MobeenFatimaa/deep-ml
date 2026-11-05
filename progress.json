@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:05:11.497Z",
+  "generated_at": "2026-11-05T07:06:01.154Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5596,6 +5596,19 @@
       "last_pushed_at": "2026-11-05T07:05:12.183Z",
       "language": "python",
       "lines": 61
+    },
+    "problem:1812": {
+      "kind": "problem",
+      "id": "1812",
+      "title": "Hierarchical Softmax Over a Huffman Tree",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1812",
+      "path": "problems/1812-hierarchical-softmax-over-a-huffman-tree",
+      "first_solved_at": "2026-11-05T07:06:01.614Z",
+      "last_pushed_at": "2026-11-05T07:06:01.614Z",
+      "language": "python",
+      "lines": 125
     }
   }
 }
