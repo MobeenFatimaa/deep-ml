@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:41:12.060Z",
+  "generated_at": "2026-11-05T06:41:58.495Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5388,6 +5388,19 @@
       "last_pushed_at": "2026-11-05T06:41:12.642Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:1184": {
+      "kind": "problem",
+      "id": "1184",
+      "title": "Top Users by Longest Consecutive Visit Streak",
+      "difficulty": "hard",
+      "category": "Sql",
+      "url": "https://www.deep-ml.com/problems/1184",
+      "path": "problems/1184-top-users-by-longest-consecutive-visit-streak",
+      "first_solved_at": "2026-11-05T06:41:59.175Z",
+      "last_pushed_at": "2026-11-05T06:41:59.175Z",
+      "language": "sql",
+      "lines": 38
     }
   }
 }
