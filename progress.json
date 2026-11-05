@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:44:18.199Z",
+  "generated_at": "2026-11-05T06:47:28.092Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5427,6 +5427,19 @@
       "last_pushed_at": "2026-11-05T06:44:18.969Z",
       "language": "python",
       "lines": 68
+    },
+    "problem:1429": {
+      "kind": "problem",
+      "id": "1429",
+      "title": "LSTM Backpropagation Through Time by Hand",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1429",
+      "path": "problems/1429-lstm-backpropagation-through-time-by-hand",
+      "first_solved_at": "2026-11-05T06:47:28.787Z",
+      "last_pushed_at": "2026-11-05T06:47:28.787Z",
+      "language": "python",
+      "lines": 106
     }
   }
 }
