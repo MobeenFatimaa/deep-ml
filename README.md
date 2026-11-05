@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**423** solved · 410 problems · 3 labs · 10 math
+**424** solved · 411 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -319,6 +319,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Lambda-Return Computation](https://www.deep-ml.com/problems/519) | hard | 2026-10-14 | [solution](problems/0519-lambda-return-computation) |
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-10-18 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
 | [Leverage, Studentized Residuals and Cook's Distance](https://www.deep-ml.com/problems/1363) | hard | 2026-11-02 | [solution](problems/1363-leverage-studentized-residuals-and-cook-s-distance) |
+| [Life-Time Value vs Click-Through Rate for Ad Offers](https://www.deep-ml.com/problems/1705) | hard | 2026-11-05 | [solution](problems/1705-life-time-value-vs-click-through-rate-for-ad-offers) |
 | [Lightning Indexer Sparse Attention Selection](https://www.deep-ml.com/problems/736) | hard | 2026-10-22 | [solution](problems/0736-lightning-indexer-sparse-attention-selection) |
 | [Linear Covariance Shrinkage](https://www.deep-ml.com/problems/1355) | hard | 2026-11-03 | [solution](problems/1355-linear-covariance-shrinkage) |
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-10-16 | [solution](problems/0534-linear-sarsa-algorithm) |

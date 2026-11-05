@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:51:32.547Z",
+  "generated_at": "2026-11-05T06:52:20.780Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5479,6 +5479,19 @@
       "last_pushed_at": "2026-11-05T06:51:33.052Z",
       "language": "python",
       "lines": 65
+    },
+    "problem:1705": {
+      "kind": "problem",
+      "id": "1705",
+      "title": "Life-Time Value vs Click-Through Rate for Ad Offers",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/1705",
+      "path": "problems/1705-life-time-value-vs-click-through-rate-for-ad-offers",
+      "first_solved_at": "2026-11-05T06:52:21.396Z",
+      "last_pushed_at": "2026-11-05T06:52:21.396Z",
+      "language": "python",
+      "lines": 131
     }
   }
 }
