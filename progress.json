@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:41:58.495Z",
+  "generated_at": "2026-11-05T06:43:16.717Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5401,6 +5401,19 @@
       "last_pushed_at": "2026-11-05T06:41:59.175Z",
       "language": "sql",
       "lines": 38
+    },
+    "problem:1389": {
+      "kind": "problem",
+      "id": "1389",
+      "title": "Adaptive Computation Time: Per-Token Halting",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1389",
+      "path": "problems/1389-adaptive-computation-time-per-token-halting",
+      "first_solved_at": "2026-11-05T06:43:17.338Z",
+      "last_pushed_at": "2026-11-05T06:43:17.338Z",
+      "language": "python",
+      "lines": 88
     }
   }
 }

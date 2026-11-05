@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**417** solved · 404 problems · 3 labs · 10 math
+**418** solved · 405 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -232,6 +232,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Action-Conditioned Autoregressive Video Dynamics Model](https://www.deep-ml.com/problems/709) | hard | 2026-10-23 | [solution](problems/0709-action-conditioned-autoregressive-video-dynamics-model) |
 | [Actor-Critic Algorithm](https://www.deep-ml.com/problems/538) | hard | 2026-10-18 | [solution](problems/0538-actor-critic-algorithm) |
 | [Actor-Critic with Traces](https://www.deep-ml.com/problems/539) | hard | 2026-10-18 | [solution](problems/0539-actor-critic-with-traces) |
+| [Adaptive Computation Time: Per-Token Halting](https://www.deep-ml.com/problems/1389) | hard | 2026-11-05 | [solution](problems/1389-adaptive-computation-time-per-token-halting) |
 | [Advantage Actor-Critic (A2C) Batch Update from Parallel Environments](https://www.deep-ml.com/problems/553) | hard | 2026-10-19 | [solution](problems/0553-advantage-actor-critic-a2c-batch-update-from-parallel-environments) |
 | [AgentOPSD: Full Turn-Level Credit Assignment Pipeline](https://www.deep-ml.com/problems/1300) | hard | 2026-10-29 | [solution](problems/1300-agentopsd-full-turn-level-credit-assignment-pipeline) |
 | [Alien Dictionary via Topological Sort](https://www.deep-ml.com/problems/1168) | hard | 2026-10-10 | [solution](problems/1168-alien-dictionary-via-topological-sort) |
