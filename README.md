@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**425** solved · 412 problems · 3 labs · 10 math
+**426** solved · 413 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -421,6 +421,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Variable-Length Self-Speculative Decoding](https://www.deep-ml.com/problems/1379) | hard | 2026-11-02 | [solution](problems/1379-variable-length-self-speculative-decoding) |
 | [Variance Reduction in TD Learning via Truncated Importance Sampling](https://www.deep-ml.com/problems/650) | hard | 2026-10-27 | [solution](problems/0650-variance-reduction-in-td-learning-via-truncated-importance-sampling) |
 | [Variational Inference: ELBO Computation](https://www.deep-ml.com/problems/206) | hard | 2026-10-24 | [solution](problems/0206-variational-inference-elbo-computation) |
+| [VE, BE, TDE and the TD Fixed Point on the A-split](https://www.deep-ml.com/problems/1696) | hard | 2026-11-05 | [solution](problems/1696-ve-be-tde-and-the-td-fixed-point-on-the-a-split) |
 | [Video Tokenizer with Spatiotemporal VQ-VAE](https://www.deep-ml.com/problems/704) | hard | 2026-10-23 | [solution](problems/0704-video-tokenizer-with-spatiotemporal-vq-vae) |
 | [Wave-Based Expert Parallelism Pipelining](https://www.deep-ml.com/problems/756) | hard | 2026-10-23 | [solution](problems/0756-wave-based-expert-parallelism-pipelining) |
 | [Zero-Copy C Environment Implementation](https://www.deep-ml.com/problems/670) | hard | 2026-10-28 | [solution](problems/0670-zero-copy-c-environment-implementation) |

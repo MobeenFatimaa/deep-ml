@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:53:55.810Z",
+  "generated_at": "2026-11-05T06:54:55.734Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5505,6 +5505,19 @@
       "last_pushed_at": "2026-11-05T06:53:55.927Z",
       "language": "python",
       "lines": 98
+    },
+    "problem:1696": {
+      "kind": "problem",
+      "id": "1696",
+      "title": "VE, BE, TDE and the TD Fixed Point on the A-split",
+      "difficulty": "hard",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/1696",
+      "path": "problems/1696-ve-be-tde-and-the-td-fixed-point-on-the-a-split",
+      "first_solved_at": "2026-11-05T06:54:56.427Z",
+      "last_pushed_at": "2026-11-05T06:54:56.427Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }
