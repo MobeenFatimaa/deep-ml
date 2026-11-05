@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:57:51.328Z",
+  "generated_at": "2026-11-05T07:02:13.033Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5544,6 +5544,19 @@
       "last_pushed_at": "2026-11-05T06:57:51.719Z",
       "language": "python",
       "lines": 44
+    },
+    "problem:1791": {
+      "kind": "problem",
+      "id": "1791",
+      "title": "Neighbourhood Components Analysis: Objective, Gradient and a Learned Projection",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1791",
+      "path": "problems/1791-neighbourhood-components-analysis-objective-gradient-and-a-learned-projection",
+      "first_solved_at": "2026-11-05T07:02:13.290Z",
+      "last_pushed_at": "2026-11-05T07:02:13.290Z",
+      "language": "python",
+      "lines": 82
     }
   }
 }

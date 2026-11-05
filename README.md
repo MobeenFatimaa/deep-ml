@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**428** solved · 415 problems · 3 labs · 10 math
+**429** solved · 416 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -342,6 +342,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Multi-Head Latent Attention (MLA)](https://www.deep-ml.com/problems/405) | hard | 2026-10-10 | [solution](problems/0405-multi-head-latent-attention-mla) |
 | [Multi-LoRA Batched Linear (Punica / S-LoRA)](https://www.deep-ml.com/problems/1305) | hard | 2026-11-03 | [solution](problems/1305-multi-lora-batched-linear-punica-s-lora) |
 | [n-Step Tree Backup Algorithm](https://www.deep-ml.com/problems/581) | hard | 2026-10-25 | [solution](problems/0581-n-step-tree-backup-algorithm) |
+| [Neighbourhood Components Analysis: Objective, Gradient and a Learned Projection](https://www.deep-ml.com/problems/1791) | hard | 2026-11-05 | [solution](problems/1791-neighbourhood-components-analysis-objective-gradient-and-a-learned-projection) |
 | [Non-Maximum Suppression for Object Detection](https://www.deep-ml.com/problems/242) | hard | 2026-10-06 | [solution](problems/0242-non-maximum-suppression-for-object-detection) |
 | [NoPE (No Positional Embedding) with iRoPE Attention](https://www.deep-ml.com/problems/406) | hard | 2026-10-10 | [solution](problems/0406-nope-no-positional-embedding-with-irope-attention) |
 | [Number Format Precision Comparison (FP16 vs BF16 vs FP8 vs FP4)](https://www.deep-ml.com/problems/428) | hard | 2026-09-23 | [solution](problems/0428-number-format-precision-comparison-fp16-vs-bf16-vs-fp8-vs-fp4) |
