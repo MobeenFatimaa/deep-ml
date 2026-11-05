@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:57:09.466Z",
+  "generated_at": "2026-11-05T06:57:51.328Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5531,6 +5531,19 @@
       "last_pushed_at": "2026-11-05T06:57:10.236Z",
       "language": "python",
       "lines": 65
+    },
+    "problem:1779": {
+      "kind": "problem",
+      "id": "1779",
+      "title": "Kronecker Products Without Forming Them",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1779",
+      "path": "problems/1779-kronecker-products-without-forming-them",
+      "first_solved_at": "2026-11-05T06:57:51.719Z",
+      "last_pushed_at": "2026-11-05T06:57:51.719Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
