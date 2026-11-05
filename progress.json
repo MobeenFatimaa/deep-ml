@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:48:26.197Z",
+  "generated_at": "2026-11-05T06:49:19.646Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5453,6 +5453,19 @@
       "last_pushed_at": "2026-11-05T06:48:26.913Z",
       "language": "python",
       "lines": 100
+    },
+    "problem:1728": {
+      "kind": "problem",
+      "id": "1728",
+      "title": "Bernoulli Mixture Model by EM on Binary Vectors",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1728",
+      "path": "problems/1728-bernoulli-mixture-model-by-em-on-binary-vectors",
+      "first_solved_at": "2026-11-05T06:49:20.415Z",
+      "last_pushed_at": "2026-11-05T06:49:20.415Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }
