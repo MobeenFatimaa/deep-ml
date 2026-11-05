@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:47:28.092Z",
+  "generated_at": "2026-11-05T06:48:26.197Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5440,6 +5440,19 @@
       "last_pushed_at": "2026-11-05T06:47:28.787Z",
       "language": "python",
       "lines": 106
+    },
+    "problem:1436": {
+      "kind": "problem",
+      "id": "1436",
+      "title": "Mini-Float Encode and Decode: FP16, BF16, FP8 by Hand",
+      "difficulty": "hard",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1436",
+      "path": "problems/1436-mini-float-encode-and-decode-fp16-bf16-fp8-by-hand",
+      "first_solved_at": "2026-11-05T06:48:26.913Z",
+      "last_pushed_at": "2026-11-05T06:48:26.913Z",
+      "language": "python",
+      "lines": 100
     }
   }
 }
