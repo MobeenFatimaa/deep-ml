@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:02:13.033Z",
+  "generated_at": "2026-11-05T07:03:07.859Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5557,6 +5557,19 @@
       "last_pushed_at": "2026-11-05T07:02:13.290Z",
       "language": "python",
       "lines": 82
+    },
+    "problem:1851": {
+      "kind": "problem",
+      "id": "1851",
+      "title": "Learn GP Hyperparameters by Maximizing the Marginal Likelihood",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1851",
+      "path": "problems/1851-learn-gp-hyperparameters-by-maximizing-the-marginal-likelihood",
+      "first_solved_at": "2026-11-05T07:03:08.366Z",
+      "last_pushed_at": "2026-11-05T07:03:08.366Z",
+      "language": "python",
+      "lines": 77
     }
   }
 }

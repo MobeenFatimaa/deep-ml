@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**429** solved · 416 problems · 3 labs · 10 math
+**430** solved · 417 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -320,6 +320,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Kanerva Coding for High-Dimensional Spaces](https://www.deep-ml.com/problems/600) | hard | 2026-10-25 | [solution](problems/0600-kanerva-coding-for-high-dimensional-spaces) |
 | [Kronecker Products Without Forming Them](https://www.deep-ml.com/problems/1779) | hard | 2026-11-05 | [solution](problems/1779-kronecker-products-without-forming-them) |
 | [Lambda-Return Computation](https://www.deep-ml.com/problems/519) | hard | 2026-10-14 | [solution](problems/0519-lambda-return-computation) |
+| [Learn GP Hyperparameters by Maximizing the Marginal Likelihood](https://www.deep-ml.com/problems/1851) | hard | 2026-11-05 | [solution](problems/1851-learn-gp-hyperparameters-by-maximizing-the-marginal-likelihood) |
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-10-18 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
 | [Leverage, Studentized Residuals and Cook's Distance](https://www.deep-ml.com/problems/1363) | hard | 2026-11-02 | [solution](problems/1363-leverage-studentized-residuals-and-cook-s-distance) |
 | [Life-Time Value vs Click-Through Rate for Ad Offers](https://www.deep-ml.com/problems/1705) | hard | 2026-11-05 | [solution](problems/1705-life-time-value-vs-click-through-rate-for-ad-offers) |
