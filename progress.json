@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T06:49:19.646Z",
+  "generated_at": "2026-11-05T06:51:32.547Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5466,6 +5466,19 @@
       "last_pushed_at": "2026-11-05T06:49:20.415Z",
       "language": "python",
       "lines": 78
+    },
+    "problem:1752": {
+      "kind": "problem",
+      "id": "1752",
+      "title": "Grid and Laplace Approximations to a Beta-Bernoulli Posterior",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1752",
+      "path": "problems/1752-grid-and-laplace-approximations-to-a-beta-bernoulli-posterior",
+      "first_solved_at": "2026-11-05T06:51:33.052Z",
+      "last_pushed_at": "2026-11-05T06:51:33.052Z",
+      "language": "python",
+      "lines": 65
     }
   }
 }

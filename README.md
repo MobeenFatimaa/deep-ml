@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**422** solved · 409 problems · 3 labs · 10 math
+**423** solved · 410 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -284,6 +284,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Goal-Conditioned World Model with Future Anchoring](https://www.deep-ml.com/problems/683) | hard | 2026-10-28 | [solution](problems/0683-goal-conditioned-world-model-with-future-anchoring) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-09-29 | [solution](problems/0088-gpt-2-text-generation) |
 | [Gradient Temporal Difference (GTD2) for Off-Policy Value Prediction](https://www.deep-ml.com/problems/567) | hard | 2026-10-19 | [solution](problems/0567-gradient-temporal-difference-gtd2-for-off-policy-value-prediction) |
+| [Grid and Laplace Approximations to a Beta-Bernoulli Posterior](https://www.deep-ml.com/problems/1752) | hard | 2026-11-05 | [solution](problems/1752-grid-and-laplace-approximations-to-a-beta-bernoulli-posterior) |
 | [GSPO: Group Sequence Policy Optimization](https://www.deep-ml.com/problems/209) | hard | 2026-10-11 | [solution](problems/0209-gspo-group-sequence-policy-optimization) |
 | [Hashing for Memory-Efficient Tile Coding](https://www.deep-ml.com/problems/601) | hard | 2026-10-27 | [solution](problems/0601-hashing-for-memory-efficient-tile-coding) |
 | [Hybrid Vision Transformer for Multi-Task Driving Perception](https://www.deep-ml.com/problems/690) | hard | 2026-10-29 | [solution](problems/0690-hybrid-vision-transformer-for-multi-task-driving-perception) |
