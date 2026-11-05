@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T07:06:01.154Z",
+  "generated_at": "2026-11-05T07:06:58.008Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5609,6 +5609,19 @@
       "last_pushed_at": "2026-11-05T07:06:01.614Z",
       "language": "python",
       "lines": 125
+    },
+    "problem:1822": {
+      "kind": "problem",
+      "id": "1822",
+      "title": "B-Spline Basis by the Cox-de Boor Recursion and Spline Regression",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1822",
+      "path": "problems/1822-b-spline-basis-by-the-cox-de-boor-recursion-and-spline-regression",
+      "first_solved_at": "2026-11-05T07:06:58.613Z",
+      "last_pushed_at": "2026-11-05T07:06:58.613Z",
+      "language": "python",
+      "lines": 81
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**433** solved · 420 problems · 3 labs · 10 math
+**434** solved · 421 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -242,6 +242,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Asynchronous PPO Training Pipeline](https://www.deep-ml.com/problems/664) | hard | 2026-10-29 | [solution](problems/0664-asynchronous-ppo-training-pipeline) |
 | [Automatic Relevance Determination by Evidence Maximization](https://www.deep-ml.com/problems/1821) | hard | 2026-11-05 | [solution](problems/1821-automatic-relevance-determination-by-evidence-maximization) |
 | [Average-Reward Actor–Critic for a Continuing Task](https://www.deep-ml.com/problems/1700) | hard | 2026-11-05 | [solution](problems/1700-average-reward-actor-critic-for-a-continuing-task) |
+| [B-Spline Basis by the Cox-de Boor Recursion and Spline Regression](https://www.deep-ml.com/problems/1822) | hard | 2026-11-05 | [solution](problems/1822-b-spline-basis-by-the-cox-de-boor-recursion-and-spline-regression) |
 | [Backgammon with TD Learning](https://www.deep-ml.com/problems/579) | hard | 2026-10-23 | [solution](problems/0579-backgammon-with-td-learning) |
 | [Bayes Rule for Linear Gaussian Systems: Posterior and Evidence](https://www.deep-ml.com/problems/1727) | hard | 2026-11-05 | [solution](problems/1727-bayes-rule-for-linear-gaussian-systems-posterior-and-evidence) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-09-29 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
