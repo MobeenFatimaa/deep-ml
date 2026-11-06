@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**436** solved · 423 problems · 3 labs · 10 math
+**437** solved · 423 problems · 3 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -451,6 +451,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-09-12 | [solution](math/0001-derivatives-and-gradients) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-13 | [solution](math/0005-gradient-descent-updates) |
 | [Prefill and Decode in Different Datacenters: The Transfer Budget](https://www.deep-ml.com/math-problems/307) | easy | 2026-10-21 | [solution](math/0307-prefill-and-decode-in-different-datacenters-the-transfer-budget) |
+| [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-11-06 | [solution](math/0007-vector-operations) |
 | [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-09-16 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Batch Invariance: Why the Same Prompt Gives Different Logits in a Different Batch](https://www.deep-ml.com/math-problems/306) | medium | 2026-10-21 | [solution](math/0306-batch-invariance-why-the-same-prompt-gives-different-logits-in-a-different-batch) |
 | [Log-Likelihood Gradients](https://www.deep-ml.com/math-problems/38) | medium | 2026-09-13 | [solution](math/0038-log-likelihood-gradients) |
