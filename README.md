@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**435** solved · 422 problems · 3 labs · 10 math
+**436** solved · 423 problems · 3 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -199,6 +199,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Power Users With Purchases in Every Month of the Year](https://www.deep-ml.com/problems/1462) | medium | 2026-10-06 | [solution](problems/1462-power-users-with-purchases-in-every-month-of-the-year) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-27 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
 | [Quantization Quality Check via Perplexity Delta](https://www.deep-ml.com/problems/429) | medium | 2026-10-16 | [solution](problems/0429-quantization-quality-check-via-perplexity-delta) |
+| [Quantization Quality Check: KL Divergence and Top-1 Agreement](https://www.deep-ml.com/problems/1437) | medium | 2026-11-06 | [solution](problems/1437-quantization-quality-check-kl-divergence-and-top-1-agreement) |
 | [Quantization Scale Calibration (AbsMax and Percentile)](https://www.deep-ml.com/problems/1255) | medium | 2026-09-23 | [solution](problems/1255-quantization-scale-calibration-absmax-and-percentile) |
 | [Queue from Two Stacks and a Min-Stack](https://www.deep-ml.com/problems/1147) | medium | 2026-10-08 | [solution](problems/1147-queue-from-two-stacks-and-a-min-stack) |
 | [Random Pick with Weight (Prefix Sum + Binary Search)](https://www.deep-ml.com/problems/1165) | medium | 2026-10-11 | [solution](problems/1165-random-pick-with-weight-prefix-sum-binary-search) |
