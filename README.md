@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**440** solved · 423 problems · 3 labs · 14 math
+**441** solved · 424 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -99,6 +99,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tinygrad: Implement Dropout from Scratch](https://www.deep-ml.com/problems/922) | easy | 2026-10-13 | [solution](problems/0922-tinygrad-implement-dropout-from-scratch) |
 | [Transformation Matrix from Basis B to C](https://www.deep-ml.com/problems/27) | easy | 2026-10-07 | [solution](problems/0027-transformation-matrix-from-basis-b-to-c) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-20 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-11-06 | [solution](problems/0121-vector-element-wise-sum) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-10-16 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Ablation: Pixel vs. Token Input for Latent Action Model](https://www.deep-ml.com/problems/719) | medium | 2026-10-12 | [solution](problems/0719-ablation-pixel-vs-token-input-for-latent-action-model) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-11-01 | [solution](problems/0149-adadelta-optimizer) |
