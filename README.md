@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**439** solved · 423 problems · 3 labs · 13 math
+**440** solved · 423 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -461,6 +461,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-09-16 | [solution](math/0003-neural-network-derivatives) |
 | [Softmax and Cross-Entropy](https://www.deep-ml.com/math-problems/32) | medium | 2026-09-13 | [solution](math/0032-softmax-and-cross-entropy) |
 | [Uniform Quantization: Scale and Zero-Point](https://www.deep-ml.com/math-problems/45) | medium | 2026-09-22 | [solution](math/0045-uniform-quantization-scale-and-zero-point) |
+| [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-11-06 | [solution](math/0008-vector-norms-and-linear-independence) |
 
 ---
 
