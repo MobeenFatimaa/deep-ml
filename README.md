@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**442** solved · 425 problems · 3 labs · 14 math
+**443** solved · 426 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -103,6 +103,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-10-16 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Ablation: Pixel vs. Token Input for Latent Action Model](https://www.deep-ml.com/problems/719) | medium | 2026-10-12 | [solution](problems/0719-ablation-pixel-vs-token-input-for-latent-action-model) |
 | [Adadelta Optimizer](https://www.deep-ml.com/problems/149) | medium | 2026-11-01 | [solution](problems/0149-adadelta-optimizer) |
+| [Algebraic Simplification with Canonical Forms](https://www.deep-ml.com/problems/1511) | medium | 2026-11-07 | [solution](problems/1511-algebraic-simplification-with-canonical-forms) |
 | [Alpha-Beta Pruning Implementation](https://www.deep-ml.com/problems/632) | medium | 2026-09-24 | [solution](problems/0632-alpha-beta-pruning-implementation) |
 | [Analyze Canary Deployment Health for Model Rollout](https://www.deep-ml.com/problems/251) | medium | 2026-10-08 | [solution](problems/0251-analyze-canary-deployment-health-for-model-rollout) |
 | [Asymmetric Uniform Quantization with Zero-Point](https://www.deep-ml.com/problems/1254) | medium | 2026-09-23 | [solution](problems/1254-asymmetric-uniform-quantization-with-zero-point) |
