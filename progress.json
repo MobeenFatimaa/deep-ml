@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:22:00.848Z",
+  "generated_at": "2026-11-07T10:23:17.199Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5809,6 +5809,19 @@
       "last_pushed_at": "2026-11-07T10:22:00.519Z",
       "language": "python",
       "lines": 79
+    },
+    "problem:1804": {
+      "kind": "problem",
+      "id": "1804",
+      "title": "Multi-Class Fisher LDA Projection",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1804",
+      "path": "problems/1804-multi-class-fisher-lda-projection",
+      "first_solved_at": "2026-11-07T10:23:16.712Z",
+      "last_pushed_at": "2026-11-07T10:23:16.712Z",
+      "language": "python",
+      "lines": 112
     }
   }
 }
