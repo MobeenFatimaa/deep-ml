@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:47:54.697Z",
+  "generated_at": "2026-11-07T09:57:20.534Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5757,6 +5757,19 @@
       "last_pushed_at": "2026-11-07T09:47:54.463Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:144": {
+      "kind": "problem",
+      "id": "144",
+      "title": "Apriori Frequent Itemset Mining",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/144",
+      "path": "problems/0144-apriori-frequent-itemset-mining",
+      "first_solved_at": "2026-11-07T09:57:20.318Z",
+      "last_pushed_at": "2026-11-07T09:57:20.318Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }
