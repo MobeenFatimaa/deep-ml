@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**444** solved · 427 problems · 3 labs · 14 math
+**445** solved · 428 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -193,6 +193,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-09-21 | [solution](problems/0007-matrix-transformation) |
 | [Merge Multiple DataFrames](https://www.deep-ml.com/problems/1129) | medium | 2026-09-28 | [solution](problems/1129-merge-multiple-dataframes) |
 | [Month-over-Month Percentage Change with LAG](https://www.deep-ml.com/problems/1115) | medium | 2026-10-09 | [solution](problems/1115-month-over-month-percentage-change-with-lag) |
+| [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-11-07 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-09-18 | [solution](problems/0313-numerical-gradient-checking) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-09-16 | [solution](problems/1227-numerically-stable-softmax) |
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-10-06 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
