@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:45:36.470Z",
+  "generated_at": "2026-11-07T12:47:36.702Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5848,6 +5848,19 @@
       "last_pushed_at": "2026-11-07T12:45:36.191Z",
       "language": "python",
       "lines": 79
+    },
+    "problem:1792": {
+      "kind": "problem",
+      "id": "1792",
+      "title": "Large Margin Nearest Neighbours: Target Neighbours, Impostors and the Pull/Push Loss",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1792",
+      "path": "problems/1792-large-margin-nearest-neighbours-target-neighbours-impostors-and-the-pull-push-loss",
+      "first_solved_at": "2026-11-07T12:47:36.470Z",
+      "last_pushed_at": "2026-11-07T12:47:36.470Z",
+      "language": "python",
+      "lines": 87
     }
   }
 }

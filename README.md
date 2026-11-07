@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**452** solved · 435 problems · 3 labs · 14 math
+**453** solved · 436 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -333,6 +333,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Kronecker Products Without Forming Them](https://www.deep-ml.com/problems/1779) | hard | 2026-11-05 | [solution](problems/1779-kronecker-products-without-forming-them) |
 | [Lambda-Return Computation](https://www.deep-ml.com/problems/519) | hard | 2026-10-14 | [solution](problems/0519-lambda-return-computation) |
 | [Laplace-Approximate Bayesian Logistic Regression: Monte Carlo and Probit Predictives](https://www.deep-ml.com/problems/1809) | hard | 2026-11-07 | [solution](problems/1809-laplace-approximate-bayesian-logistic-regression-monte-carlo-and-probit-predictives) |
+| [Large Margin Nearest Neighbours: Target Neighbours, Impostors and the Pull/Push Loss](https://www.deep-ml.com/problems/1792) | hard | 2026-11-07 | [solution](problems/1792-large-margin-nearest-neighbours-target-neighbours-impostors-and-the-pull-push-loss) |
 | [Learn GP Hyperparameters by Maximizing the Marginal Likelihood](https://www.deep-ml.com/problems/1851) | hard | 2026-11-05 | [solution](problems/1851-learn-gp-hyperparameters-by-maximizing-the-marginal-likelihood) |
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-10-18 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
 | [Leverage, Studentized Residuals and Cook's Distance](https://www.deep-ml.com/problems/1363) | hard | 2026-11-02 | [solution](problems/1363-leverage-studentized-residuals-and-cook-s-distance) |
