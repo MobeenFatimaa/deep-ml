@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:57:20.534Z",
+  "generated_at": "2026-11-07T10:14:33.810Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5770,6 +5770,19 @@
       "last_pushed_at": "2026-11-07T09:57:20.318Z",
       "language": "python",
       "lines": 67
+    },
+    "problem:1365": {
+      "kind": "problem",
+      "id": "1365",
+      "title": "Poisson Regression by Iteratively Reweighted Least Squares",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1365",
+      "path": "problems/1365-poisson-regression-by-iteratively-reweighted-least-squares",
+      "first_solved_at": "2026-11-07T10:14:31.124Z",
+      "last_pushed_at": "2026-11-07T10:14:31.124Z",
+      "language": "python",
+      "lines": 39
     }
   }
 }
