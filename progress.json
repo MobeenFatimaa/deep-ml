@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:14:33.810Z",
+  "generated_at": "2026-11-07T10:20:49.638Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5783,6 +5783,19 @@
       "last_pushed_at": "2026-11-07T10:14:31.124Z",
       "language": "python",
       "lines": 39
+    },
+    "problem:1466": {
+      "kind": "problem",
+      "id": "1466",
+      "title": "Probability Calibration: Platt Scaling and Isotonic Regression",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1466",
+      "path": "problems/1466-probability-calibration-platt-scaling-and-isotonic-regression",
+      "first_solved_at": "2026-11-07T10:20:49.315Z",
+      "last_pushed_at": "2026-11-07T10:20:49.315Z",
+      "language": "python",
+      "lines": 174
     }
   }
 }

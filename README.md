@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**447** solved · 430 problems · 3 labs · 14 math
+**448** solved · 431 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -380,6 +380,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Prefill Chunk Scheduler with a Fitted Cost Model and a Time Budget](https://www.deep-ml.com/problems/1631) | hard | 2026-10-23 | [solution](problems/1631-prefill-chunk-scheduler-with-a-fitted-cost-model-and-a-time-budget) |
 | [Principal Components Regression and Partial Least Squares](https://www.deep-ml.com/problems/1416) | hard | 2026-10-30 | [solution](problems/1416-principal-components-regression-and-partial-least-squares) |
 | [Prioritized Sweeping Algorithm](https://www.deep-ml.com/problems/527) | hard | 2026-10-14 | [solution](problems/0527-prioritized-sweeping-algorithm) |
+| [Probability Calibration: Platt Scaling and Isotonic Regression](https://www.deep-ml.com/problems/1466) | hard | 2026-11-07 | [solution](problems/1466-probability-calibration-platt-scaling-and-isotonic-regression) |
 | [Purged Walk-Forward Cross-Validation](https://www.deep-ml.com/problems/1351) | hard | 2026-11-03 | [solution](problems/1351-purged-walk-forward-cross-validation) |
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-10-14 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
 | [Q(σ) Unified Algorithm](https://www.deep-ml.com/problems/583) | hard | 2026-10-25 | [solution](problems/0583-q-unified-algorithm) |
