@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**448** solved · 431 problems · 3 labs · 14 math
+**449** solved · 432 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -442,6 +442,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [VE, BE, TDE and the TD Fixed Point on the A-split](https://www.deep-ml.com/problems/1696) | hard | 2026-11-05 | [solution](problems/1696-ve-be-tde-and-the-td-fixed-point-on-the-a-split) |
 | [Video Tokenizer with Spatiotemporal VQ-VAE](https://www.deep-ml.com/problems/704) | hard | 2026-10-23 | [solution](problems/0704-video-tokenizer-with-spatiotemporal-vq-vae) |
 | [Wave-Based Expert Parallelism Pipelining](https://www.deep-ml.com/problems/756) | hard | 2026-10-23 | [solution](problems/0756-wave-based-expert-parallelism-pipelining) |
+| [Weisfeiler-Lehman Color Refinement and the 1-WL Test](https://www.deep-ml.com/problems/1481) | hard | 2026-11-07 | [solution](problems/1481-weisfeiler-lehman-color-refinement-and-the-1-wl-test) |
 | [Zero-Copy C Environment Implementation](https://www.deep-ml.com/problems/670) | hard | 2026-10-28 | [solution](problems/0670-zero-copy-c-environment-implementation) |
 
 ## Labs
