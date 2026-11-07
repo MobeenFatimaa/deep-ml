@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T10:24:22.841Z",
+  "generated_at": "2026-11-07T12:45:36.470Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5835,6 +5835,19 @@
       "last_pushed_at": "2026-11-07T10:24:18.945Z",
       "language": "python",
       "lines": 100
+    },
+    "problem:1808": {
+      "kind": "problem",
+      "id": "1808",
+      "title": "Multinomial Logistic Regression by Bohning's Bound (MM)",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1808",
+      "path": "problems/1808-multinomial-logistic-regression-by-bohning-s-bound-mm",
+      "first_solved_at": "2026-11-07T12:45:36.191Z",
+      "last_pushed_at": "2026-11-07T12:45:36.191Z",
+      "language": "python",
+      "lines": 79
     }
   }
 }
