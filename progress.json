@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:45:56.382Z",
+  "generated_at": "2026-11-07T09:47:09.175Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5731,6 +5731,19 @@
       "last_pushed_at": "2026-11-07T09:45:55.591Z",
       "language": "python",
       "lines": 120
+    },
+    "problem:1530": {
+      "kind": "problem",
+      "id": "1530",
+      "title": "Kernel Cache: Hash Compiled Kernels by Canonical Source",
+      "difficulty": "easy",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1530",
+      "path": "problems/1530-kernel-cache-hash-compiled-kernels-by-canonical-source",
+      "first_solved_at": "2026-11-07T09:47:07.992Z",
+      "last_pushed_at": "2026-11-07T09:47:07.992Z",
+      "language": "python",
+      "lines": 67
     }
   }
 }

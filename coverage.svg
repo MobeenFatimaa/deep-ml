@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="402" viewBox="0 0 880 402" role="img" aria-label="Deep-ML coverage: 426 of 1937 problems solved">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="402" viewBox="0 0 880 402" role="img" aria-label="Deep-ML coverage: 427 of 1937 problems solved">
 <style>
   .bg{fill:#ffffff}.tx{fill:#18181b}.dim{fill:#71717a}.none{fill:#e4e4e7}
   .e{fill:#15a349}.m{fill:#d08700}.h{fill:#dc2626}.u{fill:#a1a1aa}
@@ -1431,5 +1431,5 @@
 <rect x="137" y="362" width="7" height="7" rx="1.5" class="m"/>
 <rect x="146" y="362" width="7" height="7" rx="1.5" class="none"/>
 <rect x="155" y="362" width="7" height="7" rx="1.5" class="m"/>
-<text x="20" y="393" class="dim" font-size="10.5" font-family="ui-monospace,monospace">426 of 1937 problems solved on Deep-ML  ·  top 8 categories shown</text>
+<text x="20" y="393" class="dim" font-size="10.5" font-family="ui-monospace,monospace">427 of 1937 problems solved on Deep-ML  ·  top 8 categories shown</text>
 </svg>
