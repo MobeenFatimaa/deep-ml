@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:15:12.868Z",
+  "generated_at": "2026-11-08T11:22:28.404Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5952,6 +5952,19 @@
       "last_pushed_at": "2026-11-08T11:15:13.754Z",
       "language": "python",
       "lines": 152
+    },
+    "problem:1894": {
+      "kind": "problem",
+      "id": "1894",
+      "title": "Biclustering a Binary Matrix with a Bernoulli Block Model",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1894",
+      "path": "problems/1894-biclustering-a-binary-matrix-with-a-bernoulli-block-model",
+      "first_solved_at": "2026-11-08T11:22:29.562Z",
+      "last_pushed_at": "2026-11-08T11:22:29.562Z",
+      "language": "python",
+      "lines": 98
     }
   }
 }
