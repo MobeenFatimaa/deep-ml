@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:14:21.363Z",
+  "generated_at": "2026-11-08T11:15:12.868Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5939,6 +5939,19 @@
       "last_pushed_at": "2026-11-08T11:14:22.341Z",
       "language": "python",
       "lines": 103
+    },
+    "problem:1876": {
+      "kind": "problem",
+      "id": "1876",
+      "title": "Active-Learning Acquisition Scores: Max-Entropy, BALD and Greedy Batch Selection",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1876",
+      "path": "problems/1876-active-learning-acquisition-scores-max-entropy-bald-and-greedy-batch-selection",
+      "first_solved_at": "2026-11-08T11:15:13.754Z",
+      "last_pushed_at": "2026-11-08T11:15:13.754Z",
+      "language": "python",
+      "lines": 152
     }
   }
 }

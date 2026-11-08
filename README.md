@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**459** solved · 442 problems · 3 labs · 14 math
+**460** solved · 443 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -238,6 +238,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Acrobot Swing-Up Problem](https://www.deep-ml.com/problems/574) | hard | 2026-10-19 | [solution](problems/0574-acrobot-swing-up-problem) |
 | [Acrobot Swing-Up with Sarsa(λ)](https://www.deep-ml.com/problems/620) | hard | 2026-10-28 | [solution](problems/0620-acrobot-swing-up-with-sarsa) |
 | [Action-Conditioned Autoregressive Video Dynamics Model](https://www.deep-ml.com/problems/709) | hard | 2026-10-23 | [solution](problems/0709-action-conditioned-autoregressive-video-dynamics-model) |
+| [Active-Learning Acquisition Scores: Max-Entropy, BALD and Greedy Batch Selection](https://www.deep-ml.com/problems/1876) | hard | 2026-11-08 | [solution](problems/1876-active-learning-acquisition-scores-max-entropy-bald-and-greedy-batch-selection) |
 | [Actor-Critic Algorithm](https://www.deep-ml.com/problems/538) | hard | 2026-10-18 | [solution](problems/0538-actor-critic-algorithm) |
 | [Actor-Critic with Traces](https://www.deep-ml.com/problems/539) | hard | 2026-10-18 | [solution](problems/0539-actor-critic-with-traces) |
 | [Adaptive Computation Time: Per-Token Halting](https://www.deep-ml.com/problems/1389) | hard | 2026-11-05 | [solution](problems/1389-adaptive-computation-time-per-token-halting) |
