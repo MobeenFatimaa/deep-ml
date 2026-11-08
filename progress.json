@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:10:46.378Z",
+  "generated_at": "2026-11-08T11:11:35.299Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5900,6 +5900,19 @@
       "last_pushed_at": "2026-11-08T11:10:47.527Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:1903": {
+      "kind": "problem",
+      "id": "1903",
+      "title": "Poincare Embeddings: Distance, Riemannian Gradient and Projection",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1903",
+      "path": "problems/1903-poincare-embeddings-distance-riemannian-gradient-and-projection",
+      "first_solved_at": "2026-11-08T11:11:36.489Z",
+      "last_pushed_at": "2026-11-08T11:11:36.489Z",
+      "language": "python",
+      "lines": 104
     }
   }
 }
