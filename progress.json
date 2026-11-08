@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:13:07.009Z",
+  "generated_at": "2026-11-08T11:14:21.363Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5926,6 +5926,19 @@
       "last_pushed_at": "2026-11-08T11:13:07.790Z",
       "language": "python",
       "lines": 118
+    },
+    "problem:1857": {
+      "kind": "problem",
+      "id": "1857",
+      "title": "Relevance Vector Machine Regression by Type-II Maximum Likelihood",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1857",
+      "path": "problems/1857-relevance-vector-machine-regression-by-type-ii-maximum-likelihood",
+      "first_solved_at": "2026-11-08T11:14:22.341Z",
+      "last_pushed_at": "2026-11-08T11:14:22.341Z",
+      "language": "python",
+      "lines": 103
     }
   }
 }

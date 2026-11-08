@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**458** solved · 441 problems · 3 labs · 14 math
+**459** solved · 442 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -398,6 +398,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Rainbow DQN Implementation](https://www.deep-ml.com/problems/593) | hard | 2026-10-22 | [solution](problems/0593-rainbow-dqn-implementation) |
 | [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-10-13 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
 | [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-10-18 | [solution](problems/0552-reinforce-with-value-baseline) |
+| [Relevance Vector Machine Regression by Type-II Maximum Likelihood](https://www.deep-ml.com/problems/1857) | hard | 2026-11-08 | [solution](problems/1857-relevance-vector-machine-regression-by-type-ii-maximum-likelihood) |
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-10-19 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
 | [Retrace(λ) Implementation](https://www.deep-ml.com/problems/582) | hard | 2026-10-22 | [solution](problems/0582-retrace-implementation) |
 | [Rotary Position Embeddings (RoPE)](https://www.deep-ml.com/problems/1347) | hard | 2026-10-30 | [solution](problems/1347-rotary-position-embeddings-rope) |
