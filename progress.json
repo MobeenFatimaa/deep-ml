@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:00:36.884Z",
+  "generated_at": "2026-11-08T11:10:46.378Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5887,6 +5887,19 @@
       "last_pushed_at": "2026-11-08T11:00:37.956Z",
       "language": "python",
       "lines": 95
+    },
+    "problem:1886": {
+      "kind": "problem",
+      "id": "1886",
+      "title": "Metric MDS by SMACOF, and Sammon Stress",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1886",
+      "path": "problems/1886-metric-mds-by-smacof-and-sammon-stress",
+      "first_solved_at": "2026-11-08T11:10:47.527Z",
+      "last_pushed_at": "2026-11-08T11:10:47.527Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }

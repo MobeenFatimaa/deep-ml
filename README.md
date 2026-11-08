@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**455** solved · 438 problems · 3 labs · 14 math
+**456** solved · 439 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -349,6 +349,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Masked Generative Token Prediction Step](https://www.deep-ml.com/problems/706) | hard | 2026-10-22 | [solution](problems/0706-masked-generative-token-prediction-step) |
 | [MCTS with Step-wise Reward for Reasoning Trace Search](https://www.deep-ml.com/problems/777) | hard | 2026-10-28 | [solution](problems/0777-mcts-with-step-wise-reward-for-reasoning-trace-search) |
 | [MDN with Label Collinearity Control](https://www.deep-ml.com/problems/360) | hard | 2026-10-10 | [solution](problems/0360-mdn-with-label-collinearity-control) |
+| [Metric MDS by SMACOF, and Sammon Stress](https://www.deep-ml.com/problems/1886) | hard | 2026-11-08 | [solution](problems/1886-metric-mds-by-smacof-and-sammon-stress) |
 | [MinHash for Near-Duplicate Document Detection](https://www.deep-ml.com/problems/766) | hard | 2026-09-29 | [solution](problems/0766-minhash-for-near-duplicate-document-detection) |
 | [Mini-Float Encode and Decode: FP16, BF16, FP8 by Hand](https://www.deep-ml.com/problems/1436) | hard | 2026-11-05 | [solution](problems/1436-mini-float-encode-and-decode-fp16-bf16-fp8-by-hand) |
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-10-12 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
