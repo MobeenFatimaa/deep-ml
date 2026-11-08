@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:11:35.299Z",
+  "generated_at": "2026-11-08T11:13:07.009Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5913,6 +5913,19 @@
       "last_pushed_at": "2026-11-08T11:11:36.489Z",
       "language": "python",
       "lines": 104
+    },
+    "problem:1881": {
+      "kind": "problem",
+      "id": "1881",
+      "title": "Factor Analysis by EM",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1881",
+      "path": "problems/1881-factor-analysis-by-em",
+      "first_solved_at": "2026-11-08T11:13:07.790Z",
+      "last_pushed_at": "2026-11-08T11:13:07.790Z",
+      "language": "python",
+      "lines": 118
     }
   }
 }
