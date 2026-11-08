@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T12:47:36.702Z",
+  "generated_at": "2026-11-08T10:59:41.943Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5861,6 +5861,19 @@
       "last_pushed_at": "2026-11-07T12:47:36.470Z",
       "language": "python",
       "lines": 87
+    },
+    "problem:1484": {
+      "kind": "problem",
+      "id": "1484",
+      "title": "Chebyshev Spectral Graph Filters",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1484",
+      "path": "problems/1484-chebyshev-spectral-graph-filters",
+      "first_solved_at": "2026-11-08T10:59:42.906Z",
+      "last_pushed_at": "2026-11-08T10:59:42.906Z",
+      "language": "python",
+      "lines": 103
     }
   }
 }

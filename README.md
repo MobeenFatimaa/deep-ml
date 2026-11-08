@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**453** solved · 436 problems · 3 labs · 14 math
+**454** solved · 437 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -262,6 +262,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Build a VQ-VAE from Scratch](https://www.deep-ml.com/problems/699) | hard | 2026-10-27 | [solution](problems/0699-build-a-vq-vae-from-scratch) |
 | [Causal and Padding Masks with scaled_dot_product_attention](https://www.deep-ml.com/problems/1346) | hard | 2026-10-30 | [solution](problems/1346-causal-and-padding-masks-with-scaled-dot-product-attention) |
 | [Certainty-Equivalence in TD Learning](https://www.deep-ml.com/problems/516) | hard | 2026-10-14 | [solution](problems/0516-certainty-equivalence-in-td-learning) |
+| [Chebyshev Spectral Graph Filters](https://www.deep-ml.com/problems/1484) | hard | 2026-11-08 | [solution](problems/1484-chebyshev-spectral-graph-filters) |
 | [Coefficient Standard Errors, t-Statistics and p-Values](https://www.deep-ml.com/problems/1360) | hard | 2026-11-02 | [solution](problems/1360-coefficient-standard-errors-t-statistics-and-p-values) |
 | [Cohort Retention: First Login and Consecutive-Day Logins](https://www.deep-ml.com/problems/1119) | hard | 2026-10-23 | [solution](problems/1119-cohort-retention-first-login-and-consecutive-day-logins) |
 | [Combine Correlated Alphas into Robust Weights](https://www.deep-ml.com/problems/1356) | hard | 2026-11-02 | [solution](problems/1356-combine-correlated-alphas-into-robust-weights) |
