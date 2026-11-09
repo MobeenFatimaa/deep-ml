@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**464** solved · 447 problems · 3 labs · 14 math
+**465** solved · 448 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -351,6 +351,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-10-16 | [solution](problems/0534-linear-sarsa-algorithm) |
 | [Llama 3 RoPE Frequency Scaling](https://www.deep-ml.com/problems/1025) | hard | 2026-10-29 | [solution](problems/1025-llama-3-rope-frequency-scaling) |
 | [LSTM Backpropagation Through Time by Hand](https://www.deep-ml.com/problems/1429) | hard | 2026-11-05 | [solution](problems/1429-lstm-backpropagation-through-time-by-hand) |
+| [MAML for Linear-Regression Tasks with an Exact Meta-Gradient](https://www.deep-ml.com/problems/1877) | hard | 2026-11-09 | [solution](problems/1877-maml-for-linear-regression-tasks-with-an-exact-meta-gradient) |
 | [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-10-22 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
 | [Masked Generative Token Prediction Step](https://www.deep-ml.com/problems/706) | hard | 2026-10-22 | [solution](problems/0706-masked-generative-token-prediction-step) |
 | [MCTS with Step-wise Reward for Reasoning Trace Search](https://www.deep-ml.com/problems/777) | hard | 2026-10-28 | [solution](problems/0777-mcts-with-step-wise-reward-for-reasoning-trace-search) |

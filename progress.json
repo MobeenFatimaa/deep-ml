@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:32:05.889Z",
+  "generated_at": "2026-11-09T14:33:18.706Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6004,6 +6004,19 @@
       "last_pushed_at": "2026-11-09T14:32:05.035Z",
       "language": "python",
       "lines": 155
+    },
+    "problem:1877": {
+      "kind": "problem",
+      "id": "1877",
+      "title": "MAML for Linear-Regression Tasks with an Exact Meta-Gradient",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1877",
+      "path": "problems/1877-maml-for-linear-regression-tasks-with-an-exact-meta-gradient",
+      "first_solved_at": "2026-11-09T14:33:18.076Z",
+      "last_pushed_at": "2026-11-09T14:33:18.076Z",
+      "language": "python",
+      "lines": 74
     }
   }
 }
