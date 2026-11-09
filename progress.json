@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:39:03.266Z",
+  "generated_at": "2026-11-09T14:43:47.576Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6030,6 +6030,19 @@
       "last_pushed_at": "2026-11-09T14:39:02.323Z",
       "language": "python",
       "lines": 72
+    },
+    "problem:1932": {
+      "kind": "problem",
+      "id": "1932",
+      "title": "Marginal Prefix Probability Under a Token Bigram Model",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1932",
+      "path": "problems/1932-marginal-prefix-probability-under-a-token-bigram-model",
+      "first_solved_at": "2026-11-09T14:43:44.070Z",
+      "last_pushed_at": "2026-11-09T14:43:44.070Z",
+      "language": "python",
+      "lines": 119
     }
   }
 }
