@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:33:18.706Z",
+  "generated_at": "2026-11-09T14:39:03.266Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6017,6 +6017,19 @@
       "last_pushed_at": "2026-11-09T14:33:18.076Z",
       "language": "python",
       "lines": 74
+    },
+    "problem:1899": {
+      "kind": "problem",
+      "id": "1899",
+      "title": "Item-Based AutoRec with a Masked Reconstruction Loss",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1899",
+      "path": "problems/1899-item-based-autorec-with-a-masked-reconstruction-loss",
+      "first_solved_at": "2026-11-09T14:39:02.323Z",
+      "last_pushed_at": "2026-11-09T14:39:02.323Z",
+      "language": "python",
+      "lines": 72
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**465** solved · 448 problems · 3 labs · 14 math
+**466** solved · 449 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -336,6 +336,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Interest and Emphasis in n-step Semi-gradient TD](https://www.deep-ml.com/problems/1693) | hard | 2026-11-03 | [solution](problems/1693-interest-and-emphasis-in-n-step-semi-gradient-td) |
 | [Intra-Option Q-Learning for Temporal Abstraction](https://www.deep-ml.com/problems/652) | hard | 2026-10-27 | [solution](problems/0652-intra-option-q-learning-for-temporal-abstraction) |
 | [IoU and Mean Average Precision for Object Detection](https://www.deep-ml.com/problems/1395) | hard | 2026-11-02 | [solution](problems/1395-iou-and-mean-average-precision-for-object-detection) |
+| [Item-Based AutoRec with a Masked Reconstruction Loss](https://www.deep-ml.com/problems/1899) | hard | 2026-11-09 | [solution](problems/1899-item-based-autorec-with-a-masked-reconstruction-loss) |
 | [Job-Shop Scheduling with TD Learning](https://www.deep-ml.com/problems/622) | hard | 2026-10-27 | [solution](problems/0622-job-shop-scheduling-with-td-learning) |
 | [Kanerva Coding for High-Dimensional Spaces](https://www.deep-ml.com/problems/600) | hard | 2026-10-25 | [solution](problems/0600-kanerva-coding-for-high-dimensional-spaces) |
 | [Kronecker Products Without Forming Them](https://www.deep-ml.com/problems/1779) | hard | 2026-11-05 | [solution](problems/1779-kronecker-products-without-forming-them) |
