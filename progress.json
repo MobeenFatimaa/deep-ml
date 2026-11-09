@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:16:44.924Z",
+  "generated_at": "2026-11-09T14:28:46.661Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5978,6 +5978,19 @@
       "last_pushed_at": "2026-11-09T14:16:44.102Z",
       "language": "python",
       "lines": 64
+    },
+    "problem:1929": {
+      "kind": "problem",
+      "id": "1929",
+      "title": "GPT-2 and cl100k Pretokenizers from Unicode Categories",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1929",
+      "path": "problems/1929-gpt-2-and-cl100k-pretokenizers-from-unicode-categories",
+      "first_solved_at": "2026-11-09T14:28:46.112Z",
+      "last_pushed_at": "2026-11-09T14:28:46.112Z",
+      "language": "python",
+      "lines": 234
     }
   }
 }

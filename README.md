@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**462** solved · 445 problems · 3 labs · 14 math
+**463** solved · 446 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -300,6 +300,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-10-11 | [solution](problems/0186-gaussian-process-for-regression) |
 | [Generalized Additive Model by Backfitting](https://www.deep-ml.com/problems/1420) | hard | 2026-11-05 | [solution](problems/1420-generalized-additive-model-by-backfitting) |
 | [Goal-Conditioned World Model with Future Anchoring](https://www.deep-ml.com/problems/683) | hard | 2026-10-28 | [solution](problems/0683-goal-conditioned-world-model-with-future-anchoring) |
+| [GPT-2 and cl100k Pretokenizers from Unicode Categories](https://www.deep-ml.com/problems/1929) | hard | 2026-11-09 | [solution](problems/1929-gpt-2-and-cl100k-pretokenizers-from-unicode-categories) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-09-29 | [solution](problems/0088-gpt-2-text-generation) |
 | [Gradient Temporal Difference (GTD2) for Off-Policy Value Prediction](https://www.deep-ml.com/problems/567) | hard | 2026-10-19 | [solution](problems/0567-gradient-temporal-difference-gtd2-for-off-policy-value-prediction) |
 | [Grid and Laplace Approximations to a Beta-Bernoulli Posterior](https://www.deep-ml.com/problems/1752) | hard | 2026-11-05 | [solution](problems/1752-grid-and-laplace-approximations-to-a-beta-bernoulli-posterior) |
