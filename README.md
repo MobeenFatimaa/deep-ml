@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**463** solved · 446 problems · 3 labs · 14 math
+**464** solved · 447 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -299,6 +299,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Gambler's Problem: Value Iteration](https://www.deep-ml.com/problems/164) | hard | 2026-10-11 | [solution](problems/0164-gambler-s-problem-value-iteration) |
 | [Gaussian Process for Regression](https://www.deep-ml.com/problems/186) | hard | 2026-10-11 | [solution](problems/0186-gaussian-process-for-regression) |
 | [Generalized Additive Model by Backfitting](https://www.deep-ml.com/problems/1420) | hard | 2026-11-05 | [solution](problems/1420-generalized-additive-model-by-backfitting) |
+| [GMM Clustering with Full, Tied, Diagonal and Spherical Covariances](https://www.deep-ml.com/problems/1892) | hard | 2026-11-09 | [solution](problems/1892-gmm-clustering-with-full-tied-diagonal-and-spherical-covariances) |
 | [Goal-Conditioned World Model with Future Anchoring](https://www.deep-ml.com/problems/683) | hard | 2026-10-28 | [solution](problems/0683-goal-conditioned-world-model-with-future-anchoring) |
 | [GPT-2 and cl100k Pretokenizers from Unicode Categories](https://www.deep-ml.com/problems/1929) | hard | 2026-11-09 | [solution](problems/1929-gpt-2-and-cl100k-pretokenizers-from-unicode-categories) |
 | [GPT-2 Text Generation](https://www.deep-ml.com/problems/88) | hard | 2026-09-29 | [solution](problems/0088-gpt-2-text-generation) |

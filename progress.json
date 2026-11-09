@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T14:28:46.661Z",
+  "generated_at": "2026-11-09T14:32:05.889Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -5991,6 +5991,19 @@
       "last_pushed_at": "2026-11-09T14:28:46.112Z",
       "language": "python",
       "lines": 234
+    },
+    "problem:1892": {
+      "kind": "problem",
+      "id": "1892",
+      "title": "GMM Clustering with Full, Tied, Diagonal and Spherical Covariances",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1892",
+      "path": "problems/1892-gmm-clustering-with-full-tied-diagonal-and-spherical-covariances",
+      "first_solved_at": "2026-11-09T14:32:05.035Z",
+      "last_pushed_at": "2026-11-09T14:32:05.035Z",
+      "language": "python",
+      "lines": 155
     }
   }
 }
