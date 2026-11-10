@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**477** solved · 460 problems · 3 labs · 14 math
+**478** solved · 461 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -454,6 +454,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Train a Simple GAN on 1D Gaussian Data](https://www.deep-ml.com/problems/174) | hard | 2026-10-09 | [solution](problems/0174-train-a-simple-gan-on-1d-gaussian-data) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-10-10 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-10-11 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
+| [Train the makemore MLP Without loss.backward()](https://www.deep-ml.com/problems/1999) | hard | 2026-11-10 | [solution](problems/1999-train-the-makemore-mlp-without-loss-backward) |
 | [Training a Rectified Flow Diffusion Model](https://www.deep-ml.com/problems/500) | hard | 2026-10-13 | [solution](problems/0500-training-a-rectified-flow-diffusion-model) |
 | [Transformer Policy for Behavioral Cloning from Latent Actions](https://www.deep-ml.com/problems/727) | hard | 2026-10-23 | [solution](problems/0727-transformer-policy-for-behavioral-cloning-from-latent-actions) |
 | [Tree Speculative Verification](https://www.deep-ml.com/problems/1304) | hard | 2026-11-03 | [solution](problems/1304-tree-speculative-verification) |

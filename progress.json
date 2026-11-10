@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:10:43.031Z",
+  "generated_at": "2026-11-10T14:11:56.949Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6173,6 +6173,19 @@
       "last_pushed_at": "2026-11-10T14:10:42.908Z",
       "language": "python",
       "lines": 126
+    },
+    "problem:1999": {
+      "kind": "problem",
+      "id": "1999",
+      "title": "Train the makemore MLP Without loss.backward()",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1999",
+      "path": "problems/1999-train-the-makemore-mlp-without-loss-backward",
+      "first_solved_at": "2026-11-10T14:11:56.505Z",
+      "last_pushed_at": "2026-11-10T14:11:56.505Z",
+      "language": "python",
+      "lines": 143
     }
   }
 }
