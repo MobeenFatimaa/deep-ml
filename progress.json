@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T10:12:47.325Z",
+  "generated_at": "2026-11-10T10:18:35.510Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6121,6 +6121,19 @@
       "last_pushed_at": "2026-11-10T10:12:46.519Z",
       "language": "python",
       "lines": 124
+    },
+    "problem:1922": {
+      "kind": "problem",
+      "id": "1922",
+      "title": "Step an H-Net One Byte at a Time",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1922",
+      "path": "problems/1922-step-an-h-net-one-byte-at-a-time",
+      "first_solved_at": "2026-11-10T10:18:33.987Z",
+      "last_pushed_at": "2026-11-10T10:18:33.987Z",
+      "language": "python",
+      "lines": 100
     }
   }
 }
