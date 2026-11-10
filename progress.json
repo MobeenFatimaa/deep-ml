@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:44:28.810Z",
+  "generated_at": "2026-11-10T10:12:47.325Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6108,6 +6108,19 @@
       "last_pushed_at": "2026-11-10T07:44:28.208Z",
       "language": "python",
       "lines": 85
+    },
+    "problem:1933": {
+      "kind": "problem",
+      "id": "1933",
+      "title": "Score an Answer in Bits per Byte: Canonical vs Marginal",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1933",
+      "path": "problems/1933-score-an-answer-in-bits-per-byte-canonical-vs-marginal",
+      "first_solved_at": "2026-11-10T10:12:46.519Z",
+      "last_pushed_at": "2026-11-10T10:12:46.519Z",
+      "language": "python",
+      "lines": 124
     }
   }
 }
