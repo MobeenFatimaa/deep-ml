@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:08:20.009Z",
+  "generated_at": "2026-11-10T14:08:59.619Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6147,6 +6147,19 @@
       "last_pushed_at": "2026-11-10T14:08:19.626Z",
       "language": "python",
       "lines": 128
+    },
+    "problem:2001": {
+      "kind": "problem",
+      "id": "2001",
+      "title": "Smooth Load: The Chance an Expert Makes the Top k",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/2001",
+      "path": "problems/2001-smooth-load-the-chance-an-expert-makes-the-top-k",
+      "first_solved_at": "2026-11-10T14:08:59.461Z",
+      "last_pushed_at": "2026-11-10T14:08:59.461Z",
+      "language": "python",
+      "lines": 51
     }
   }
 }

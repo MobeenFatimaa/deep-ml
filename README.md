@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**475** solved · 458 problems · 3 labs · 14 math
+**476** solved · 459 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -424,6 +424,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Shortcut Maze and Exploration](https://www.deep-ml.com/problems/615) | hard | 2026-10-26 | [solution](problems/0615-shortcut-maze-and-exploration) |
 | [Simplified GPTQ: Sequential Quantization with Error Compensation](https://www.deep-ml.com/problems/1257) | hard | 2026-10-16 | [solution](problems/1257-simplified-gptq-sequential-quantization-with-error-compensation) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
+| [Smooth Load: The Chance an Expert Makes the Top k](https://www.deep-ml.com/problems/2001) | hard | 2026-11-10 | [solution](problems/2001-smooth-load-the-chance-an-expert-makes-the-top-k) |
 | [SmoothQuant: Migration Scales for W8A8](https://www.deep-ml.com/problems/1260) | hard | 2026-10-30 | [solution](problems/1260-smoothquant-migration-scales-for-w8a8) |
 | [Sparse Autoencoder Training Step and Diagnostics](https://www.deep-ml.com/problems/1624) | hard | 2026-10-23 | [solution](problems/1624-sparse-autoencoder-training-step-and-diagnostics) |
 | [Sparse Distributed Memory](https://www.deep-ml.com/problems/646) | hard | 2026-10-28 | [solution](problems/0646-sparse-distributed-memory) |
