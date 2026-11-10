@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:20:12.848Z",
+  "generated_at": "2026-11-10T14:21:11.333Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6225,6 +6225,19 @@
       "last_pushed_at": "2026-11-10T14:20:12.654Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:158": {
+      "kind": "problem",
+      "id": "158",
+      "title": "Epsilon-Greedy Action Selection for n-Armed Bandit",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/158",
+      "path": "problems/0158-epsilon-greedy-action-selection-for-n-armed-bandit",
+      "first_solved_at": "2026-11-10T14:21:10.845Z",
+      "last_pushed_at": "2026-11-10T14:21:10.845Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
