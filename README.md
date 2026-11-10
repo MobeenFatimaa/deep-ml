@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**474** solved · 457 problems · 3 labs · 14 math
+**475** solved · 458 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -366,6 +366,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mini-Float Encode and Decode: FP16, BF16, FP8 by Hand](https://www.deep-ml.com/problems/1436) | hard | 2026-11-05 | [solution](problems/1436-mini-float-encode-and-decode-fp16-bf16-fp8-by-hand) |
 | [ML Pipeline DAG Scheduler with Critical Path Analysis](https://www.deep-ml.com/problems/270) | hard | 2026-10-12 | [solution](problems/0270-ml-pipeline-dag-scheduler-with-critical-path-analysis) |
 | [Model-Based Value Expansion](https://www.deep-ml.com/problems/598) | hard | 2026-10-22 | [solution](problems/0598-model-based-value-expansion) |
+| [MoE Run-Health Monitor: Spikes, Loss Alarm, Routing Collapse and Rogue Experts](https://www.deep-ml.com/problems/1990) | hard | 2026-11-10 | [solution](problems/1990-moe-run-health-monitor-spikes-loss-alarm-routing-collapse-and-rogue-experts) |
 | [Monte Carlo Tree Search](https://www.deep-ml.com/problems/207) | hard | 2026-10-21 | [solution](problems/0207-monte-carlo-tree-search) |
 | [Monte Carlo Tree Search with Neural Policy and Value](https://www.deep-ml.com/problems/978) | hard | 2026-10-01 | [solution](problems/0978-monte-carlo-tree-search-with-neural-policy-and-value) |
 | [Monthly-Cohort Retention Rate by Plan](https://www.deep-ml.com/problems/1133) | hard | 2026-10-30 | [solution](problems/1133-monthly-cohort-retention-rate-by-plan) |

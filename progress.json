@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T10:18:35.510Z",
+  "generated_at": "2026-11-10T14:08:20.009Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6134,6 +6134,19 @@
       "last_pushed_at": "2026-11-10T10:18:33.987Z",
       "language": "python",
       "lines": 100
+    },
+    "problem:1990": {
+      "kind": "problem",
+      "id": "1990",
+      "title": "MoE Run-Health Monitor: Spikes, Loss Alarm, Routing Collapse and Rogue Experts",
+      "difficulty": "hard",
+      "category": "Mixture of Experts",
+      "url": "https://www.deep-ml.com/problems/1990",
+      "path": "problems/1990-moe-run-health-monitor-spikes-loss-alarm-routing-collapse-and-rogue-experts",
+      "first_solved_at": "2026-11-10T14:08:19.626Z",
+      "last_pushed_at": "2026-11-10T14:08:19.626Z",
+      "language": "python",
+      "lines": 128
     }
   }
 }
