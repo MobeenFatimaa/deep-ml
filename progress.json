@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:13:42.640Z",
+  "generated_at": "2026-11-10T14:14:59.774Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6199,6 +6199,19 @@
       "last_pushed_at": "2026-11-10T14:13:42.459Z",
       "language": "python",
       "lines": 110
+    },
+    "problem:1893": {
+      "kind": "problem",
+      "id": "1893",
+      "title": "Shi-Malik Normalized Cut: Random-Walk Escape Probabilities and the Spectral Bipartition",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1893",
+      "path": "problems/1893-shi-malik-normalized-cut-random-walk-escape-probabilities-and-the-spectral-bipartition",
+      "first_solved_at": "2026-11-10T14:14:59.454Z",
+      "last_pushed_at": "2026-11-10T14:14:59.454Z",
+      "language": "python",
+      "lines": 86
     }
   }
 }

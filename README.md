@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**479** solved · 462 problems · 3 labs · 14 math
+**480** solved · 463 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -422,6 +422,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation](https://www.deep-ml.com/problems/531) | hard | 2026-10-14 | [solution](problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation) |
 | [Semi-Markov Q-Learning](https://www.deep-ml.com/problems/617) | hard | 2026-10-30 | [solution](problems/0617-semi-markov-q-learning) |
 | [Sequential Video Generation with Diffusion Models](https://www.deep-ml.com/problems/501) | hard | 2026-10-13 | [solution](problems/0501-sequential-video-generation-with-diffusion-models) |
+| [Shi-Malik Normalized Cut: Random-Walk Escape Probabilities and the Spectral Bipartition](https://www.deep-ml.com/problems/1893) | hard | 2026-11-10 | [solution](problems/1893-shi-malik-normalized-cut-random-walk-escape-probabilities-and-the-spectral-bipartition) |
 | [Shortcut Maze and Exploration](https://www.deep-ml.com/problems/615) | hard | 2026-10-26 | [solution](problems/0615-shortcut-maze-and-exploration) |
 | [Simplified GPTQ: Sequential Quantization with Error Compensation](https://www.deep-ml.com/problems/1257) | hard | 2026-10-16 | [solution](problems/1257-simplified-gptq-sequential-quantization-with-error-compensation) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
