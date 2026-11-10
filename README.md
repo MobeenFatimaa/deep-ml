@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**471** solved · 454 problems · 3 labs · 14 math
+**472** solved · 455 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -249,6 +249,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Alien Dictionary via Topological Sort](https://www.deep-ml.com/problems/1168) | hard | 2026-10-10 | [solution](problems/1168-alien-dictionary-via-topological-sort) |
 | [Anticipatory Routing for MoE Training Stability](https://www.deep-ml.com/problems/744) | hard | 2026-10-23 | [solution](problems/0744-anticipatory-routing-for-moe-training-stability) |
 | [Approximate Nearest-Neighbour Search: Inverted File Index with Product Quantization (IVF-PQ)](https://www.deep-ml.com/problems/1606) | hard | 2026-10-17 | [solution](problems/1606-approximate-nearest-neighbour-search-inverted-file-index-with-product-quantization-ivf-pq) |
+| [Assemble One Dynamic Chunking Stage](https://www.deep-ml.com/problems/1912) | hard | 2026-11-10 | [solution](problems/1912-assemble-one-dynamic-chunking-stage) |
 | [Asynchronous Advantage Actor-Critic (A3C)](https://www.deep-ml.com/problems/594) | hard | 2026-10-22 | [solution](problems/0594-asynchronous-advantage-actor-critic-a3c) |
 | [Asynchronous PPO Training Pipeline](https://www.deep-ml.com/problems/664) | hard | 2026-10-29 | [solution](problems/0664-asynchronous-ppo-training-pipeline) |
 | [Automatic Relevance Determination by Evidence Maximization](https://www.deep-ml.com/problems/1821) | hard | 2026-11-05 | [solution](problems/1821-automatic-relevance-determination-by-evidence-maximization) |

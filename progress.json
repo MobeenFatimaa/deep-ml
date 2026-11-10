@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:42:46.453Z",
+  "generated_at": "2026-11-10T07:44:28.810Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6095,6 +6095,19 @@
       "last_pushed_at": "2026-11-10T07:42:45.605Z",
       "language": "python",
       "lines": 115
+    },
+    "problem:1912": {
+      "kind": "problem",
+      "id": "1912",
+      "title": "Assemble One Dynamic Chunking Stage",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1912",
+      "path": "problems/1912-assemble-one-dynamic-chunking-stage",
+      "first_solved_at": "2026-11-10T07:44:28.208Z",
+      "last_pushed_at": "2026-11-10T07:44:28.208Z",
+      "language": "python",
+      "lines": 85
     }
   }
 }
