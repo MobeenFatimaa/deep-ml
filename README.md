@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**476** solved · 459 problems · 3 labs · 14 math
+**477** solved · 460 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -293,6 +293,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Emphatic Temporal Difference Learning for Off-Policy Evaluation](https://www.deep-ml.com/problems/568) | hard | 2026-10-19 | [solution](problems/0568-emphatic-temporal-difference-learning-for-off-policy-evaluation) |
 | [EnvPool-style Asynchronous Environment Pooling](https://www.deep-ml.com/problems/656) | hard | 2026-10-27 | [solution](problems/0656-envpool-style-asynchronous-environment-pooling) |
 | [Factor Analysis by EM](https://www.deep-ml.com/problems/1881) | hard | 2026-11-08 | [solution](problems/1881-factor-analysis-by-em) |
+| [FCFS Scheduling With All-or-Nothing Preemption](https://www.deep-ml.com/problems/2036) | hard | 2026-11-10 | [solution](problems/2036-fcfs-scheduling-with-all-or-nothing-preemption) |
 | [First-Visit Monte Carlo Control with Exploring Starts](https://www.deep-ml.com/problems/470) | hard | 2026-10-13 | [solution](problems/0470-first-visit-monte-carlo-control-with-exploring-starts) |
 | [Flash Attention v1 - Forward Pass](https://www.deep-ml.com/problems/208) | hard | 2026-10-09 | [solution](problems/0208-flash-attention-v1-forward-pass) |
 | [FlashDecoding: Split-K GQA Decode Attention](https://www.deep-ml.com/problems/1301) | hard | 2026-11-03 | [solution](problems/1301-flashdecoding-split-k-gqa-decode-attention) |

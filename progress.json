@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:08:59.619Z",
+  "generated_at": "2026-11-10T14:10:43.031Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6160,6 +6160,19 @@
       "last_pushed_at": "2026-11-10T14:08:59.461Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:2036": {
+      "kind": "problem",
+      "id": "2036",
+      "title": "FCFS Scheduling With All-or-Nothing Preemption",
+      "difficulty": "hard",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/2036",
+      "path": "problems/2036-fcfs-scheduling-with-all-or-nothing-preemption",
+      "first_solved_at": "2026-11-10T14:10:42.908Z",
+      "last_pushed_at": "2026-11-10T14:10:42.908Z",
+      "language": "python",
+      "lines": 126
     }
   }
 }
