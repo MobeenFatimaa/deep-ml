@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**470** solved · 453 problems · 3 labs · 14 math
+**471** solved · 454 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -383,6 +383,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Off-Policy TD(lambda) with Importance-Weighted Eligibility Traces](https://www.deep-ml.com/problems/580) | hard | 2026-10-25 | [solution](problems/0580-off-policy-td-lambda-with-importance-weighted-eligibility-traces) |
 | [Overlapping Look-Back KV Compression](https://www.deep-ml.com/problems/760) | hard | 2026-10-22 | [solution](problems/0760-overlapping-look-back-kv-compression) |
 | [Overlapping Weighted KV Compression](https://www.deep-ml.com/problems/735) | hard | 2026-10-29 | [solution](problems/0735-overlapping-weighted-kv-compression) |
+| [Pairwise Token Validity and the Valid Covering Tree](https://www.deep-ml.com/problems/1934) | hard | 2026-11-10 | [solution](problems/1934-pairwise-token-validity-and-the-valid-covering-tree) |
 | [Parallel Environment Simulation with Multiprocessing](https://www.deep-ml.com/problems/655) | hard | 2026-10-27 | [solution](problems/0655-parallel-environment-simulation-with-multiprocessing) |
 | [Parallel Value Functions (Horde)](https://www.deep-ml.com/problems/585) | hard | 2026-10-25 | [solution](problems/0585-parallel-value-functions-horde) |
 | [Pattern Matching and Graph Rewrite to a Fixed Point](https://www.deep-ml.com/problems/1510) | hard | 2026-10-15 | [solution](problems/1510-pattern-matching-and-graph-rewrite-to-a-fixed-point) |

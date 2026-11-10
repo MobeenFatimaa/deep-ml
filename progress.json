@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:40:55.255Z",
+  "generated_at": "2026-11-10T07:42:46.453Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6082,6 +6082,19 @@
       "last_pushed_at": "2026-11-10T07:40:54.625Z",
       "language": "python",
       "lines": 32
+    },
+    "problem:1934": {
+      "kind": "problem",
+      "id": "1934",
+      "title": "Pairwise Token Validity and the Valid Covering Tree",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/1934",
+      "path": "problems/1934-pairwise-token-validity-and-the-valid-covering-tree",
+      "first_solved_at": "2026-11-10T07:42:45.605Z",
+      "last_pushed_at": "2026-11-10T07:42:45.605Z",
+      "language": "python",
+      "lines": 115
     }
   }
 }
