@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T14:11:56.949Z",
+  "generated_at": "2026-11-10T14:13:42.640Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6186,6 +6186,19 @@
       "last_pushed_at": "2026-11-10T14:11:56.505Z",
       "language": "python",
       "lines": 143
+    },
+    "problem:1986": {
+      "kind": "problem",
+      "id": "1986",
+      "title": "Upcycle a Dense FFN into Fine-Grained Experts and Check Parity at Initialization",
+      "difficulty": "hard",
+      "category": "Mixture of Experts",
+      "url": "https://www.deep-ml.com/problems/1986",
+      "path": "problems/1986-upcycle-a-dense-ffn-into-fine-grained-experts-and-check-parity-at-initialization",
+      "first_solved_at": "2026-11-10T14:13:42.459Z",
+      "last_pushed_at": "2026-11-10T14:13:42.459Z",
+      "language": "python",
+      "lines": 110
     }
   }
 }
