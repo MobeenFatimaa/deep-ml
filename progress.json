@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T17:19:21.530Z",
+  "generated_at": "2026-11-11T17:21:02.262Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6368,6 +6368,19 @@
       "last_pushed_at": "2026-11-11T17:19:21.103Z",
       "language": "python",
       "lines": 60
+    },
+    "problem:1720": {
+      "kind": "problem",
+      "id": "1720",
+      "title": "Fit Gaussian, Laplace and Student-t to Data with Outliers",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1720",
+      "path": "problems/1720-fit-gaussian-laplace-and-student-t-to-data-with-outliers",
+      "first_solved_at": "2026-11-11T17:21:01.935Z",
+      "last_pushed_at": "2026-11-11T17:21:01.935Z",
+      "language": "python",
+      "lines": 56
     }
   }
 }
