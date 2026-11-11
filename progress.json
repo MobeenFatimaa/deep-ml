@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T10:06:44.202Z",
+  "generated_at": "2026-11-11T17:18:07.288Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6342,6 +6342,19 @@
       "last_pushed_at": "2026-11-11T10:06:44.109Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:1485": {
+      "kind": "problem",
+      "id": "1485",
+      "title": "Laplacian Positional Encodings",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1485",
+      "path": "problems/1485-laplacian-positional-encodings",
+      "first_solved_at": "2026-11-11T17:18:07.219Z",
+      "last_pushed_at": "2026-11-11T17:18:07.219Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }
