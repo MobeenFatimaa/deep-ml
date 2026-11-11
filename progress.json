@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T17:18:07.288Z",
+  "generated_at": "2026-11-11T17:19:21.530Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6355,6 +6355,19 @@
       "last_pushed_at": "2026-11-11T17:18:07.219Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:1650": {
+      "kind": "problem",
+      "id": "1650",
+      "title": "Chunked Linear Scan with a Carried State",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1650",
+      "path": "problems/1650-chunked-linear-scan-with-a-carried-state",
+      "first_solved_at": "2026-11-11T17:19:21.103Z",
+      "last_pushed_at": "2026-11-11T17:19:21.103Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
