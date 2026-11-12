@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:05:14.136Z",
+  "generated_at": "2026-11-12T07:06:15.356Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6392,6 +6392,19 @@
       "path": "problems/0608-step-size-selection-for-tile-coding",
       "first_solved_at": "2026-11-12T07:05:14.206Z",
       "last_pushed_at": "2026-11-12T07:05:14.206Z",
+      "language": "python",
+      "lines": 41
+    },
+    "problem:316": {
+      "kind": "problem",
+      "id": "316",
+      "title": "MMLU Log-Probability Scoring",
+      "difficulty": "medium",
+      "category": "LLM",
+      "url": "https://www.deep-ml.com/problems/316",
+      "path": "problems/0316-mmlu-log-probability-scoring",
+      "first_solved_at": "2026-11-12T07:06:15.551Z",
+      "last_pushed_at": "2026-11-12T07:06:15.551Z",
       "language": "python",
       "lines": 41
     }
