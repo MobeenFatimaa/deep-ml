@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:08:38.164Z",
+  "generated_at": "2026-11-13T10:09:37.543Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6537,6 +6537,19 @@
       "last_pushed_at": "2026-11-13T10:08:37.383Z",
       "language": "python",
       "lines": 65
+    },
+    "problem:172": {
+      "kind": "problem",
+      "id": "172",
+      "title": "Muon Optimizer Update with Newton-Schulz Iteration",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/172",
+      "path": "problems/0172-muon-optimizer-update-with-newton-schulz-iteration",
+      "first_solved_at": "2026-11-13T10:09:36.800Z",
+      "last_pushed_at": "2026-11-13T10:09:36.800Z",
+      "language": "python",
+      "lines": 55
     }
   }
 }
