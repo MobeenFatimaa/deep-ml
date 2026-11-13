@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**509** solved · 492 problems · 3 labs · 14 math
+**510** solved · 493 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -52,6 +52,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Hamming Distance for Kanerva Coding](https://www.deep-ml.com/problems/647) | easy | 2026-09-24 | [solution](problems/0647-hamming-distance-for-kanerva-coding) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-09-28 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Implement a Linear Layer Forward Pass with Matrix Multiplication](https://www.deep-ml.com/problems/883) | easy | 2026-09-15 | [solution](problems/0883-implement-a-linear-layer-forward-pass-with-matrix-multiplication) |
+| [Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113) | easy | 2026-11-13 | [solution](problems/0113-implement-a-simple-residual-block-with-shortcut-connection) |
 | [Implement Compressed Column Sparse Matrix Format (CSC)](https://www.deep-ml.com/problems/67) | easy | 2026-10-21 | [solution](problems/0067-implement-compressed-column-sparse-matrix-format-csc) |
 | [Implement Compressed Row Sparse Matrix (CSR) Format Conversion](https://www.deep-ml.com/problems/65) | easy | 2026-10-21 | [solution](problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion) |
 | [Implement Early Stopping Based on Validation Loss](https://www.deep-ml.com/problems/135) | easy | 2026-11-04 | [solution](problems/0135-implement-early-stopping-based-on-validation-loss) |
