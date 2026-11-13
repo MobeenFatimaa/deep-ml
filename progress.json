@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:53:27.249Z",
+  "generated_at": "2026-11-13T09:54:24.291Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6511,6 +6511,19 @@
       "last_pushed_at": "2026-11-13T09:53:28.035Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:171": {
+      "kind": "problem",
+      "id": "171",
+      "title": "Minimax Algorithm for Tic-Tac-Toe",
+      "difficulty": "medium",
+      "category": "Game Theory",
+      "url": "https://www.deep-ml.com/problems/171",
+      "path": "problems/0171-minimax-algorithm-for-tic-tac-toe",
+      "first_solved_at": "2026-11-13T09:54:24.811Z",
+      "last_pushed_at": "2026-11-13T09:54:24.811Z",
+      "language": "python",
+      "lines": 73
     }
   }
 }
