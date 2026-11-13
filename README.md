@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**508** solved · 491 problems · 3 labs · 14 math
+**509** solved · 492 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -65,6 +65,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement ReLU and Leaky ReLU](https://www.deep-ml.com/problems/1226) | easy | 2026-09-16 | [solution](problems/1226-implement-relu-and-leaky-relu) |
 | [Implement Ridge Regression Loss Function](https://www.deep-ml.com/problems/43) | easy | 2026-10-21 | [solution](problems/0043-implement-ridge-regression-loss-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-11-11 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
+| [Implement the SELU Activation Function](https://www.deep-ml.com/problems/103) | easy | 2026-11-13 | [solution](problems/0103-implement-the-selu-activation-function) |
 | [Implement the Softplus Activation Function](https://www.deep-ml.com/problems/99) | easy | 2026-11-13 | [solution](problems/0099-implement-the-softplus-activation-function) |
 | [Implement the Softsign Activation Function](https://www.deep-ml.com/problems/100) | easy | 2026-11-11 | [solution](problems/0100-implement-the-softsign-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-09-14 | [solution](problems/0039-implementation-of-log-softmax-function) |
