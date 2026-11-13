@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:33:13.304Z",
+  "generated_at": "2026-11-13T09:34:41.558Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6485,6 +6485,19 @@
       "last_pushed_at": "2026-11-13T09:33:14.100Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:160": {
+      "kind": "problem",
+      "id": "160",
+      "title": "Mixed Precision Training",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/160",
+      "path": "problems/0160-mixed-precision-training",
+      "first_solved_at": "2026-11-13T09:34:42.303Z",
+      "last_pushed_at": "2026-11-13T09:34:42.303Z",
+      "language": "python",
+      "lines": 42
     }
   }
 }
