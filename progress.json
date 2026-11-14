@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:11:38.080Z",
+  "generated_at": "2026-11-14T16:12:24.154Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6680,6 +6680,19 @@
       "last_pushed_at": "2026-11-14T16:11:37.235Z",
       "language": "python",
       "lines": 56
+    },
+    "problem:212": {
+      "kind": "problem",
+      "id": "212",
+      "title": "Confidence Interval for Population Mean",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/212",
+      "path": "problems/0212-confidence-interval-for-population-mean",
+      "first_solved_at": "2026-11-14T16:12:23.436Z",
+      "last_pushed_at": "2026-11-14T16:12:23.436Z",
+      "language": "python",
+      "lines": 69
     }
   }
 }
