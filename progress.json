@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:18:50.844Z",
+  "generated_at": "2026-11-14T16:19:48.355Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6719,6 +6719,19 @@
       "last_pushed_at": "2026-11-14T16:18:49.982Z",
       "language": "python",
       "lines": 50
+    },
+    "problem:268": {
+      "kind": "problem",
+      "id": "268",
+      "title": "Implement Relativistic Critic Rewards for Adversarial Reasoning",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/268",
+      "path": "problems/0268-implement-relativistic-critic-rewards-for-adversarial-reasoning",
+      "first_solved_at": "2026-11-14T16:19:47.506Z",
+      "last_pushed_at": "2026-11-14T16:19:47.506Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
