@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**515** solved · 498 problems · 3 labs · 14 math
+**516** solved · 499 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -144,6 +144,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Confusion Matrix with Normalization](https://www.deep-ml.com/problems/193) | medium | 2026-11-12 | [solution](problems/0193-compute-confusion-matrix-with-normalization) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-11-01 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Compute Pointwise Mutual Information](https://www.deep-ml.com/problems/111) | medium | 2026-09-29 | [solution](problems/0111-compute-pointwise-mutual-information) |
+| [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-11-14 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Compute-Matched Looped MoE Configuration (SMELT)](https://www.deep-ml.com/problems/1394) | medium | 2026-10-11 | [solution](problems/1394-compute-matched-looped-moe-configuration-smelt) |
 | [CosineAnnealingLR Learning Rate Scheduler](https://www.deep-ml.com/problems/155) | medium | 2026-11-10 | [solution](problems/0155-cosineannealinglr-learning-rate-scheduler) |
 | [Create Composite Hypervector for a Dataset Row](https://www.deep-ml.com/problems/74) | medium | 2026-10-18 | [solution](problems/0074-create-composite-hypervector-for-a-dataset-row) |
