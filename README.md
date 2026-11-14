@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**511** solved · 494 problems · 3 labs · 14 math
+**512** solved · 495 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -173,6 +173,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-10-03 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Go Move Resolution with Captures](https://www.deep-ml.com/problems/981) | medium | 2026-10-01 | [solution](problems/0981-go-move-resolution-with-captures) |
 | [Gradient Bandit Action Selection](https://www.deep-ml.com/problems/163) | medium | 2026-11-10 | [solution](problems/0163-gradient-bandit-action-selection) |
+| [Gradient Clipping by Global Norm](https://www.deep-ml.com/problems/197) | medium | 2026-11-14 | [solution](problems/0197-gradient-clipping-by-global-norm) |
 | [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-11-01 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Guidance Attention Mask for Chunked Video](https://www.deep-ml.com/problems/461) | medium | 2026-10-16 | [solution](problems/0461-guidance-attention-mask-for-chunked-video) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-26 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
