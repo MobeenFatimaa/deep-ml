@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T16:20:33.518Z",
+  "generated_at": "2026-11-14T16:25:59.202Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6745,6 +6745,19 @@
       "last_pushed_at": "2026-11-14T16:20:32.558Z",
       "language": "python",
       "lines": 29
+    },
+    "problem:284": {
+      "kind": "problem",
+      "id": "284",
+      "title": "Implement Entropy-based Split Selection",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/284",
+      "path": "problems/0284-implement-entropy-based-split-selection",
+      "first_solved_at": "2026-11-14T16:25:58.115Z",
+      "last_pushed_at": "2026-11-14T16:25:58.115Z",
+      "language": "python",
+      "lines": 83
     }
   }
 }
