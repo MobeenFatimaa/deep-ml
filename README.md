@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**524** solved · 507 problems · 3 labs · 14 math
+**525** solved · 508 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -468,6 +468,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sequential Video Generation with Diffusion Models](https://www.deep-ml.com/problems/501) | hard | 2026-10-13 | [solution](problems/0501-sequential-video-generation-with-diffusion-models) |
 | [Shi-Malik Normalized Cut: Random-Walk Escape Probabilities and the Spectral Bipartition](https://www.deep-ml.com/problems/1893) | hard | 2026-11-10 | [solution](problems/1893-shi-malik-normalized-cut-random-walk-escape-probabilities-and-the-spectral-bipartition) |
 | [Shortcut Maze and Exploration](https://www.deep-ml.com/problems/615) | hard | 2026-10-26 | [solution](problems/0615-shortcut-maze-and-exploration) |
+| [Shortest Grid Path When You May Break Through k Walls](https://www.deep-ml.com/problems/2105) | hard | 2026-11-15 | [solution](problems/2105-shortest-grid-path-when-you-may-break-through-k-walls) |
 | [Simplified GPTQ: Sequential Quantization with Error Compensation](https://www.deep-ml.com/problems/1257) | hard | 2026-10-16 | [solution](problems/1257-simplified-gptq-sequential-quantization-with-error-compensation) |
 | [Singular Value Decomposition (SVD) of 2x2 Matrix](https://www.deep-ml.com/problems/12) | hard | 2026-09-25 | [solution](problems/0012-singular-value-decomposition-svd-of-2x2-matrix) |
 | [Smooth Load: The Chance an Expert Makes the Top k](https://www.deep-ml.com/problems/2001) | hard | 2026-11-10 | [solution](problems/2001-smooth-load-the-chance-an-expert-makes-the-top-k) |

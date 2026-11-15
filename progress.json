@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:13:36.741Z",
+  "generated_at": "2026-11-15T11:14:19.065Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6784,6 +6784,19 @@
       "last_pushed_at": "2026-11-15T11:13:37.047Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:2105": {
+      "kind": "problem",
+      "id": "2105",
+      "title": "Shortest Grid Path When You May Break Through k Walls",
+      "difficulty": "hard",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/2105",
+      "path": "problems/2105-shortest-grid-path-when-you-may-break-through-k-walls",
+      "first_solved_at": "2026-11-15T11:14:19.467Z",
+      "last_pushed_at": "2026-11-15T11:14:19.467Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
