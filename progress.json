@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:17:30.987Z",
+  "generated_at": "2026-11-15T11:19:43.257Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6836,6 +6836,19 @@
       "last_pushed_at": "2026-11-15T11:17:31.249Z",
       "language": "python",
       "lines": 94
+    },
+    "problem:2084": {
+      "kind": "problem",
+      "id": "2084",
+      "title": "Meet in the Middle: Largest Subset Sum Under a Capacity",
+      "difficulty": "hard",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/2084",
+      "path": "problems/2084-meet-in-the-middle-largest-subset-sum-under-a-capacity",
+      "first_solved_at": "2026-11-15T11:19:43.204Z",
+      "last_pushed_at": "2026-11-15T11:19:43.204Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
