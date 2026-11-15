@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:14:19.065Z",
+  "generated_at": "2026-11-15T11:15:24.243Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6797,6 +6797,19 @@
       "last_pushed_at": "2026-11-15T11:14:19.467Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:2205": {
+      "kind": "problem",
+      "id": "2205",
+      "title": "HNSW Search: Greedy Descent Through the Upper Layers, Beam Search at the Bottom",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/2205",
+      "path": "problems/2205-hnsw-search-greedy-descent-through-the-upper-layers-beam-search-at-the-bottom",
+      "first_solved_at": "2026-11-15T11:15:24.538Z",
+      "last_pushed_at": "2026-11-15T11:15:24.538Z",
+      "language": "python",
+      "lines": 78
     }
   }
 }
