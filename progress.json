@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:16:44.951Z",
+  "generated_at": "2026-11-15T11:17:30.987Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6823,6 +6823,19 @@
       "last_pushed_at": "2026-11-15T11:16:45.442Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:2114": {
+      "kind": "problem",
+      "id": "2114",
+      "title": "Least Frequently Used (LFU) Cache with O(1) Operations",
+      "difficulty": "hard",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/2114",
+      "path": "problems/2114-least-frequently-used-lfu-cache-with-o-1-operations",
+      "first_solved_at": "2026-11-15T11:17:31.249Z",
+      "last_pushed_at": "2026-11-15T11:17:31.249Z",
+      "language": "python",
+      "lines": 94
     }
   }
 }

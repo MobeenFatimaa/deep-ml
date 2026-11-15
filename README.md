@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**527** solved · 510 problems · 3 labs · 14 math
+**528** solved · 511 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -393,6 +393,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Laplacian Positional Encodings](https://www.deep-ml.com/problems/1485) | hard | 2026-11-11 | [solution](problems/1485-laplacian-positional-encodings) |
 | [Large Margin Nearest Neighbours: Target Neighbours, Impostors and the Pull/Push Loss](https://www.deep-ml.com/problems/1792) | hard | 2026-11-07 | [solution](problems/1792-large-margin-nearest-neighbours-target-neighbours-impostors-and-the-pull-push-loss) |
 | [Learn GP Hyperparameters by Maximizing the Marginal Likelihood](https://www.deep-ml.com/problems/1851) | hard | 2026-11-05 | [solution](problems/1851-learn-gp-hyperparameters-by-maximizing-the-marginal-likelihood) |
+| [Least Frequently Used (LFU) Cache with O(1) Operations](https://www.deep-ml.com/problems/2114) | hard | 2026-11-15 | [solution](problems/2114-least-frequently-used-lfu-cache-with-o-1-operations) |
 | [Least-Squares Temporal Difference (LSTD) for Policy Evaluation](https://www.deep-ml.com/problems/536) | hard | 2026-10-18 | [solution](problems/0536-least-squares-temporal-difference-lstd-for-policy-evaluation) |
 | [Leverage, Studentized Residuals and Cook's Distance](https://www.deep-ml.com/problems/1363) | hard | 2026-11-02 | [solution](problems/1363-leverage-studentized-residuals-and-cook-s-distance) |
 | [Life-Time Value vs Click-Through Rate for Ad Offers](https://www.deep-ml.com/problems/1705) | hard | 2026-11-05 | [solution](problems/1705-life-time-value-vs-click-through-rate-for-ad-offers) |
