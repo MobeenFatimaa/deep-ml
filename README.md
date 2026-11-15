@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**526** solved · 509 problems · 3 labs · 14 math
+**527** solved · 510 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -464,6 +464,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Rotary Position Embeddings (RoPE)](https://www.deep-ml.com/problems/1347) | hard | 2026-10-30 | [solution](problems/1347-rotary-position-embeddings-rope) |
 | [Sarsa(lambda) Algorithm with Eligibility Traces](https://www.deep-ml.com/problems/521) | hard | 2026-10-14 | [solution](problems/0521-sarsa-lambda-algorithm-with-eligibility-traces) |
 | [Score an Answer in Bits per Byte: Canonical vs Marginal](https://www.deep-ml.com/problems/1933) | hard | 2026-11-10 | [solution](problems/1933-score-an-answer-in-bits-per-byte-canonical-vs-marginal) |
+| [Segment a String with a Trie: Count the Splits and the Fewest Words](https://www.deep-ml.com/problems/2096) | hard | 2026-11-15 | [solution](problems/2096-segment-a-string-with-a-trie-count-the-splits-and-the-fewest-words) |
 | [Semi-Gradient TD(lambda) with Eligibility Traces and Linear Function Approximation](https://www.deep-ml.com/problems/531) | hard | 2026-10-14 | [solution](problems/0531-semi-gradient-td-lambda-with-eligibility-traces-and-linear-function-approximation) |
 | [Semi-Markov Q-Learning](https://www.deep-ml.com/problems/617) | hard | 2026-10-30 | [solution](problems/0617-semi-markov-q-learning) |
 | [Sequential Video Generation with Diffusion Models](https://www.deep-ml.com/problems/501) | hard | 2026-10-13 | [solution](problems/0501-sequential-video-generation-with-diffusion-models) |

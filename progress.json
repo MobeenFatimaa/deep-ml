@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:15:24.243Z",
+  "generated_at": "2026-11-15T11:16:44.951Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6810,6 +6810,19 @@
       "last_pushed_at": "2026-11-15T11:15:24.538Z",
       "language": "python",
       "lines": 78
+    },
+    "problem:2096": {
+      "kind": "problem",
+      "id": "2096",
+      "title": "Segment a String with a Trie: Count the Splits and the Fewest Words",
+      "difficulty": "hard",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/2096",
+      "path": "problems/2096-segment-a-string-with-a-trie-count-the-splits-and-the-fewest-words",
+      "first_solved_at": "2026-11-15T11:16:45.442Z",
+      "last_pushed_at": "2026-11-15T11:16:45.442Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
