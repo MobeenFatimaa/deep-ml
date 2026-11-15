@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:19:43.257Z",
+  "generated_at": "2026-11-15T11:20:42.333Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6849,6 +6849,19 @@
       "last_pushed_at": "2026-11-15T11:19:43.204Z",
       "language": "python",
       "lines": 38
+    },
+    "problem:2164": {
+      "kind": "problem",
+      "id": "2164",
+      "title": "Resumable Out-of-Core Group Statistics over Chunks",
+      "difficulty": "hard",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/2164",
+      "path": "problems/2164-resumable-out-of-core-group-statistics-over-chunks",
+      "first_solved_at": "2026-11-15T11:20:42.727Z",
+      "last_pushed_at": "2026-11-15T11:20:42.727Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }
