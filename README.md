@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**530** solved · 513 problems · 3 labs · 14 math
+**531** solved · 514 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -334,6 +334,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dynamic Channel Allocation with Afterstates](https://www.deep-ml.com/problems/621) | hard | 2026-10-28 | [solution](problems/0621-dynamic-channel-allocation-with-afterstates) |
 | [Emphatic Temporal Difference Learning for Off-Policy Evaluation](https://www.deep-ml.com/problems/568) | hard | 2026-10-19 | [solution](problems/0568-emphatic-temporal-difference-learning-for-off-policy-evaluation) |
 | [EnvPool-style Asynchronous Environment Pooling](https://www.deep-ml.com/problems/656) | hard | 2026-10-27 | [solution](problems/0656-envpool-style-asynchronous-environment-pooling) |
+| [Expected Steps Until an Urn Loses Its Colours](https://www.deep-ml.com/problems/2259) | hard | 2026-11-15 | [solution](problems/2259-expected-steps-until-an-urn-loses-its-colours) |
 | [Factor Analysis by EM](https://www.deep-ml.com/problems/1881) | hard | 2026-11-08 | [solution](problems/1881-factor-analysis-by-em) |
 | [FCFS Scheduling With All-or-Nothing Preemption](https://www.deep-ml.com/problems/2036) | hard | 2026-11-10 | [solution](problems/2036-fcfs-scheduling-with-all-or-nothing-preemption) |
 | [First-Visit Monte Carlo Control with Exploring Starts](https://www.deep-ml.com/problems/470) | hard | 2026-10-13 | [solution](problems/0470-first-visit-monte-carlo-control-with-exploring-starts) |

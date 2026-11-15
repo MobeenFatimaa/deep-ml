@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T11:20:42.333Z",
+  "generated_at": "2026-11-15T11:24:36.799Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6862,6 +6862,19 @@
       "last_pushed_at": "2026-11-15T11:20:42.727Z",
       "language": "python",
       "lines": 70
+    },
+    "problem:2259": {
+      "kind": "problem",
+      "id": "2259",
+      "title": "Expected Steps Until an Urn Loses Its Colours",
+      "difficulty": "hard",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/2259",
+      "path": "problems/2259-expected-steps-until-an-urn-loses-its-colours",
+      "first_solved_at": "2026-11-15T11:24:37.056Z",
+      "last_pushed_at": "2026-11-15T11:24:37.056Z",
+      "language": "python",
+      "lines": 65
     }
   }
 }
