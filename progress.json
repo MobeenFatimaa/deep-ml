@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:07:46.164Z",
+  "generated_at": "2026-11-16T10:08:51.485Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -7005,6 +7005,19 @@
       "last_pushed_at": "2026-11-16T10:07:45.342Z",
       "language": "python",
       "lines": 83
+    },
+    "problem:1669": {
+      "kind": "problem",
+      "id": "1669",
+      "title": "The Slingshot in One Dimension: A Margin Trained with AdamW",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1669",
+      "path": "problems/1669-the-slingshot-in-one-dimension-a-margin-trained-with-adamw",
+      "first_solved_at": "2026-11-16T10:08:50.851Z",
+      "last_pushed_at": "2026-11-16T10:08:50.851Z",
+      "language": "python",
+      "lines": 70
     }
   }
 }

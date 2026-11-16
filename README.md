@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**541** solved · 524 problems · 3 labs · 14 math
+**542** solved · 525 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -506,6 +506,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Temporal Abstraction with Options](https://www.deep-ml.com/problems/587) | hard | 2026-10-25 | [solution](problems/0587-temporal-abstraction-with-options) |
 | [Tensor Puzzle: Bucketize Values into Bins](https://www.deep-ml.com/problems/1288) | hard | 2026-11-02 | [solution](problems/1288-tensor-puzzle-bucketize-values-into-bins) |
 | [The NextLat Training Objective](https://www.deep-ml.com/problems/1375) | hard | 2026-10-30 | [solution](problems/1375-the-nextlat-training-objective) |
+| [The Slingshot in One Dimension: A Margin Trained with AdamW](https://www.deep-ml.com/problems/1669) | hard | 2026-11-16 | [solution](problems/1669-the-slingshot-in-one-dimension-a-margin-trained-with-adamw) |
 | [The TD Model of Classical Conditioning with a Complete Serial Compound](https://www.deep-ml.com/problems/1702) | hard | 2026-11-03 | [solution](problems/1702-the-td-model-of-classical-conditioning-with-a-complete-serial-compound) |
 | [Tinygrad: Build a Tiny GPT](https://www.deep-ml.com/problems/939) | hard | 2026-11-03 | [solution](problems/0939-tinygrad-build-a-tiny-gpt) |
 | [Tinygrad: Implement Multi-Head Self-Attention](https://www.deep-ml.com/problems/925) | hard | 2026-10-29 | [solution](problems/0925-tinygrad-implement-multi-head-self-attention) |
