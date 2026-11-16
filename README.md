@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**537** solved · 520 problems · 3 labs · 14 math
+**538** solved · 521 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -468,6 +468,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-10-18 | [solution](problems/0552-reinforce-with-value-baseline) |
 | [Relevance Vector Machine Regression by Type-II Maximum Likelihood](https://www.deep-ml.com/problems/1857) | hard | 2026-11-08 | [solution](problems/1857-relevance-vector-machine-regression-by-type-ii-maximum-likelihood) |
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-10-19 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
+| [Residual-Stream Decomposition in an Attention-Only Transformer](https://www.deep-ml.com/problems/1611) | hard | 2026-11-16 | [solution](problems/1611-residual-stream-decomposition-in-an-attention-only-transformer) |
 | [Resumable Out-of-Core Group Statistics over Chunks](https://www.deep-ml.com/problems/2164) | hard | 2026-11-15 | [solution](problems/2164-resumable-out-of-core-group-statistics-over-chunks) |
 | [Retrace(λ) Implementation](https://www.deep-ml.com/problems/582) | hard | 2026-10-22 | [solution](problems/0582-retrace-implementation) |
 | [Reverse-SDE and Probability-Flow ODE Samplers](https://www.deep-ml.com/problems/1559) | hard | 2026-11-16 | [solution](problems/1559-reverse-sde-and-probability-flow-ode-samplers) |
