@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**533** solved · 516 problems · 3 labs · 14 math
+**534** solved · 517 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -467,6 +467,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Residual Gradient Algorithm for Value Function Approximation](https://www.deep-ml.com/problems/577) | hard | 2026-10-19 | [solution](problems/0577-residual-gradient-algorithm-for-value-function-approximation) |
 | [Resumable Out-of-Core Group Statistics over Chunks](https://www.deep-ml.com/problems/2164) | hard | 2026-11-15 | [solution](problems/2164-resumable-out-of-core-group-statistics-over-chunks) |
 | [Retrace(λ) Implementation](https://www.deep-ml.com/problems/582) | hard | 2026-10-22 | [solution](problems/0582-retrace-implementation) |
+| [Reverse-SDE and Probability-Flow ODE Samplers](https://www.deep-ml.com/problems/1559) | hard | 2026-11-16 | [solution](problems/1559-reverse-sde-and-probability-flow-ode-samplers) |
 | [Rotary Position Embeddings (RoPE)](https://www.deep-ml.com/problems/1347) | hard | 2026-10-30 | [solution](problems/1347-rotary-position-embeddings-rope) |
 | [Sarsa(lambda) Algorithm with Eligibility Traces](https://www.deep-ml.com/problems/521) | hard | 2026-10-14 | [solution](problems/0521-sarsa-lambda-algorithm-with-eligibility-traces) |
 | [Score an Answer in Bits per Byte: Canonical vs Marginal](https://www.deep-ml.com/problems/1933) | hard | 2026-11-10 | [solution](problems/1933-score-an-answer-in-bits-per-byte-canonical-vs-marginal) |
