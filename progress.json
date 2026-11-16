@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:02:24.607Z",
+  "generated_at": "2026-11-16T10:03:34.310Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6927,6 +6927,19 @@
       "last_pushed_at": "2026-11-16T10:02:23.761Z",
       "language": "python",
       "lines": 122
+    },
+    "problem:1516": {
+      "kind": "problem",
+      "id": "1516",
+      "title": "Rangeify: Push an Output Index Back Through Movement Ops",
+      "difficulty": "hard",
+      "category": "Compilers",
+      "url": "https://www.deep-ml.com/problems/1516",
+      "path": "problems/1516-rangeify-push-an-output-index-back-through-movement-ops",
+      "first_solved_at": "2026-11-16T10:03:33.415Z",
+      "last_pushed_at": "2026-11-16T10:03:33.415Z",
+      "language": "python",
+      "lines": 123
     }
   }
 }

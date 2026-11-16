@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**535** solved · 518 problems · 3 labs · 14 math
+**536** solved · 519 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -461,6 +461,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-21 | [solution](problems/0201-qr-decomposition) |
 | [R-Learning for Average Reward](https://www.deep-ml.com/problems/540) | hard | 2026-10-21 | [solution](problems/0540-r-learning-for-average-reward) |
 | [Rainbow DQN Implementation](https://www.deep-ml.com/problems/593) | hard | 2026-10-22 | [solution](problems/0593-rainbow-dqn-implementation) |
+| [Rangeify: Push an Output Index Back Through Movement Ops](https://www.deep-ml.com/problems/1516) | hard | 2026-11-16 | [solution](problems/1516-rangeify-push-an-output-index-back-through-movement-ops) |
 | [RANSAC Homography with Inlier Counting and Refit](https://www.deep-ml.com/problems/1954) | hard | 2026-11-09 | [solution](problems/1954-ransac-homography-with-inlier-counting-and-refit) |
 | [REINFORCE with Baseline: Episode Update](https://www.deep-ml.com/problems/481) | hard | 2026-10-13 | [solution](problems/0481-reinforce-with-baseline-episode-update) |
 | [REINFORCE with Value Baseline](https://www.deep-ml.com/problems/552) | hard | 2026-10-18 | [solution](problems/0552-reinforce-with-value-baseline) |
