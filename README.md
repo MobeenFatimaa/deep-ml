@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**531** solved · 514 problems · 3 labs · 14 math
+**532** solved · 515 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -239,6 +239,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-09-16 | [solution](problems/1227-numerically-stable-softmax) |
 | [Optical Flow EPE with Masks (OmniWorld-style metric)](https://www.deep-ml.com/problems/185) | medium | 2026-10-06 | [solution](problems/0185-optical-flow-epe-with-masks-omniworld-style-metric) |
 | [Optimal String Alignment Distance](https://www.deep-ml.com/problems/51) | medium | 2026-09-29 | [solution](problems/0051-optimal-string-alignment-distance) |
+| [Order-n Polynomial Basis for Value Prediction](https://www.deep-ml.com/problems/1690) | medium | 2026-11-16 | [solution](problems/1690-order-n-polynomial-basis-for-value-prediction) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-09-26 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-11-14 | [solution](problems/0190-overlapping-max-pooling) |
 | [Parallel Reduction (Block Sum) CUDA Kernel](https://www.deep-ml.com/problems/1189) | medium | 2026-11-03 | [solution](problems/1189-parallel-reduction-block-sum-cuda-kernel) |
