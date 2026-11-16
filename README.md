@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**539** solved · 522 problems · 3 labs · 14 math
+**540** solved · 523 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -359,6 +359,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Group Lasso by Proximal Gradient, Then Debias](https://www.deep-ml.com/problems/1819) | hard | 2026-11-05 | [solution](problems/1819-group-lasso-by-proximal-gradient-then-debias) |
 | [GSPO: Group Sequence Policy Optimization](https://www.deep-ml.com/problems/209) | hard | 2026-10-11 | [solution](problems/0209-gspo-group-sequence-policy-optimization) |
 | [Hashing for Memory-Efficient Tile Coding](https://www.deep-ml.com/problems/601) | hard | 2026-10-27 | [solution](problems/0601-hashing-for-memory-efficient-tile-coding) |
+| [Heun Sampler and NFE Accounting for Diffusion ODEs](https://www.deep-ml.com/problems/1566) | hard | 2026-11-16 | [solution](problems/1566-heun-sampler-and-nfe-accounting-for-diffusion-odes) |
 | [Hierarchical Softmax Over a Huffman Tree](https://www.deep-ml.com/problems/1812) | hard | 2026-11-05 | [solution](problems/1812-hierarchical-softmax-over-a-huffman-tree) |
 | [HNSW Search: Greedy Descent Through the Upper Layers, Beam Search at the Bottom](https://www.deep-ml.com/problems/2205) | hard | 2026-11-15 | [solution](problems/2205-hnsw-search-greedy-descent-through-the-upper-layers-beam-search-at-the-bottom) |
 | [Hungarian Matching for DETR-Style Set Prediction](https://www.deep-ml.com/problems/1964) | hard | 2026-11-09 | [solution](problems/1964-hungarian-matching-for-detr-style-set-prediction) |

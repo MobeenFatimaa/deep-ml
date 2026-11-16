@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:06:08.643Z",
+  "generated_at": "2026-11-16T10:07:00.987Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6979,6 +6979,19 @@
       "last_pushed_at": "2026-11-16T10:06:07.959Z",
       "language": "python",
       "lines": 74
+    },
+    "problem:1566": {
+      "kind": "problem",
+      "id": "1566",
+      "title": "Heun Sampler and NFE Accounting for Diffusion ODEs",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1566",
+      "path": "problems/1566-heun-sampler-and-nfe-accounting-for-diffusion-odes",
+      "first_solved_at": "2026-11-16T10:07:00.111Z",
+      "last_pushed_at": "2026-11-16T10:07:00.111Z",
+      "language": "python",
+      "lines": 79
     }
   }
 }
