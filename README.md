@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**544** solved · 527 problems · 3 labs · 14 math
+**545** solved · 528 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -325,6 +325,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Cox Proportional Hazards: Partial Likelihood, Gradient and Fit](https://www.deep-ml.com/problems/1423) | hard | 2026-11-02 | [solution](problems/1423-cox-proportional-hazards-partial-likelihood-gradient-and-fit) |
 | [CTC Loss from Scratch: The Blank-Extended Forward Algorithm in Log Space](https://www.deep-ml.com/problems/2215) | hard | 2026-11-15 | [solution](problems/2215-ctc-loss-from-scratch-the-blank-extended-forward-algorithm-in-log-space) |
 | [DDIM with Stochasticity and Step Skipping](https://www.deep-ml.com/problems/1563) | hard | 2026-11-16 | [solution](problems/1563-ddim-with-stochasticity-and-step-skipping) |
+| [DDPM Posterior and the Per-Step KL](https://www.deep-ml.com/problems/1556) | hard | 2026-11-16 | [solution](problems/1556-ddpm-posterior-and-the-per-step-kl) |
 | [Decision Tree Learning](https://www.deep-ml.com/problems/20) | hard | 2026-09-27 | [solution](problems/0020-decision-tree-learning) |
 | [Deep Q-Network Implementation](https://www.deep-ml.com/problems/551) | hard | 2026-10-18 | [solution](problems/0551-deep-q-network-implementation) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-09-25 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
