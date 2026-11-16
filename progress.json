@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:03:34.310Z",
+  "generated_at": "2026-11-16T10:04:18.173Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6940,6 +6940,19 @@
       "last_pushed_at": "2026-11-16T10:03:33.415Z",
       "language": "python",
       "lines": 123
+    },
+    "problem:1549": {
+      "kind": "problem",
+      "id": "1549",
+      "title": "Batched Multi-Head Cross-Attention with Source Padding",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1549",
+      "path": "problems/1549-batched-multi-head-cross-attention-with-source-padding",
+      "first_solved_at": "2026-11-16T10:04:17.560Z",
+      "last_pushed_at": "2026-11-16T10:04:17.560Z",
+      "language": "python",
+      "lines": 61
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**536** solved · 519 problems · 3 labs · 14 math
+**537** solved · 520 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -298,6 +298,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Average-Reward Actor–Critic for a Continuing Task](https://www.deep-ml.com/problems/1700) | hard | 2026-11-05 | [solution](problems/1700-average-reward-actor-critic-for-a-continuing-task) |
 | [B-Spline Basis by the Cox-de Boor Recursion and Spline Regression](https://www.deep-ml.com/problems/1822) | hard | 2026-11-05 | [solution](problems/1822-b-spline-basis-by-the-cox-de-boor-recursion-and-spline-regression) |
 | [Backgammon with TD Learning](https://www.deep-ml.com/problems/579) | hard | 2026-10-23 | [solution](problems/0579-backgammon-with-td-learning) |
+| [Batched Multi-Head Cross-Attention with Source Padding](https://www.deep-ml.com/problems/1549) | hard | 2026-11-16 | [solution](problems/1549-batched-multi-head-cross-attention-with-source-padding) |
 | [Bayes Rule for Linear Gaussian Systems: Posterior and Evidence](https://www.deep-ml.com/problems/1727) | hard | 2026-11-05 | [solution](problems/1727-bayes-rule-for-linear-gaussian-systems-posterior-and-evidence) |
 | [Beam Search with Memory-Efficient Block Sharing](https://www.deep-ml.com/problems/496) | hard | 2026-09-29 | [solution](problems/0496-beam-search-with-memory-efficient-block-sharing) |
 | [Bellman Error Minimization with Linear Function Approximation](https://www.deep-ml.com/problems/649) | hard | 2026-10-28 | [solution](problems/0649-bellman-error-minimization-with-linear-function-approximation) |
