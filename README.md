@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**534** solved · 517 problems · 3 labs · 14 math
+**535** solved · 518 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -404,6 +404,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Covariance Shrinkage](https://www.deep-ml.com/problems/1355) | hard | 2026-11-03 | [solution](problems/1355-linear-covariance-shrinkage) |
 | [Linear Sarsa Algorithm](https://www.deep-ml.com/problems/534) | hard | 2026-10-16 | [solution](problems/0534-linear-sarsa-algorithm) |
 | [Llama 3 RoPE Frequency Scaling](https://www.deep-ml.com/problems/1025) | hard | 2026-10-29 | [solution](problems/1025-llama-3-rope-frequency-scaling) |
+| [Loop Nest Codegen for a Reduction: Render, Compile, Run](https://www.deep-ml.com/problems/1520) | hard | 2026-11-16 | [solution](problems/1520-loop-nest-codegen-for-a-reduction-render-compile-run) |
 | [LSTM Backpropagation Through Time by Hand](https://www.deep-ml.com/problems/1429) | hard | 2026-11-05 | [solution](problems/1429-lstm-backpropagation-through-time-by-hand) |
 | [MAML for Linear-Regression Tasks with an Exact Meta-Gradient](https://www.deep-ml.com/problems/1877) | hard | 2026-11-09 | [solution](problems/1877-maml-for-linear-regression-tasks-with-an-exact-meta-gradient) |
 | [Manual Backprop Through Cross-Entropy Intermediates](https://www.deep-ml.com/problems/997) | hard | 2026-10-22 | [solution](problems/0997-manual-backprop-through-cross-entropy-intermediates) |
