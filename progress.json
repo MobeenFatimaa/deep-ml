@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:05:12.897Z",
+  "generated_at": "2026-11-16T10:06:08.643Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -6966,6 +6966,19 @@
       "last_pushed_at": "2026-11-16T10:05:12.116Z",
       "language": "python",
       "lines": 69
+    },
+    "problem:1618": {
+      "kind": "problem",
+      "id": "1618",
+      "title": "Activation Patching Grid with a Logit-Difference Metric",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1618",
+      "path": "problems/1618-activation-patching-grid-with-a-logit-difference-metric",
+      "first_solved_at": "2026-11-16T10:06:07.959Z",
+      "last_pushed_at": "2026-11-16T10:06:07.959Z",
+      "language": "python",
+      "lines": 74
     }
   }
 }
