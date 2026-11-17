@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**546** solved · 529 problems · 3 labs · 14 math
+**547** solved · 530 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -249,6 +249,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Post-Training Quantization with Per-Channel Scale Factors](https://www.deep-ml.com/problems/426) | medium | 2026-09-23 | [solution](problems/0426-post-training-quantization-with-per-channel-scale-factors) |
 | [Power Users With Purchases in Every Month of the Year](https://www.deep-ml.com/problems/1462) | medium | 2026-10-06 | [solution](problems/1462-power-users-with-purchases-in-every-month-of-the-year) |
 | [Principal Component Analysis (PCA) Implementation](https://www.deep-ml.com/problems/19) | medium | 2026-09-27 | [solution](problems/0019-principal-component-analysis-pca-implementation) |
+| [Product Rule for Derivatives](https://www.deep-ml.com/problems/309) | medium | 2026-11-17 | [solution](problems/0309-product-rule-for-derivatives) |
 | [Quantization Quality Check via Perplexity Delta](https://www.deep-ml.com/problems/429) | medium | 2026-10-16 | [solution](problems/0429-quantization-quality-check-via-perplexity-delta) |
 | [Quantization Quality Check: KL Divergence and Top-1 Agreement](https://www.deep-ml.com/problems/1437) | medium | 2026-11-06 | [solution](problems/1437-quantization-quality-check-kl-divergence-and-top-1-agreement) |
 | [Quantization Scale Calibration (AbsMax and Percentile)](https://www.deep-ml.com/problems/1255) | medium | 2026-09-23 | [solution](problems/1255-quantization-scale-calibration-absmax-and-percentile) |
