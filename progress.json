@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:25:41.626Z",
+  "generated_at": "2026-11-18T06:26:40.435Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -7148,6 +7148,19 @@
       "last_pushed_at": "2026-11-18T06:25:41.904Z",
       "language": "python",
       "lines": 54
+    },
+    "problem:1938": {
+      "kind": "problem",
+      "id": "1938",
+      "title": "BLT-Like Entropy Chunking: Bisect the Threshold to a Target Compression",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1938",
+      "path": "problems/1938-blt-like-entropy-chunking-bisect-the-threshold-to-a-target-compression",
+      "first_solved_at": "2026-11-18T06:26:40.741Z",
+      "last_pushed_at": "2026-11-18T06:26:40.741Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }
