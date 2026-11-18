@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:24:42.652Z",
+  "generated_at": "2026-11-18T06:25:41.626Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -7135,6 +7135,19 @@
       "last_pushed_at": "2026-11-18T06:24:43.040Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:229": {
+      "kind": "problem",
+      "id": "229",
+      "title": "Sparse MoE Top-K Routing",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/229",
+      "path": "problems/0229-sparse-moe-top-k-routing",
+      "first_solved_at": "2026-11-18T06:25:41.904Z",
+      "last_pushed_at": "2026-11-18T06:25:41.904Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
