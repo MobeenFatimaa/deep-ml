@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:24:01.752Z",
+  "generated_at": "2026-11-18T06:24:42.652Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -7122,6 +7122,19 @@
       "last_pushed_at": "2026-11-18T06:24:01.797Z",
       "language": "python",
       "lines": 33
+    },
+    "problem:203": {
+      "kind": "problem",
+      "id": "203",
+      "title": "Jensen-Shannon Divergence",
+      "difficulty": "medium",
+      "category": "Information Theory",
+      "url": "https://www.deep-ml.com/problems/203",
+      "path": "problems/0203-jensen-shannon-divergence",
+      "first_solved_at": "2026-11-18T06:24:43.040Z",
+      "last_pushed_at": "2026-11-18T06:24:43.040Z",
+      "language": "python",
+      "lines": 34
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**550** solved · 533 problems · 3 labs · 14 math
+**551** solved · 534 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -224,6 +224,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implementing ROUGE Score](https://www.deep-ml.com/problems/152) | medium | 2026-11-10 | [solution](problems/0152-implementing-rouge-score) |
 | [Instance Normalization (IN) Implementation](https://www.deep-ml.com/problems/143) | medium | 2026-11-01 | [solution](problems/0143-instance-normalization-in-implementation) |
 | [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-11-18 | [solution](problems/0202-jacobian-matrix-calculation) |
+| [Jensen-Shannon Divergence](https://www.deep-ml.com/problems/203) | medium | 2026-11-18 | [solution](problems/0203-jensen-shannon-divergence) |
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-09-27 | [solution](problems/0017-k-means-clustering) |
 | [Knapsack-Based ZeRO Bucket Assignment](https://www.deep-ml.com/problems/741) | medium | 2026-09-30 | [solution](problems/0741-knapsack-based-zero-bucket-assignment) |
 | [Lazy Teacher Logit Reconstruction from Cached Hidden States](https://www.deep-ml.com/problems/746) | medium | 2026-09-30 | [solution](problems/0746-lazy-teacher-logit-reconstruction-from-cached-hidden-states) |
