@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:37:44.974Z",
+  "generated_at": "2026-11-19T10:38:48.510Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -7187,6 +7187,19 @@
       "last_pushed_at": "2026-11-19T10:37:45.708Z",
       "language": "python",
       "lines": 64
+    },
+    "problem:1972": {
+      "kind": "problem",
+      "id": "1972",
+      "title": "Swin Transformer: Window Partition, Shifted-Window Mask and Window Attention",
+      "difficulty": "hard",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/1972",
+      "path": "problems/1972-swin-transformer-window-partition-shifted-window-mask-and-window-attention",
+      "first_solved_at": "2026-11-19T10:38:49.207Z",
+      "last_pushed_at": "2026-11-19T10:38:49.207Z",
+      "language": "python",
+      "lines": 74
     }
   }
 }
