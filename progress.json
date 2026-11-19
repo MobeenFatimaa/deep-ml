@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T06:27:26.077Z",
+  "generated_at": "2026-11-19T10:37:44.974Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -7174,6 +7174,19 @@
       "last_pushed_at": "2026-11-18T06:27:26.510Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:638": {
+      "kind": "problem",
+      "id": "638",
+      "title": "Random Sample Greedy Search",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/638",
+      "path": "problems/0638-random-sample-greedy-search",
+      "first_solved_at": "2026-11-19T10:37:45.708Z",
+      "last_pushed_at": "2026-11-19T10:37:45.708Z",
+      "language": "python",
+      "lines": 64
     }
   }
 }
