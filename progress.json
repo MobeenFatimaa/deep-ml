@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T13:14:54.665Z",
+  "generated_at": "2026-11-19T13:25:39.476Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -7213,6 +7213,19 @@
       "last_pushed_at": "2026-11-19T13:14:55.499Z",
       "language": "python",
       "lines": 73
+    },
+    "problem:2045": {
+      "kind": "problem",
+      "id": "2045",
+      "title": "Attribution Graph Edges in a Local Replacement Model",
+      "difficulty": "hard",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/2045",
+      "path": "problems/2045-attribution-graph-edges-in-a-local-replacement-model",
+      "first_solved_at": "2026-11-19T13:25:39.957Z",
+      "last_pushed_at": "2026-11-19T13:25:39.957Z",
+      "language": "python",
+      "lines": 118
     }
   }
 }

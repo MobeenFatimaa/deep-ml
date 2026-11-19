@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**557** solved · 540 problems · 3 labs · 14 math
+**558** solved · 541 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -305,6 +305,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Assemble One Dynamic Chunking Stage](https://www.deep-ml.com/problems/1912) | hard | 2026-11-10 | [solution](problems/1912-assemble-one-dynamic-chunking-stage) |
 | [Asynchronous Advantage Actor-Critic (A3C)](https://www.deep-ml.com/problems/594) | hard | 2026-10-22 | [solution](problems/0594-asynchronous-advantage-actor-critic-a3c) |
 | [Asynchronous PPO Training Pipeline](https://www.deep-ml.com/problems/664) | hard | 2026-10-29 | [solution](problems/0664-asynchronous-ppo-training-pipeline) |
+| [Attribution Graph Edges in a Local Replacement Model](https://www.deep-ml.com/problems/2045) | hard | 2026-11-19 | [solution](problems/2045-attribution-graph-edges-in-a-local-replacement-model) |
 | [Automatic Relevance Determination by Evidence Maximization](https://www.deep-ml.com/problems/1821) | hard | 2026-11-05 | [solution](problems/1821-automatic-relevance-determination-by-evidence-maximization) |
 | [Average-Reward Actor–Critic for a Continuing Task](https://www.deep-ml.com/problems/1700) | hard | 2026-11-05 | [solution](problems/1700-average-reward-actor-critic-for-a-continuing-task) |
 | [B-Spline Basis by the Cox-de Boor Recursion and Spline Regression](https://www.deep-ml.com/problems/1822) | hard | 2026-11-05 | [solution](problems/1822-b-spline-basis-by-the-cox-de-boor-recursion-and-spline-regression) |
