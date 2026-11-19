@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T10:38:48.510Z",
+  "generated_at": "2026-11-19T13:14:54.665Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -7200,6 +7200,19 @@
       "last_pushed_at": "2026-11-19T10:38:49.207Z",
       "language": "python",
       "lines": 74
+    },
+    "problem:1982": {
+      "kind": "problem",
+      "id": "1982",
+      "title": "Quantile Balancing: Solve for the Per-Expert Bias from Score Quantiles, Average, Smooth and Re-Center",
+      "difficulty": "hard",
+      "category": "Mixture of Experts",
+      "url": "https://www.deep-ml.com/problems/1982",
+      "path": "problems/1982-quantile-balancing-solve-for-the-per-expert-bias-from-score-quantiles-average-smooth-and-re-center",
+      "first_solved_at": "2026-11-19T13:14:55.499Z",
+      "last_pushed_at": "2026-11-19T13:14:55.499Z",
+      "language": "python",
+      "lines": 73
     }
   }
 }

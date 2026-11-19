@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**556** solved · 539 problems · 3 labs · 14 math
+**557** solved · 540 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -476,6 +476,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Q(lambda) with Eligibility Traces](https://www.deep-ml.com/problems/522) | hard | 2026-10-14 | [solution](problems/0522-q-lambda-with-eligibility-traces) |
 | [Q(σ) Unified Algorithm](https://www.deep-ml.com/problems/583) | hard | 2026-10-25 | [solution](problems/0583-q-unified-algorithm) |
 | [QR Decomposition](https://www.deep-ml.com/problems/201) | hard | 2026-10-21 | [solution](problems/0201-qr-decomposition) |
+| [Quantile Balancing: Solve for the Per-Expert Bias from Score Quantiles, Average, Smooth and Re-Center](https://www.deep-ml.com/problems/1982) | hard | 2026-11-19 | [solution](problems/1982-quantile-balancing-solve-for-the-per-expert-bias-from-score-quantiles-average-smooth-and-re-center) |
 | [R-Learning for Average Reward](https://www.deep-ml.com/problems/540) | hard | 2026-10-21 | [solution](problems/0540-r-learning-for-average-reward) |
 | [Rainbow DQN Implementation](https://www.deep-ml.com/problems/593) | hard | 2026-10-22 | [solution](problems/0593-rainbow-dqn-implementation) |
 | [Rangeify: Push an Output Index Back Through Movement Ops](https://www.deep-ml.com/problems/1516) | hard | 2026-11-16 | [solution](problems/1516-rangeify-push-an-output-index-back-through-movement-ops) |
