@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:30:18.116Z",
+  "generated_at": "2026-11-20T02:31:28.555Z",
   "items": {
     "problem:549": {
       "kind": "problem",
@@ -7278,6 +7278,19 @@
       "last_pushed_at": "2026-11-20T02:30:19.180Z",
       "language": "python",
       "lines": 51
+    },
+    "problem:1262": {
+      "kind": "problem",
+      "id": "1262",
+      "title": "Identity Preference Optimization (IPO) Loss",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1262",
+      "path": "problems/1262-identity-preference-optimization-ipo-loss",
+      "first_solved_at": "2026-11-20T02:31:29.851Z",
+      "last_pushed_at": "2026-11-20T02:31:29.851Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
