@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**559** solved · 542 problems · 3 labs · 14 math
+**560** solved · 543 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -132,6 +132,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Block-wise FP8 Quantization](https://www.deep-ml.com/problems/234) | medium | 2026-10-16 | [solution](problems/0234-block-wise-fp8-quantization) |
 | [BLT-Like Entropy Chunking: Bisect the Threshold to a Target Compression](https://www.deep-ml.com/problems/1938) | medium | 2026-11-18 | [solution](problems/1938-blt-like-entropy-chunking-bisect-the-threshold-to-a-target-compression) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-11-01 | [solution](problems/0090-bm25-ranking) |
+| [Budget-Constrained RL Loss](https://www.deep-ml.com/problems/228) | medium | 2026-11-20 | [solution](problems/0228-budget-constrained-rl-loss) |
 | [Build a Simple ETL Pipeline (MLOps)](https://www.deep-ml.com/problems/187) | medium | 2026-10-01 | [solution](problems/0187-build-a-simple-etl-pipeline-mlops) |
 | [Build AlphaZero Training Targets from Self-Play](https://www.deep-ml.com/problems/979) | medium | 2026-10-01 | [solution](problems/0979-build-alphazero-training-targets-from-self-play) |
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-10-26 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
