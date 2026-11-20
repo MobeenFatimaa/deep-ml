@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**558** solved · 541 problems · 3 labs · 14 math
+**559** solved · 542 problems · 3 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -121,6 +121,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Analyze Canary Deployment Health for Model Rollout](https://www.deep-ml.com/problems/251) | medium | 2026-10-08 | [solution](problems/0251-analyze-canary-deployment-health-for-model-rollout) |
 | [Apriori Frequent Itemset Mining](https://www.deep-ml.com/problems/144) | medium | 2026-11-07 | [solution](problems/0144-apriori-frequent-itemset-mining) |
 | [Asymmetric Uniform Quantization with Zero-Point](https://www.deep-ml.com/problems/1254) | medium | 2026-09-23 | [solution](problems/1254-asymmetric-uniform-quantization-with-zero-point) |
+| [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-11-20 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
 | [Bellman Expectation Equation for Action-Value Function](https://www.deep-ml.com/problems/465) | medium | 2026-10-31 | [solution](problems/0465-bellman-expectation-equation-for-action-value-function) |
 | [Bernoulli Naive Bayes Classifier](https://www.deep-ml.com/problems/140) | medium | 2026-11-09 | [solution](problems/0140-bernoulli-naive-bayes-classifier) |
 | [Best Meeting Point on a 2D Grid](https://www.deep-ml.com/problems/1085) | medium | 2026-09-24 | [solution](problems/1085-best-meeting-point-on-a-2d-grid) |
